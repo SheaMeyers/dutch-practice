@@ -1,0 +1,21 @@
+.Prepositions {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Choices {
+    width: 100%;
+    padding: 0 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Choices__Button {
+    width: 100%;
+    margin: 3vh;
+}
