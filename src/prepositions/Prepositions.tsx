@@ -47,7 +47,6 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
         case 'nextQuestion':
             return { questionNumber: state.questionNumber+1, answer: '' }
         case 'giveAnswer':
-            console.log(`Got answer: ${action.payload}`)
             return { questionNumber: state.questionNumber, answer: action.payload }
         default:
             return state
@@ -63,7 +62,6 @@ const Prepositions = () => {
     <div className="Prepositions">
       <p>Choose the correct preposition for the verb</p>
       <p className="h3 Verb">{questions[questionNumber].word}</p>
-      <p>Your answer: {answer}.  Correct answer: {questions[questionNumber].answer}</p>
       <div className="Choices">
         {questions[questionNumber].options.map(option => 
             <button 
@@ -76,6 +74,12 @@ const Prepositions = () => {
             </button>
         )}
       </div>
+      {answer ?
+        answer === questions[questionNumber].answer ?
+            <p>Correct!</p> :
+            <p>Unfortunate.  Your answer: {answer}.  Correct answer: {questions[questionNumber].answer}</p>
+      :
+      <></>}
       <div className="Navigator">
             <button
                 disabled={!answer || questionNumber === 0}
