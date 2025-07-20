@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useReducer } from 'react';
 import "./Prepositions.css";
 
 interface Question {
@@ -25,9 +25,38 @@ const questions: Question[] = [
     }
 ]
 
+type PrepositionsState = {
+  questionNumber: number;
+  answer: string;
+};
+
+type DispatcherActions =
+  | { type: 'previousQuestion' }
+  | { type: 'nextQuestion' }
+  | { type: 'giveAnswer', payload: string };
+
+const initialState: PrepositionsState = {
+    questionNumber: 0,
+    answer: ''
+}
+
+const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions): PrepositionsState => {
+    switch(action.type) {
+        case 'previousQuestion':
+            return { questionNumber: state.questionNumber-1, answer: '' }
+        case 'nextQuestion':
+            return { questionNumber: state.questionNumber+1, answer: '' }
+        case 'giveAnswer':
+            return { questionNumber: state.questionNumber, answer: action.payload }
+        default:
+            return state
+    }
+}
+
 const Prepositions = () => {
 
-    const [questionNumber, setQuestionNumber] = useState<number>(0);
+    const [prepositionsState, dispatch] = useReducer(prepositionsReducer, initialState)
+    const { questionNumber, answer } = prepositionsState
 
   return (
     <div className="Prepositions">
@@ -36,8 +65,10 @@ const Prepositions = () => {
       <div className="Choices">
         {questions[questionNumber].options.map(option => 
             <button 
-                className="btn btn-light Choices__Button" 
+                className={`btn Choices__Button ${!answer ? 'btn-light' : answer === option ? 'btn-success' : 'btn-danger' }`}
                 type="button"
+                disabled={!!answer}
+                onClick={() => dispatch({ type: 'giveAnswer', payload: questions[questionNumber].answer })}
             >
                 {option}
             </button>
@@ -45,18 +76,18 @@ const Prepositions = () => {
       </div>
       <div className="Navigator">
             <button
-                disabled={questionNumber === 0}
+                disabled={!answer || questionNumber === 0}
                 className="btn btn-secondary" 
                 type="button"
-                onClick={() => setQuestionNumber(questionNumber-1)}
+                onClick={() => dispatch({ type: 'previousQuestion'})}
             >
                 Previous
             </button>
             <button
-                disabled={questionNumber === (questions.length-1)}
+                disabled={!answer || questionNumber === (questions.length-1)}
                 className="btn btn-primary" 
                 type="button"
-                onClick={() => setQuestionNumber(questionNumber+1)}
+                onClick={() => dispatch({ type: 'nextQuestion'})}
             >
                 Next
             </button>
