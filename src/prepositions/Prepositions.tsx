@@ -3,24 +3,30 @@ import "./Prepositions.css";
 
 interface Question {
   word: string;
-  options: string[];
   answer: string;
+}
+
+const options: string[] = [
+    'in', 'naast', 'langs', 'bij', 'rond', 
+    'tot', 'door', 'op.', 'onder', 'van', 
+    'tegen', 'uit', 'over', 'om', 'spuiten', 
+    'aan', 'met', 'op', 'naar', 'voor']
+
+const getOptions = (): string[] => {
+    return ['', '', '', '']
 }
 
 const questions: Question[] = [
     {
         word: 'aanbeiden',
-        options: ['op', 'aan', 'bij', 'met'],
         answer: 'aan'
     },
     {
         word: 'aandringen',
-        options: ['op', 'aan', 'bij', 'met'],
         answer: 'op'
     },
     {
         word: 'aankleden',
-        options: ['op', 'aan', 'bij', 'met'],
         answer: 'met'
     }
 ]
