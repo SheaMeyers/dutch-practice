@@ -12,8 +12,22 @@ const options: string[] = [
     'tegen', 'uit', 'over', 'om', 'spuiten', 
     'aan', 'met', 'op', 'naar', 'voor']
 
-const getOptions = (): string[] => {
-    return ['', '', '', '']
+const getOptions = (correctAnswer: string): string[] => {
+    const retrievedOptions: string[] = []
+
+    // Get three random options
+    while (retrievedOptions.length < 3) {
+        var optionIndex = Math.random() * (options.length - 2)
+        if (!retrievedOptions.includes(options[optionIndex])) {
+            retrievedOptions.push(options[optionIndex])
+        }
+    }
+
+    // Put the correct answer at a random spot
+    var randomIndex = Math.random() * 4
+    retrievedOptions.splice(randomIndex, 0, correctAnswer)
+
+    return retrievedOptions
 }
 
 const questions: Question[] = [
@@ -69,7 +83,7 @@ const Prepositions = () => {
       <p>Choose the correct preposition for the verb</p>
       <p className="h3 Verb">{questions[questionNumber].word}</p>
       <div className="Choices">
-        {questions[questionNumber].options.map(option => 
+        {getOptions(questions[questionNumber].answer).map(option => 
             <button 
                 className={`btn Choices__Button ${!answer && 'btn-light'} ${answer === option ? 'btn-lg' : 'btn-sm'} ${answer && option === questions[questionNumber].answer ? 'btn-success' : 'btn-danger'}`}
                 type="button"
