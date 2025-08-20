@@ -49,8 +49,9 @@ const questions: Question[] = [
 ]
 
 type PrepositionsState = {
-  questionNumber: number;
-  answer: string;
+  options: string[]
+  questionNumber: number
+  answer: string
 };
 
 type DispatcherActions =
@@ -59,6 +60,7 @@ type DispatcherActions =
   | { type: 'giveAnswer', payload: string };
 
 const initialState: PrepositionsState = {
+    options: getOptions(questions[0].answer),
     questionNumber: 0,
     answer: ''
 }
@@ -66,11 +68,11 @@ const initialState: PrepositionsState = {
 const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions): PrepositionsState => {
     switch(action.type) {
         case 'previousQuestion':
-            return { questionNumber: state.questionNumber-1, answer: '' }
+            return { questionNumber: state.questionNumber-1, answer: '', options: getOptions(questions[state.questionNumber-1].answer) }
         case 'nextQuestion':
-            return { questionNumber: state.questionNumber+1, answer: '' }
+            return { questionNumber: state.questionNumber+1, answer: '', options: getOptions(questions[state.questionNumber+1].answer) }
         case 'giveAnswer':
-            return { questionNumber: state.questionNumber, answer: action.payload }
+            return { questionNumber: state.questionNumber, answer: action.payload, options: state.options }
         default:
             return state
     }
@@ -79,14 +81,14 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
 const Prepositions = () => {
 
     const [prepositionsState, dispatch] = useReducer(prepositionsReducer, initialState)
-    const { questionNumber, answer } = prepositionsState
+    const { options, questionNumber, answer } = prepositionsState
 
   return (
     <div className="Prepositions">
       <p>Choose the correct preposition for the verb</p>
       <p className="h3 Verb">{questions[questionNumber].word}</p>
       <div className="Choices">
-        {getOptions(questions[questionNumber].answer).map(option => 
+        {options.map(option => 
             <button 
                 className={`btn Choices__Button ${!answer && 'btn-light'} ${answer === option ? 'btn-lg' : 'btn-sm'} ${answer && option === questions[questionNumber].answer ? 'btn-success' : 'btn-danger'}`}
                 type="button"
