@@ -1,0 +1,4937 @@
+[
+    {
+        "word": "aanbieden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "aandacht vestigen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "aandeel hebben",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "aandringen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "aankleden",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "aankomen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "aankomen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanleiding geven",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "in aanmerking komen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanmerking maken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanmoedigen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) aanpassen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "zich aansluiten",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanspraak maken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "aansprakelijk zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "aansluiten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanvragen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanwijzen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanzet geven",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanzetten",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "aanzitten",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "aarzelen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "abonneren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "acht slaan",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "achterblijven",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "achterlaten",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "achtervolgen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "adviseren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "adviseren",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "afbrengen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afgaan",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "afgeven",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "afhangen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afhankelijk zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afhelpen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afkomen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "afleggen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "afleiden",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "afleiden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "aflopen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "afnemen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afrekenen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "afsnijden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afspreken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "afstammen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afstemmen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "afstand doen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afvegen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "afwachten",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "afwijken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "afzien",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "akkoord gaan",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "amuseren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "antwoorden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "antwoorden",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "antwoord geven",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "arriveren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "arriveren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "attent zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "babbelen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "baden",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "bang zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "bang zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "baseren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "beantwoorden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "bedacht zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "bedekken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) bedienen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "bedriegen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "begerig zijn",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "begeven",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "begiftigd zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "beginnen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "beginnen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "behandelen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "behoefte hebben",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "behoren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "behoren",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "behouden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "bekend zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "bekendmaken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "beklagen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) bekommeren",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) bekommeren",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "belanden",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "belangstelling hebben",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "belasten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "beledigen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "belemmeren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "bellen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "beloven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) bemoeien",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "benaderen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "benieuwd zijn",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "beperken",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "beroemen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "beroepen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "berusten",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "beschuldigen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "besluiten",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "besparen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "bestaan",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "bestand zijn",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "besteden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "bestellen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "bestemd zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "bestrijden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "betalen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "betalen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "iets betekenen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "betogen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "betrappen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "betrekken",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "beveiligen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "bevinden",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "bevredigen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "bevreesd zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "bevriend zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "bevrijden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "bewaren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "bewaren",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "bewegen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "bewegen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "bewust zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "bezeten zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "bezig houden",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "bezig zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "in het bezit zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "bezorgd zijn",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "bezorgd zijn",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "bezuinigen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "bidden",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "bieden",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "bijdragen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "bijdragen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "binden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "binnendringen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "bladeren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "blaffen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "blij zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "blijken",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "blijven",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "blijven",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "bonken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "bonken",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "bonzen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "bonzen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "boos zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "boren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "boren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "botsen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "botsen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "bouwen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "bouwen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "breken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "brengen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "brengen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "brullen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "buigen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "buigen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "buigen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "bukken",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "combineren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "commentaar hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "commentaar leveren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "zich concentreren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "condoleren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "concluderen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "confronteren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "dalen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "dalen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "danken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "danken",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "dankbaar zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "dansen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "deelnemen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "deelneming betuigen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "delen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "delen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "delen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "demonstreren",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "demonstreren",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "denken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "denken",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "denken",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "dienen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "dienen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "discussiëren",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "doelen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "dol zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "doorbreken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "doorbrengen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "doorbrengen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "doorbrengen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "doordringen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "doorgaan",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "doorgeven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "doorlopen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "doorlopen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "draaien",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "draaien",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "dragen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "dreigen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "drijven",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "drijven",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "drijven",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "dromen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "drukken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "duren",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "dwalen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "dwepen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "dwingen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "(het) eens zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "eindigen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "eindigen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "eindigen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "eindigen",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) ergeren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "ervaren zijn",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "ervaring hebben",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "experimenteren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "feliciteren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "fluisteren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "fluisteren",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "fluisteren",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "fluiten",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "focussen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "gaan",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "gaan",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "gebrand zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "gebrek hebben",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "gebruik maken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "gebukt gaan",
+        "answer": "onder",
+        "otherAnswers": []
+    },
+    {
+        "word": "gediend zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "geïnteresseerd zijn",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "gek zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "gek zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "gelijken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "geld overmaken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "geld uitgeven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "geloven",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "gelukkig zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "gelukkig zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "gemunt hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "genieten",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "geraken",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "getuigen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "goedkeuren",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "geschikt zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "geven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "geven",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "gevolgd worden",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "gewend zijn",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "gewoon zijn",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "giechelen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "gillen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "glijden",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "glijden",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "glimlachen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "glimlachen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "gluren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "grenzen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "goed zijn",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "goedkeuren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "gooien",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "gooien",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "gokken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "graven",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "graven",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "grenzen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "grijnzen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "halen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "halen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "hakken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "hakken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "handig zijn",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "handig zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "hangen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "hangen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "hangen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "haperen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "hebben",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "hechten",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "hekel hebben",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "heersen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "helpen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "helpen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "herinneren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "herkennen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "heten",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "hollen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "op de hoogte stellen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "op de hoogte zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "hopen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) houden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "houden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "hopen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "horen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "horen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "huilen",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "huilen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "huiveren",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "hullen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "hunkeren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "informeren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "ingaan",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "ingrijpen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) inlaten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "zich inleven",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "zich inschrijven",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "inspireren",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "instaan",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "instellen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "intekenen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "interesse hebben",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "interesseren",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "introduceren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "invloed hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "inzetten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "isoleren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "janken",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "juichen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "kampen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "kans hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "kauwen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "kennismaken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "keren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "keren",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "kiezen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "kijken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "kijk hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "kijken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "kletsen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "kleven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "klagen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "klimmen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "kloppen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "kloppen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "knielen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "knijpen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "knopen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "koesteren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "komen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "komen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "koppelen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "kritiek hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "kwaad zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "kennen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "krijgen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "krijsen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "kronkelen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "kronkelen",
+        "answer": "langs",
+        "otherAnswers": []
+    },
+    {
+        "word": "kruipen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "kruipen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "kruipen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "kruisen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "kruisen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "kwijtraken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "lachen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "lachen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "lachen",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "lachen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "lachen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "landen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "leggen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "leggen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "leiden",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "leiden",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "lenen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "lenen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) lenen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "leren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "letten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "leven",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "leven",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "leven",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "leveren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "lezen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "liegen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "liegen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "liggen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "liggen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "liggen",
+        "answer": "naast",
+        "otherAnswers": []
+    },
+    {
+        "word": "liggen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "lijden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "lijden",
+        "answer": "onder",
+        "otherAnswers": []
+    },
+    {
+        "word": "lijken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "likken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "loeien",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "loeren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "logeren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "lopen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "lopen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "lopen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "losmaken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "luisteren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "maken",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "malen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "mankeren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "meebrengen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "meebrengen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "meedelen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "meedingen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "meedoen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "meedoen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "meegaan",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "meegaan",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "medelijden hebben",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "medeplichtig zijn",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "meenemen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "meenemen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "meeslepen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "mengen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "mikken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "mopperen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "nadenken",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "naderen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "nalaten",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "nastreven",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "neerkomen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) neerleggen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "neerzetten",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "neerzetten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "negeren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "neigen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "neigen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "nieuwsgierig zijn",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "noodzaken",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "nodigen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "oefenen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "oefenen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "omdraaien",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "omgaan",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "omkeren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "omringen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "onderbrengen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "onderdoen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "onderhandelen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "onderhandelen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "onderscheiden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "ondersteunen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "onderwerpen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "ongerust zijn",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "onkundig zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontbreken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontdoen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontfermen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontgaan",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "onthouden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontkomen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontlenen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontnemen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontsnappen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontstaan",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) onttrekken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontwijken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontwikkelen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "ontzetten",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "oordelen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "onverschillig zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "opbellen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "opbellen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "opbergen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "opbouwen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "opdragen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) opdringen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "openstaan",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "opgaan",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "opgeven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "opgewassen zijn",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "opgroeien",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "ophalen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "ophalen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "ophangen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "opheffen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "ophouden",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "opkijken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "opkijken",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "opkijken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "opkomen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "opleggen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "opleiden",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "oplopen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "oplossen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "opmaken",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "het opnemen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "het opnemen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "het opnemen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "oppassen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "oppassen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "opschrijven",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "opsluiten",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "opstaan",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "opstaan",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "opstaan",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "opstaan",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "opstijgen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "optreden",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "optreden",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "optreden",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "optrekken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "opvoeden",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "opwegen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "opzetten",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "opzien",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "opzoeken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "opzoeken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "overbrengen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "overdragen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "overdrijven",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "overeenkomen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "overgaan",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "overgaan",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "overgaan",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "overgeven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "overhalen",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "overhand hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "overhandigen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "overlaten",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "overleggen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "overleggen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "overlijden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "overschrijden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "oversteken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "overtuigd zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "overtuigen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "overwinnen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "overwinning behalen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "paren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "parkeren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "parkeren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "passen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "passen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "peinzen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "persen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "persen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "piekeren",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "pikken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "plaatsen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "plaatsen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "plaatsen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "pleiten",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "plezier hebben",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "plezier hebben",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "plukken",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "plukken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "pochen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "(een) poging doen",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "(een) poging doen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "prat gaan",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "praten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "praten",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "praten",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "praten",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "prikkelen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "prikken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "proeven",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "profiteren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "praten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "praten",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "projecteren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "protesteren",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "publiceren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "putten",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "raden",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "raken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "raken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "reageren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "recht hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "reclame maken",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "reduceren",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "regeren",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "registreren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "registreren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "reiken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "reizen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "reizen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "rekken",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "redden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "rekenen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "rekening houden",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) rekenschap geven",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "rennen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "rennen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "reserveren",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "respect hebben",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "resulteren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) richten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) richten",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) richten",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "rijden",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "rijden",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "rijden",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "rijden",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "rijk zijn",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "rinkelen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "roeien",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "roepen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "roepen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "ruiken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "ruilen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "samenhangen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "samenwerken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) schamen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) schamen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "scheiden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "schelden",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "schelden",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "schelen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "schelen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "schenken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "schelen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "scheppen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "scheppen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "scheren",
+        "answer": "langs",
+        "otherAnswers": []
+    },
+    {
+        "word": "scheren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "schieten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "schoonmaken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "schoppen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "schoppen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "schreien",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "schrijven",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "schreeuwen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "schreeuwen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "in zijn schik zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "schrikken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "schudden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "schuifelen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "schuilen",
+        "answer": "onder",
+        "otherAnswers": []
+    },
+    {
+        "word": "serveren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "serveren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "sissen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "slaan",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "slaan",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "slagen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "slagen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "slecht zijn",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "slenteren",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "slenteren",
+        "answer": "langs",
+        "otherAnswers": []
+    },
+    {
+        "word": "slenteren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "slepen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "sluipen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "sluipen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "smachten",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "smaken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "smeken",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "snakken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "snijden",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "snijden",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "solliciteren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "sparen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "specialiseren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "spelen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "spelen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "spelen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "spijt hebben",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "spotten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "spreken",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "spreken",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "springen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "spuiten",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "staan",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "staan",
+        "answer": "naast",
+        "otherAnswers": []
+    },
+    {
+        "word": "staan",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "staan",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "in staat zijn",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "stappen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "stappen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "stappen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "staren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "steekt",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "steken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "steken",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "stelen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "stemmen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "stemmen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "stemmen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "sterven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "steunen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "steunen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "stikken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "stilstaan",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "stinken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "stoppen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) storten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "streven",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "strijden",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "strijden",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "strijdig zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "in strijd zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "strijden",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "strijden",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "strooien",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "strooien",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "stuiten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "studeren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "studeren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "studeren",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "sturen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "tegengesteld zijn",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "tekenen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "tekenen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "teleurgesteld zijn",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "terugkeren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "terugkomen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "telefoneren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "telefoneren",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "tellen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "terechtkomen",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "terugbrengen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "terugbrengen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "teruggaan",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "terugkomen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "terugtrekken",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "tevreden zijn",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "tevreden zijn",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "thuiskomen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "tikken",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "toedienen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "toegeven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "toekennen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "toekijken",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "toekomen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "toelaten",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "toeleggen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "toeschrijven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "toevertrouwen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "toevoegen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "toewijzen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "toezien",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "tonen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "trakteren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "trappen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "trek hebben",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "trekken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "treuren",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "troosten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "trots zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "trouw zijn",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "trouwen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "turen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "twijfelen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitbarsten",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitbreiden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitbreken",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "uiteenlopen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitgaan",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitgaan",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitgeven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitgeven",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitgroeien",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "uithalen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitkijken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitkijken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitkijken",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitkomen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitkomen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitleggen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitleven",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitlopen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitmaken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitnodigen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitroepen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitrusten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitspreken",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitsteken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitsteken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitstellen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitstruikelen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitvallen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "uitzien",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "vallen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "vallen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "vallen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "varen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "varen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "variëren",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "vatbaar zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "vechten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "vechten",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "veranderen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "verantwoordelijk zijn",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "verantwoorden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verantwoorden",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "zich verbazen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "verbinden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verbinden",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "verbreken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "verdacht zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "verdenken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "zich verdiepen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "geld verdienen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "verdriet hebben",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "verdrijven",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "verdrijven",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "verdwijnen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "verenigen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "verfijnen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "vergaan",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "vergelijken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "vergezellen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "vergroten",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) vergissen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) verheugen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) verheugen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) verheugen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) verhouden",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "verhogen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "verhogen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "verhuizen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "verhuren",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verkeren",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "verkiezen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) verkijken",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "verkopen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verlangen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "verleiden",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "verlegen zitten",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "verlengen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "verliefd zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "verliezen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "verlossen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vermengen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "vermoeden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vermoeien",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "veroordelen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "verontrust zijn",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "verontschuldigen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "verplaatsen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "verplichten",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verplichten",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "verraden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verrast",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "verscheiden",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "verschijnen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verschillen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "verschillen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "verschuiven",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "verslaafd zijn",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verstand hebben",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "versteld staan",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "versterken",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "verstoken zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vertonen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "verstoppen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "verstoren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vertalen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "vertellen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "vertellen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "vertrekken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "vertrekken",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "vertrouwen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "vertrouwen stellen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervaardigen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervallen",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervangen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervreemden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervreemd zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervoeren",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervolgen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervuld zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vervullen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "verwarren",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "verwerpen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "verwijderen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "verwijderen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "verwijzen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "verwonderen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "verzinken",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "verzorgen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "verzekeren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "verzetten",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "verzoeken",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) verzoenen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "verzot zijn",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "vestigen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "vissen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "vliegen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "vliegen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "vliegen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "vluchten",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "vluchten",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "vluchten",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "voelen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "voetballen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "voldoen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "volgen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "volharden",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "volhouden",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "volstaan",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorafgaan",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorbereiden",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorbereiden",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorbijgaan",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorkeur geven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorkeur hebben",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorleggen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorlezen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorschrijven",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorspellen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorsprong hebben",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorstellen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "voortgaan",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "voortgaan",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "voortkomen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "voortvloeien",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "voortzetten",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "vooruitlopen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorzien",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "voorzien",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vraag stellen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "vragen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "vragen",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "vragen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "vrijen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "vrijspreken",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vrijstellen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "vullen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "waarschuwen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "waarschuwen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "wachten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) wagen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "waken",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "walgen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "waken",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "wandelen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "wandelen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "wanhopen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "wapperen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "wedden",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "wedden",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "weerhouden",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "weggaan",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "weggaan",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "weghalen",
+        "answer": "uit",
+        "otherAnswers": []
+    },
+    {
+        "word": "wemelen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "wenen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "wenden",
+        "answer": "tot",
+        "otherAnswers": []
+    },
+    {
+        "word": "wennen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "werk overdragen",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "werken",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "werken",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "werpen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) werpen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "(zich) wijden",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "wijken",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "wijten",
+        "answer": "aan",
+        "otherAnswers": []
+    },
+    {
+        "word": "wijzen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "wijzen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "wikkelen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "winnen",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "wonen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "worstelen",
+        "answer": "met",
+        "otherAnswers": []
+    },
+    {
+        "word": "wuiven",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "zaaien",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "zaaien",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "zakken",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "zeggen",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "zeker zijn",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "zenden",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "zetten",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "zetten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "zeuren",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "zin hebben",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "zingen",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "zingen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "zinnen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "zitten",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "zitten",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "zitten",
+        "answer": "naast",
+        "otherAnswers": []
+    },
+    {
+        "word": "zitten",
+        "answer": "om",
+        "otherAnswers": []
+    },
+    {
+        "word": "zitten",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "zitten",
+        "answer": "rond",
+        "otherAnswers": []
+    },
+    {
+        "word": "zoeken",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "zorgen maken",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "zorgen",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "zuchten",
+        "answer": "over",
+        "otherAnswers": []
+    },
+    {
+        "word": "zuchten",
+        "answer": "tegen",
+        "otherAnswers": []
+    },
+    {
+        "word": "zuigen",
+        "answer": "op",
+        "otherAnswers": []
+    },
+    {
+        "word": "zuiveren",
+        "answer": "van",
+        "otherAnswers": []
+    },
+    {
+        "word": "zwemmen",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "zwemmen",
+        "answer": "in",
+        "otherAnswers": []
+    },
+    {
+        "word": "zwemmen",
+        "answer": "naar",
+        "otherAnswers": []
+    },
+    {
+        "word": "zweren",
+        "answer": "bij",
+        "otherAnswers": []
+    },
+    {
+        "word": "zwerven",
+        "answer": "door",
+        "otherAnswers": []
+    },
+    {
+        "word": "zwichten",
+        "answer": "voor",
+        "otherAnswers": []
+    },
+    {
+        "word": "zwijgen",
+        "answer": "over",
+        "otherAnswers": []
+    }
+]
