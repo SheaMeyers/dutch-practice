@@ -1,4 +1,5 @@
 import { useReducer } from 'react';
+import questions from "./questions.json";
 import "./Prepositions.css";
 
 interface Question {
@@ -35,24 +36,6 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
 
     return retrievedOptions
 }
-
-const questions: Question[] = [
-    {
-        word: 'aanbeiden',
-        answer: 'aan',
-        otherAnswers: []
-    },
-    {
-        word: 'aandringen',
-        answer: 'op',
-        otherAnswers: ['in', 'aan']
-    },
-    {
-        word: 'aankleden',
-        answer: 'met',
-        otherAnswers: []
-    }
-]
 
 type PrepositionsState = {
     options: string[]
