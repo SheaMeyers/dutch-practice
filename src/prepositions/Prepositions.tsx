@@ -1,4 +1,5 @@
 import { useReducer } from 'react';
+import { setQuestionNumber, getQuestionNumber } from './session';
 import questions from "./questions.json";
 import "./Prepositions.css";
 
@@ -48,9 +49,11 @@ type DispatcherActions =
     | { type: 'nextQuestion' }
     | { type: 'giveAnswer', payload: string };
 
+
+const initialQuestionNumber = getQuestionNumber()
 const initialState: PrepositionsState = {
-    options: getOptions(questions[0].answer, questions[0].otherAnswers),
-    questionNumber: 0,
+    options: getOptions(questions[initialQuestionNumber].answer, questions[initialQuestionNumber].otherAnswers),
+    questionNumber: initialQuestionNumber,
     answer: ''
 }
 
@@ -58,6 +61,7 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
     switch (action.type) {
         case 'previousQuestion':
             const previousQuestionNumber = state.questionNumber - 1
+            setQuestionNumber(previousQuestionNumber)
             return {
                 questionNumber: previousQuestionNumber,
                 answer: '',
@@ -65,6 +69,7 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
             }
         case 'nextQuestion':
             const nextQuestionNumber = state.questionNumber + 1
+            setQuestionNumber(nextQuestionNumber)
             return {
                 questionNumber: nextQuestionNumber,
                 answer: '',
