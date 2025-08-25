@@ -89,6 +89,7 @@ const Prepositions = () => {
 
     return (
         <div className="Prepositions">
+            <p>Question {questionNumber+1} of {questions.length}</p>
             <p>Choose the correct preposition for the verb</p>
             <p className="h3 Verb">{questions[questionNumber].word}</p>
             <div className="Choices">
