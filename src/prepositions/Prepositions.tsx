@@ -95,6 +95,7 @@ const Prepositions = () => {
             <div className="Choices">
                 {options.map(option =>
                     <button
+                        key={option}
                         className={`btn Choices__Button ${!answer && 'btn-light'} ${answer === option ? 'btn-lg' : 'btn-sm'} ${answer && option === questions[questionNumber].answer ? 'btn-success' : 'btn-danger'}`}
                         type="button"
                         disabled={!!answer}
