@@ -1,19 +1,17 @@
 import { useReducer } from 'react';
-import { setQuestionNumber, getQuestionNumber } from './session';
+import { setQuestionNumber, getQuestionNumber, getOrdering, setOrdering } from './session';
 import questions from "./questions.json";
+import { DispatcherActions, Ordering, PrepositionsState } from './Preposition.types';
 import "./Prepositions.css";
 
-interface Question {
-    word: string;
-    answer: string;
-    otherAnswers: string[]
-}
 
 const options: string[] = [
     'in', 'naast', 'langs', 'bij', 'rond',
     'tot', 'door', 'op', 'onder', 'van',
     'tegen', 'uit', 'over', 'om', 'spuiten',
     'aan', 'met', 'op', 'naar', 'voor']
+
+const getRandomQuestionNumber = () => Math.floor(Math.random() * (questions.length - 1))
 
 const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => {
 
@@ -38,27 +36,13 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
     return retrievedOptions
 }
 
-type PrepositionsState = {
-    options: string[]
-    questionNumber: number
-    answer: string
-    ordering: 'ordered' | 'random'
-};
-
-type Ordering = 'ordered' | 'random'
-type DispatcherActions =
-    | { type: 'previousQuestion' }
-    | { type: 'nextQuestion' }
-    | { type: 'giveAnswer', payload: string }
-    | { type: 'changeOrdering', payload: Ordering}
-
-
-const initialQuestionNumber = getQuestionNumber()
+const initialOrdering = getOrdering()
+const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber()
 const initialState: PrepositionsState = {
     options: getOptions(questions[initialQuestionNumber].answer, questions[initialQuestionNumber].otherAnswers),
     questionNumber: initialQuestionNumber,
     answer: '',
-    ordering: 'ordered'
+    ordering: initialOrdering
 }
 
 const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions): PrepositionsState => {
@@ -78,7 +62,7 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
             if (state.ordering === 'ordered') {
                 setQuestionNumber(nextQuestionNumber)
             } else {
-                nextQuestionNumber = Math.floor(Math.random() * (questions.length - 1))
+                nextQuestionNumber = getRandomQuestionNumber()
             }
             return {
                 ...state,
@@ -95,7 +79,9 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
             }
         case 'changeOrdering':
             const ordering = action.payload
-            let questionNumber = Math.floor(Math.random() * (questions.length - 1))
+            setOrdering(ordering)
+
+            let questionNumber = getRandomQuestionNumber()
 
             if (action.payload === 'ordered') {
                 questionNumber = getQuestionNumber()
