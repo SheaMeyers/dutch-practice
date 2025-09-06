@@ -50,7 +50,7 @@ type DispatcherActions =
     | { type: 'previousQuestion' }
     | { type: 'nextQuestion' }
     | { type: 'giveAnswer', payload: string }
-    | { type: 'changeOrdering', payload: Ordering }
+    | { type: 'changeOrdering', payload: Ordering}
 
 
 const initialQuestionNumber = getQuestionNumber()
@@ -94,10 +94,21 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
                 options: state.options 
             }
         case 'changeOrdering':
+            const ordering = action.payload
+            let questionNumber = Math.floor(Math.random() * (questions.length - 1))
+
+            if (action.payload === 'ordered') {
+                questionNumber = getQuestionNumber()
+                
+            }
+
+            const options = getOptions(questions[questionNumber].answer, questions[questionNumber].otherAnswers)
+
             return {
                 ...state,
-                questionNumber: getQuestionNumber(),
-                ordering: action.payload
+                options,
+                questionNumber,
+                ordering
             }
         default:
             return state
