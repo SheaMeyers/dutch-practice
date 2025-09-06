@@ -42,19 +42,23 @@ type PrepositionsState = {
     options: string[]
     questionNumber: number
     answer: string
+    ordering: 'ordered' | 'random'
 };
 
+type Ordering = 'ordered' | 'random'
 type DispatcherActions =
     | { type: 'previousQuestion' }
     | { type: 'nextQuestion' }
-    | { type: 'giveAnswer', payload: string };
+    | { type: 'giveAnswer', payload: string }
+    | { type: 'changeOrdering', payload: Ordering }
 
 
 const initialQuestionNumber = getQuestionNumber()
 const initialState: PrepositionsState = {
     options: getOptions(questions[initialQuestionNumber].answer, questions[initialQuestionNumber].otherAnswers),
     questionNumber: initialQuestionNumber,
-    answer: ''
+    answer: '',
+    ordering: 'ordered'
 }
 
 const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions): PrepositionsState => {
@@ -63,20 +67,38 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
             const previousQuestionNumber = state.questionNumber - 1
             setQuestionNumber(previousQuestionNumber)
             return {
+                ...state,
                 questionNumber: previousQuestionNumber,
                 answer: '',
-                options: getOptions(questions[previousQuestionNumber].answer, questions[previousQuestionNumber].otherAnswers)
+                options: getOptions(questions[previousQuestionNumber].answer, questions[previousQuestionNumber].otherAnswers),
             }
         case 'nextQuestion':
-            const nextQuestionNumber = state.questionNumber + 1
-            setQuestionNumber(nextQuestionNumber)
+            let nextQuestionNumber = state.questionNumber + 1
+
+            if (state.ordering === 'ordered') {
+                setQuestionNumber(nextQuestionNumber)
+            } else {
+                nextQuestionNumber = Math.floor(Math.random() * (questions.length - 1))
+            }
             return {
+                ...state,
                 questionNumber: nextQuestionNumber,
                 answer: '',
                 options: getOptions(questions[nextQuestionNumber].answer, questions[nextQuestionNumber].otherAnswers)
             }
         case 'giveAnswer':
-            return { questionNumber: state.questionNumber, answer: action.payload, options: state.options }
+            return { 
+                ...state,
+                questionNumber: state.questionNumber, 
+                answer: action.payload, 
+                options: state.options 
+            }
+        case 'changeOrdering':
+            return {
+                ...state,
+                questionNumber: getQuestionNumber(),
+                ordering: action.payload
+            }
         default:
             return state
     }
@@ -85,11 +107,39 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
 const Prepositions = () => {
 
     const [prepositionsState, dispatch] = useReducer(prepositionsReducer, initialState)
-    const { options, questionNumber, answer } = prepositionsState
+    const { options, questionNumber, answer, ordering } = prepositionsState
 
     return (
         <div className="Prepositions">
-            <p>Question {questionNumber+1} of {questions.length}</p>
+
+            <div>
+                <div className="form-check form-check-inline">
+                    <input 
+                        className="form-check-input" 
+                        type="radio" name="options" 
+                        id="orderedOption" 
+                        value="ordered" 
+                        checked={ordering === 'ordered'}
+                        onChange={(e) => dispatch({ type: 'changeOrdering', payload: e.target.value as Ordering })}
+                    />
+                    <label className="form-check-label" htmlFor="orderedOption">Ordered</label>
+                </div>
+
+                <div className="form-check form-check-inline">
+                    <input 
+                        className="form-check-input" 
+                        type="radio" 
+                        name="options" 
+                        id="randomOption" 
+                        value="random" 
+                        checked={ordering === 'random'}
+                        onChange={(e) => dispatch({ type: 'changeOrdering', payload: e.target.value as Ordering })}
+                    />
+                    <label className="form-check-label" htmlFor="randomOption">Random</label>
+                </div>
+            </div>
+
+            {ordering === 'ordered' && <p>Question {questionNumber+1} of {questions.length}</p>}
             <p>Choose the correct preposition for the verb</p>
             <p className="h3 Verb">{questions[questionNumber].word}</p>
             <div className="Choices">
@@ -120,14 +170,16 @@ const Prepositions = () => {
                     <></>
             }
             <div className="Navigator">
-                <button
-                    disabled={!answer || questionNumber === 0}
-                    className="btn btn-secondary"
-                    type="button"
-                    onClick={() => dispatch({ type: 'previousQuestion' })}
-                >
-                    Previous
-                </button>
+                {ordering === 'ordered' &&
+                    <button
+                        disabled={!answer || questionNumber === 0}
+                        className="btn btn-secondary"
+                        type="button"
+                        onClick={() => dispatch({ type: 'previousQuestion' })}
+                    >
+                        Previous
+                    </button>
+                }
                 <button
                     disabled={!answer || questionNumber === (questions.length - 1)}
                     className="btn btn-primary"
