@@ -1,4 +1,4 @@
-.Prepositions {
+.Component {
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -6,7 +6,7 @@
     align-items: center;
 }
 
-.Verb {
+.Question {
     color: #063c4f;
 }
 

@@ -107,7 +107,7 @@ const Prepositions = () => {
     const { options, questionNumber, answer, ordering } = prepositionsState
 
     return (
-        <div className="Prepositions">
+        <div className="Component">
 
             <div>
                 <div className="form-check form-check-inline">
@@ -138,7 +138,7 @@ const Prepositions = () => {
 
             {ordering === 'ordered' && <p>Question {questionNumber+1} of {questions.length}</p>}
             <p>Choose the correct preposition for the verb</p>
-            <p className="h3 Verb">{questions[questionNumber].word}</p>
+            <p className="h3 Question">{questions[questionNumber].word}</p>
             <div className="Choices">
                 {options.map(option =>
                     <button
