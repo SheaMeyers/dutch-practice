@@ -56,7 +56,8 @@ const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState 
             return {
                 ...state,
                 questionNumber,
-                ordering
+                ordering,
+                answer: ''
             }
         default:
             return state

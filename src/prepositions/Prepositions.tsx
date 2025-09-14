@@ -94,7 +94,8 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
                 ...state,
                 options,
                 questionNumber,
-                ordering
+                ordering,
+                answer: ''
             }
         default:
             return state
