@@ -98,7 +98,7 @@ const DeHet = () => {
             </div>
 
             {ordering === 'ordered' && <p>Question {questionNumber+1} of {nouns.length}</p>}
-            <p>Choose the correct preposition for the verb</p>
+            <p>Choose the correct article for the noun</p>
             <p className="h3 Verb">{nouns[questionNumber].noun}</p>
             <div className="Choices">
                 {['de', 'het'].map(option =>
