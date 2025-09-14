@@ -2,6 +2,7 @@ import { useReducer } from "react";
 import { DeHetState, DispatcherActions, Ordering } from "./DeHet.types";
 import nouns from "./nouns.json";
 import { getOrdering, getQuestionNumber, setOrdering, setQuestionNumber } from "./session";
+import EndModal from "../shared/EndModal";
 
 const getRandomQuestionNumber = () => Math.floor(Math.random() * (nouns.length - 1))
 
@@ -10,7 +11,8 @@ const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber(
 const initialState: DeHetState = {
     questionNumber: initialQuestionNumber,
     answer: '',
-    ordering: initialOrdering
+    ordering: initialOrdering,
+    showEndModal: true,
 }
 
 const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState => {
@@ -25,6 +27,14 @@ const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState 
             }
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1
+
+            if (nextQuestionNumber > (nouns.length - 1)) {
+                console.log('Showing end modal')
+                return {
+                    ...state,
+                    showEndModal: true
+                }
+            }
 
             if (state.ordering === 'ordered') {
                 setQuestionNumber(nextQuestionNumber)
@@ -59,6 +69,13 @@ const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState 
                 ordering,
                 answer: ''
             }
+        case 'closeEndModal':
+            setQuestionNumber(0)
+            return {
+                ...state, 
+                showEndModal: false,
+                questionNumber: 0
+            }
         default:
             return state
     }
@@ -66,11 +83,10 @@ const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState 
 
 const DeHet = () => {
     const [prepositionsState, dispatch] = useReducer(deHetReducer, initialState)
-    const { questionNumber, answer, ordering } = prepositionsState
+    const { questionNumber, answer, ordering, showEndModal } = prepositionsState
 
     return (
         <div className="Component">
-
             <div>
                 <div className="form-check form-check-inline">
                     <input 
@@ -133,7 +149,7 @@ const DeHet = () => {
                     </button>
                 }
                 <button
-                    disabled={!answer || questionNumber === (nouns.length - 1)}
+                    disabled={!answer || questionNumber > nouns.length}
                     className="btn btn-primary"
                     type="button"
                     onClick={() => dispatch({ type: 'nextQuestion' })}
@@ -141,6 +157,11 @@ const DeHet = () => {
                     Next
                 </button>
             </div>
+            {showEndModal && 
+                <EndModal 
+                    onClick={() => dispatch({ type: 'closeEndModal' })}
+                /> 
+            }
         </div>
     );
 }
