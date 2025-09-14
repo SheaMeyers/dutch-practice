@@ -2,6 +2,7 @@ import { useReducer } from 'react';
 import { setQuestionNumber, getQuestionNumber, getOrdering, setOrdering } from './session';
 import questions from "./questions.json";
 import { DispatcherActions, Ordering, PrepositionsState } from './Preposition.types';
+import EndModal from '../shared/EndModal';
 import "./Prepositions.css";
 
 
@@ -42,7 +43,8 @@ const initialState: PrepositionsState = {
     options: getOptions(questions[initialQuestionNumber].answer, questions[initialQuestionNumber].otherAnswers),
     questionNumber: initialQuestionNumber,
     answer: '',
-    ordering: initialOrdering
+    ordering: initialOrdering,
+    showEndModal: false
 }
 
 const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions): PrepositionsState => {
@@ -58,6 +60,13 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
             }
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1
+
+            if (nextQuestionNumber > (questions.length - 1)) {
+                return {
+                    ...state,
+                    showEndModal: true
+                }
+            }
 
             if (state.ordering === 'ordered') {
                 setQuestionNumber(nextQuestionNumber)
@@ -97,6 +106,14 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
                 ordering,
                 answer: ''
             }
+        case 'closeEndModal':
+            setQuestionNumber(0)
+            return {
+                ...state, 
+                showEndModal: false,
+                questionNumber: 0,
+                answer: ''
+            }
         default:
             return state
     }
@@ -105,7 +122,7 @@ const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions
 const Prepositions = () => {
 
     const [prepositionsState, dispatch] = useReducer(prepositionsReducer, initialState)
-    const { options, questionNumber, answer, ordering } = prepositionsState
+    const { options, questionNumber, answer, ordering, showEndModal } = prepositionsState
 
     return (
         <div className="Component">
@@ -179,7 +196,7 @@ const Prepositions = () => {
                     </button>
                 }
                 <button
-                    disabled={!answer || questionNumber === (questions.length - 1)}
+                    disabled={!answer || questionNumber > questions.length}
                     className="btn btn-primary"
                     type="button"
                     onClick={() => dispatch({ type: 'nextQuestion' })}
@@ -187,6 +204,11 @@ const Prepositions = () => {
                     Next
                 </button>
             </div>
+            {showEndModal && 
+                <EndModal 
+                    onClick={() => dispatch({ type: 'closeEndModal' })}
+                /> 
+            }
         </div>
     );
 };

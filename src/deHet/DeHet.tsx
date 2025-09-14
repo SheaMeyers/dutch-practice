@@ -29,7 +29,6 @@ const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState 
             let nextQuestionNumber = state.questionNumber + 1
 
             if (nextQuestionNumber > (nouns.length - 1)) {
-                console.log('Showing end modal')
                 return {
                     ...state,
                     showEndModal: true
@@ -74,7 +73,8 @@ const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState 
             return {
                 ...state, 
                 showEndModal: false,
-                questionNumber: 0
+                questionNumber: 0,
+                answer: ''
             }
         default:
             return state
