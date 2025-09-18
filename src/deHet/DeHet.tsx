@@ -12,7 +12,7 @@ const initialState: DeHetState = {
     questionNumber: initialQuestionNumber,
     answer: '',
     ordering: initialOrdering,
-    showEndModal: true,
+    showEndModal: false,
 }
 
 const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState => {
