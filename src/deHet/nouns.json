@@ -295,11 +295,6 @@
         "englishTranslation": "origin"
     },
     {
-        "noun": "afleveren",
-        "article": "to",
-        "englishTranslation": "deliver"
-    },
-    {
         "noun": "afloop",
         "article": "de",
         "englishTranslation": "end"
@@ -365,11 +360,6 @@
         "englishTranslation": "a)"
     },
     {
-        "noun": "al",
-        "article": "all",
-        "englishTranslation": "core"
-    },
-    {
         "noun": "alarm",
         "article": "het",
         "englishTranslation": "alarm"
@@ -418,11 +408,6 @@
         "noun": "Amerikaan",
         "article": "de",
         "englishTranslation": "American"
-    },
-    {
-        "noun": "amuseren",
-        "article": "verb",
-        "englishTranslation": "to"
     },
     {
         "noun": "analyse",
@@ -1326,8 +1311,8 @@
     },
     {
         "noun": "boodschap",
-        "article": "noun,",
-        "englishTranslation": "de(f)"
+        "article": "de",
+        "englishTranslation": "message"
     },
     {
         "noun": "boog",
@@ -1366,8 +1351,8 @@
     },
     {
         "noun": "bos",
-        "article": "noun,",
-        "englishTranslation": "het"
+        "article": "het",
+        "englishTranslation": "forest"
     },
     {
         "noun": "bot",
@@ -1630,11 +1615,6 @@
         "englishTranslation": "category"
     },
     {
-        "noun": "cc",
-        "article": "web",
-        "englishTranslation": "(204)cd"
-    },
-    {
         "noun": "cel",
         "article": "de",
         "englishTranslation": "cell"
@@ -1650,9 +1630,9 @@
         "englishTranslation": "cent"
     },
     {
-        "noun": "centimeter,",
-        "article": "noun,",
-        "englishTranslation": "de(m)"
+        "noun": "centimeter",
+        "article": "de",
+        "englishTranslation": "centimeter"
     },
     {
         "noun": "centrum",
@@ -1703,11 +1683,6 @@
         "noun": "cijfer",
         "article": "het",
         "englishTranslation": "a)"
-    },
-    {
-        "noun": "circa,",
-        "article": "adv",
-        "englishTranslation": "approximately"
     },
     {
         "noun": "cirkel",
@@ -2005,11 +1980,6 @@
         "englishTranslation": "diary"
     },
     {
-        "noun": "dagen",
-        "article": "a)",
-        "englishTranslation": "to"
-    },
-    {
         "noun": "dak",
         "article": "het",
         "englishTranslation": "roof"
@@ -2038,11 +2008,6 @@
         "noun": "dans",
         "article": "de",
         "englishTranslation": "dance"
-    },
-    {
-        "noun": "data",
-        "article": "pl",
-        "englishTranslation": "data"
     },
     {
         "noun": "datum",
@@ -2163,11 +2128,6 @@
         "noun": "deuropening",
         "article": "de",
         "englishTranslation": "doorway"
-    },
-    {
-        "noun": "dezelfde",
-        "article": "same",
-        "englishTranslation": "core"
     },
     {
         "noun": "dialect",
@@ -2625,9 +2585,9 @@
         "englishTranslation": "property,"
     },
     {
-        "noun": "eind,",
-        "article": "noun,",
-        "englishTranslation": "het"
+        "noun": "eind",
+        "article": "het",
+        "englishTranslation": "end"
     },
     {
         "noun": "eis",
@@ -2890,11 +2850,6 @@
         "englishTranslation": "February"
     },
     {
-        "noun": "federaal",
-        "article": "federal",
-        "englishTranslation": "newspapers"
-    },
-    {
         "noun": "feest",
         "article": "het",
         "englishTranslation": "party"
@@ -2958,11 +2913,6 @@
         "noun": "filosoof",
         "article": "de",
         "englishTranslation": "philosopher"
-    },
-    {
-        "noun": "financi\u00ebn",
-        "article": "pl",
-        "englishTranslation": "finance(s)"
     },
     {
         "noun": "financiering",
@@ -3083,11 +3033,6 @@
         "noun": "friet",
         "article": "de",
         "englishTranslation": "French"
-    },
-    {
-        "noun": "fronsen",
-        "article": "to",
-        "englishTranslation": "frown"
     },
     {
         "noun": "fruit",
@@ -3320,11 +3265,6 @@
         "englishTranslation": "local"
     },
     {
-        "noun": "gemeentelijk",
-        "article": "municipal",
-        "englishTranslation": "newspapers"
-    },
-    {
         "noun": "gemeenteraadslid",
         "article": "het",
         "englishTranslation": "local"
@@ -3373,11 +3313,6 @@
         "noun": "gerecht",
         "article": "het",
         "englishTranslation": "a)"
-    },
-    {
-        "noun": "gering",
-        "article": "slight,",
-        "englishTranslation": "little"
     },
     {
         "noun": "geschenk",
@@ -3453,11 +3388,6 @@
         "noun": "gevel",
         "article": "de",
         "englishTranslation": "fa\u00e7ade"
-    },
-    {
-        "noun": "geven",
-        "article": "to",
-        "englishTranslation": "give"
     },
     {
         "noun": "gevolg",
@@ -3560,11 +3490,6 @@
         "englishTranslation": "good"
     },
     {
-        "noun": "goederen",
-        "article": "pl",
-        "englishTranslation": "goods"
-    },
-    {
         "noun": "goedkeuring",
         "article": "de",
         "englishTranslation": "approval"
@@ -3653,11 +3578,6 @@
         "noun": "groepering",
         "article": "de",
         "englishTranslation": "group,"
-    },
-    {
-        "noun": "web",
-        "article": "noun,",
-        "englishTranslation": "de(m)"
     },
     {
         "noun": "grond",
@@ -3820,11 +3740,6 @@
         "englishTranslation": "heart"
     },
     {
-        "noun": "haten",
-        "article": "to",
-        "englishTranslation": "hate"
-    },
-    {
         "noun": "hectare",
         "article": "de",
         "englishTranslation": "hectare"
@@ -3920,11 +3835,6 @@
         "englishTranslation": "origin"
     },
     {
-        "noun": "hersenen,",
-        "article": "noun,",
-        "englishTranslation": "pl"
-    },
-    {
         "noun": "herstel",
         "article": "het",
         "englishTranslation": "recovery"
@@ -3993,11 +3903,6 @@
         "noun": "hoer",
         "article": "de",
         "englishTranslation": "whore"
-    },
-    {
-        "noun": "hoeveel",
-        "article": "how",
-        "englishTranslation": "many,"
     },
     {
         "noun": "hof",
@@ -4220,11 +4125,6 @@
         "englishTranslation": "burglary"
     },
     {
-        "noun": "inbreken",
-        "article": "to",
-        "englishTranslation": "break"
-    },
-    {
         "noun": "incident",
         "article": "het",
         "englishTranslation": "incident"
@@ -4250,9 +4150,9 @@
         "englishTranslation": "industry"
     },
     {
-        "noun": "informatie,",
-        "article": "noun,",
-        "englishTranslation": "de(f)"
+        "noun": "informatie",
+        "article": "de",
+        "englishTranslation": "information"
     },
     {
         "noun": "infrastructuur",
@@ -4288,11 +4188,6 @@
         "noun": "inkomen",
         "article": "het",
         "englishTranslation": "income"
-    },
-    {
-        "noun": "inkomsten",
-        "article": "pl",
-        "englishTranslation": "revenues,"
     },
     {
         "noun": "inleiding",
@@ -4408,11 +4303,6 @@
         "noun": "invoering",
         "article": "de",
         "englishTranslation": "introduction"
-    },
-    {
-        "noun": "invullen",
-        "article": "to",
-        "englishTranslation": "fill"
     },
     {
         "noun": "inwoner",
@@ -4735,11 +4625,6 @@
         "englishTranslation": "cobble(-stone)"
     },
     {
-        "noun": "keihard",
-        "article": "hard",
-        "englishTranslation": "general"
-    },
-    {
         "noun": "kelder",
         "article": "de",
         "englishTranslation": "basement"
@@ -4920,11 +4805,6 @@
         "englishTranslation": "trap"
     },
     {
-        "noun": "kleren",
-        "article": "pl",
-        "englishTranslation": "clothes"
-    },
-    {
         "noun": "kleur",
         "article": "de",
         "englishTranslation": "colour"
@@ -4983,11 +4863,6 @@
         "noun": "koe",
         "article": "de",
         "englishTranslation": "cow"
-    },
-    {
-        "noun": "koek,",
-        "article": "noun,",
-        "englishTranslation": "de(m)|het"
     },
     {
         "noun": "koelkast",
@@ -5090,11 +4965,6 @@
         "englishTranslation": "a)"
     },
     {
-        "noun": "koper",
-        "article": "noun,",
-        "englishTranslation": "de(m)"
-    },
-    {
         "noun": "kopie",
         "article": "de",
         "englishTranslation": "copy"
@@ -5111,13 +4981,8 @@
     },
     {
         "noun": "kost,",
-        "article": "noun,",
-        "englishTranslation": "de(m)"
-    },
-    {
-        "noun": "kosten",
-        "article": "pl",
-        "englishTranslation": "costs"
+        "article": "de",
+        "englishTranslation": "cost"
     },
     {
         "noun": "kostprijs",
@@ -5163,11 +5028,6 @@
         "noun": "krant",
         "article": "de",
         "englishTranslation": "newspaper"
-    },
-    {
-        "noun": "krap",
-        "article": "tight",
-        "englishTranslation": "general"
     },
     {
         "noun": "kring",
@@ -5295,11 +5155,6 @@
         "englishTranslation": "boot"
     },
     {
-        "noun": "laatst",
-        "article": "last",
-        "englishTranslation": "core"
-    },
-    {
         "noun": "ladder",
         "article": "de",
         "englishTranslation": "ladder"
@@ -5376,8 +5231,8 @@
     },
     {
         "noun": "leer",
-        "article": "noun,",
-        "englishTranslation": "het"
+        "article": "het",
+        "englishTranslation": "leather"
     },
     {
         "noun": "leerkracht",
@@ -5615,11 +5470,6 @@
         "englishTranslation": "airport"
     },
     {
-        "noun": "lui",
-        "article": "pl",
-        "englishTranslation": "people"
-    },
-    {
         "noun": "luik",
         "article": "het",
         "englishTranslation": "a)"
@@ -5648,11 +5498,6 @@
         "noun": "maag",
         "article": "de",
         "englishTranslation": "stomach"
-    },
-    {
-        "noun": "maal",
-        "article": "noun,",
-        "englishTranslation": "de/het"
     },
     {
         "noun": "maaltijd",
@@ -5686,8 +5531,8 @@
     },
     {
         "noun": "maat",
-        "article": "noun,",
-        "englishTranslation": "de"
+        "article": "de",
+        "englishTranslation": "size"
     },
     {
         "noun": "maatregel",
@@ -5783,11 +5628,6 @@
         "noun": "massa",
         "article": "de",
         "englishTranslation": "mass"
-    },
-    {
-        "noun": "massaal",
-        "article": "massive",
-        "englishTranslation": "general"
     },
     {
         "noun": "match",
@@ -6020,11 +5860,6 @@
         "englishTranslation": "soldier"
     },
     {
-        "noun": "minder",
-        "article": "less",
-        "englishTranslation": "general"
-    },
-    {
         "noun": "minimum",
         "article": "het",
         "englishTranslation": "minimum"
@@ -6085,11 +5920,6 @@
         "englishTranslation": "misunderstanding"
     },
     {
-        "noun": "mits",
-        "article": "provided",
-        "englishTranslation": "that"
-    },
-    {
         "noun": "mobiliteit",
         "article": "de",
         "englishTranslation": "mobility"
@@ -6143,11 +5973,6 @@
         "noun": "moment",
         "article": "het",
         "englishTranslation": "time,"
-    },
-    {
-        "noun": "mompelen",
-        "article": "to",
-        "englishTranslation": "mumble"
     },
     {
         "noun": "monster",
@@ -6515,11 +6340,6 @@
         "englishTranslation": "broadcasting"
     },
     {
-        "noun": "omslag",
-        "article": "noun,",
-        "englishTranslation": "de(m)/het"
-    },
-    {
         "noun": "omstandigheid",
         "article": "de",
         "englishTranslation": "circumstance"
@@ -6723,11 +6543,6 @@
         "noun": "oorsprong",
         "article": "de",
         "englishTranslation": "origin"
-    },
-    {
-        "noun": "oorspronkelijk",
-        "article": "original",
-        "englishTranslation": "newspapers"
     },
     {
         "noun": "oosten",
@@ -7026,8 +6841,8 @@
     },
     {
         "noun": "pad",
-        "article": "noun,",
-        "englishTranslation": "het"
+        "article": "het",
+        "englishTranslation": "path"
     },
     {
         "noun": "pagina",
@@ -7036,8 +6851,8 @@
     },
     {
         "noun": "pak",
-        "article": "noun,",
-        "englishTranslation": "het"
+        "article": "het",
+        "englishTranslation": "suit"
     },
     {
         "noun": "pakket",
@@ -7123,11 +6938,6 @@
         "noun": "parlement",
         "article": "het",
         "englishTranslation": "parliament"
-    },
-    {
-        "noun": "parlementair",
-        "article": "parliamentary",
-        "englishTranslation": "newspapers"
     },
     {
         "noun": "part",
@@ -7283,11 +7093,6 @@
         "noun": "pet",
         "article": "de",
         "englishTranslation": "cap,"
-    },
-    {
-        "noun": "pff",
-        "article": "whew",
-        "englishTranslation": "spoken"
     },
     {
         "noun": "piek",
@@ -7511,8 +7316,8 @@
     },
     {
         "noun": "portier",
-        "article": "noun,",
-        "englishTranslation": "het"
+        "article": "het",
+        "englishTranslation": "doorman"
     },
     {
         "noun": "portret",
@@ -7758,11 +7563,6 @@
         "noun": "raad",
         "article": "de",
         "englishTranslation": "advice"
-    },
-    {
-        "noun": "raadplegen",
-        "article": "to",
-        "englishTranslation": "consult"
     },
     {
         "noun": "raam",
@@ -8145,14 +7945,9 @@
         "englishTranslation": "novel"
     },
     {
-        "noun": "Romeins",
-        "article": "Roman",
-        "englishTranslation": "web"
-    },
-    {
         "noun": "rond,",
-        "article": "noun,",
-        "englishTranslation": "het"
+        "article": "het",
+        "englishTranslation": "round"
     },
     {
         "noun": "ronde",
@@ -8243,11 +8038,6 @@
         "noun": "samenleving",
         "article": "de",
         "englishTranslation": "society"
-    },
-    {
-        "noun": "samenstellen",
-        "article": "to",
-        "englishTranslation": "compose,"
     },
     {
         "noun": "samenwerking",
@@ -8413,11 +8203,6 @@
         "noun": "schoot",
         "article": "de",
         "englishTranslation": "lap"
-    },
-    {
-        "noun": "schorsen",
-        "article": "to",
-        "englishTranslation": "suspend"
     },
     {
         "noun": "schot",
@@ -8810,11 +8595,6 @@
         "englishTranslation": "speaker"
     },
     {
-        "noun": "springen",
-        "article": "to",
-        "englishTranslation": "jump"
-    },
-    {
         "noun": "sprookje",
         "article": "het",
         "englishTranslation": "fairy"
@@ -9180,11 +8960,6 @@
         "englishTranslation": "sugar"
     },
     {
-        "noun": "super",
-        "article": "super",
-        "englishTranslation": "web"
-    },
-    {
         "noun": "supporter",
         "article": "de",
         "englishTranslation": "supporter"
@@ -9405,11 +9180,6 @@
         "englishTranslation": "exhibition"
     },
     {
-        "noun": "terechtkomen",
-        "article": "to",
-        "englishTranslation": "land"
-    },
-    {
         "noun": "termijn",
         "article": "de",
         "englishTranslation": "term"
@@ -9443,11 +9213,6 @@
         "noun": "test",
         "article": "de",
         "englishTranslation": "test"
-    },
-    {
-        "noun": "thans",
-        "article": "at",
-        "englishTranslation": "present,"
     },
     {
         "noun": "thee",
@@ -9857,7 +9622,7 @@
     {
         "noun": "uitgave",
         "article": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": "edition"
     },
     {
         "noun": "uitgever",
@@ -9885,11 +9650,6 @@
         "englishTranslation": "result"
     },
     {
-        "noun": "uitlaten",
-        "article": "a)",
-        "englishTranslation": "to"
-    },
-    {
         "noun": "uitnodiging",
         "article": "de",
         "englishTranslation": "invitation"
@@ -9903,11 +9663,6 @@
         "noun": "uitspraak",
         "article": "de",
         "englishTranslation": "statement"
-    },
-    {
-        "noun": "uitstap,",
-        "article": "noun,",
-        "englishTranslation": "de(m)/het"
     },
     {
         "noun": "uitstel",
@@ -10200,11 +9955,6 @@
         "englishTranslation": "compensation"
     },
     {
-        "noun": "vergroten",
-        "article": "to",
-        "englishTranslation": "enlarge"
-    },
-    {
         "noun": "verhaal",
         "article": "het",
         "englishTranslation": "story"
@@ -10310,11 +10060,6 @@
         "englishTranslation": "hypothesis"
     },
     {
-        "noun": "verontwaardigd",
-        "article": "outraged,",
-        "englishTranslation": "indignant"
-    },
-    {
         "noun": "veroordeling",
         "article": "de",
         "englishTranslation": "conviction"
@@ -10388,11 +10133,6 @@
         "noun": "verstand",
         "article": "het",
         "englishTranslation": "head"
-    },
-    {
-        "noun": "versterken",
-        "article": "to",
-        "englishTranslation": "strengthen"
     },
     {
         "noun": "vertaling",
@@ -10515,11 +10255,6 @@
         "englishTranslation": "enemy"
     },
     {
-        "noun": "vijftig",
-        "article": "fifty",
-        "englishTranslation": "general"
-    },
-    {
         "noun": "villa",
         "article": "de",
         "englishTranslation": "villa"
@@ -10620,16 +10355,6 @@
         "englishTranslation": "refugee"
     },
     {
-        "noun": "VN",
-        "article": "pl",
-        "englishTranslation": "UN"
-    },
-    {
-        "noun": "vocht",
-        "article": "noun,",
-        "englishTranslation": "de/het"
-    },
-    {
         "noun": "voeding",
         "article": "de",
         "englishTranslation": "nutrition,"
@@ -10688,11 +10413,6 @@
         "noun": "volksgezondheid",
         "article": "de",
         "englishTranslation": "public"
-    },
-    {
-        "noun": "voluit",
-        "article": "in",
-        "englishTranslation": "full"
     },
     {
         "noun": "volwassene",
@@ -10851,8 +10571,8 @@
     },
     {
         "noun": "vorst",
-        "article": "noun,",
-        "englishTranslation": "de"
+        "article": "de",
+        "englishTranslation": "vorst"
     },
     {
         "noun": "vraag",
@@ -10966,8 +10686,8 @@
     },
     {
         "noun": "wacht",
-        "article": "noun,",
-        "englishTranslation": "de"
+        "article": "de",
+        "englishTranslation": "wait"
     },
     {
         "noun": "wagen",
@@ -10998,11 +10718,6 @@
         "noun": "wanhoop",
         "article": "de",
         "englishTranslation": "despair"
-    },
-    {
-        "noun": "want",
-        "article": "because",
-        "englishTranslation": "core"
     },
     {
         "noun": "wapen",
@@ -11168,11 +10883,6 @@
         "noun": "werknemer",
         "article": "de",
         "englishTranslation": "employee"
-    },
-    {
-        "noun": "werkzaamheden",
-        "article": "pl",
-        "englishTranslation": "activities"
     },
     {
         "noun": "westen",
@@ -11475,11 +11185,6 @@
         "englishTranslation": "sail"
     },
     {
-        "noun": "zeker",
-        "article": "certain",
-        "englishTranslation": "core"
-    },
-    {
         "noun": "zelfmoord",
         "article": "de",
         "englishTranslation": "suicide"
@@ -11505,11 +11210,6 @@
         "englishTranslation": "seat"
     },
     {
-        "noun": "zeventig",
-        "article": "seventy",
-        "englishTranslation": "newspapers"
-    },
-    {
         "noun": "zicht",
         "article": "het",
         "englishTranslation": "view"
@@ -11531,8 +11231,8 @@
     },
     {
         "noun": "zijde,",
-        "article": "noun,",
-        "englishTranslation": "de"
+        "article": "de",
+        "englishTranslation": "silk"
     },
     {
         "noun": "zijkant",
@@ -11548,11 +11248,6 @@
         "noun": "zin",
         "article": "de",
         "englishTranslation": "a)"
-    },
-    {
-        "noun": "zitten",
-        "article": "to",
-        "englishTranslation": "sit"
     },
     {
         "noun": "zoektocht",
