@@ -1,9 +1,11 @@
 import { useReducer } from 'react';
 import { setQuestionNumber, getQuestionNumber, getOrdering, setOrdering } from './session';
-import prepositions from "./prepositions.json";
-import { ActivityState, DispatcherActions, Ordering } from "../shared/Activity.types";
+import prepositionsJson from "./prepositions.json";
+import { ActivityState, DispatcherActions, Ordering, Question } from "../shared/Activity.types";
 import EndModal from '../shared/EndModal';
 import "./Prepositions.css";
+
+const prepositions: Question[] = prepositionsJson
 
 
 const options: string[] = [
@@ -40,7 +42,7 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
 const initialOrdering = getOrdering()
 const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber()
 const initialState: ActivityState = {
-    options: getOptions(prepositions[initialQuestionNumber].answer, prepositions[initialQuestionNumber].otherAnswers),
+    options: getOptions(prepositions[initialQuestionNumber].answer, prepositions[initialQuestionNumber].otherAnswers ?? []),
     questionNumber: initialQuestionNumber,
     answer: '',
     ordering: initialOrdering,
@@ -68,7 +70,7 @@ const prepositionsReducer = (state: ActivityState, action: DispatcherActions): A
                 ...state,
                 questionNumber: nextQuestionNumber,
                 answer: '',
-                options: getOptions(prepositions[nextQuestionNumber].answer, prepositions[nextQuestionNumber].otherAnswers)
+                options: getOptions(prepositions[nextQuestionNumber].answer, prepositions[nextQuestionNumber].otherAnswers ?? [])
             }
         case 'giveAnswer':
             return { 
@@ -88,7 +90,7 @@ const prepositionsReducer = (state: ActivityState, action: DispatcherActions): A
                 
             }
 
-            const options = getOptions(prepositions[questionNumber].answer, prepositions[questionNumber].otherAnswers)
+            const options = getOptions(prepositions[questionNumber].answer, prepositions[questionNumber].otherAnswers ?? [])
 
             return {
                 ...state,
@@ -169,8 +171,8 @@ const Prepositions = () => {
             }
             {
                 answer ?
-                    prepositions[questionNumber].otherAnswers.length > 0 ?
-                        <p>Other correct answers: {prepositions[questionNumber].otherAnswers.join(', ')}</p> :
+                    prepositions[questionNumber].otherAnswers && prepositions[questionNumber].otherAnswers!.length > 0 ?
+                        <p>Other correct answers: {prepositions[questionNumber].otherAnswers!.join(', ')}</p> :
                         <></> :
                     <></>
             }

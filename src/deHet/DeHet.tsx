@@ -1,8 +1,10 @@
 import { useReducer } from "react";
-import { ActivityState, DispatcherActions, Ordering } from "../shared/Activity.types";
-import nouns from "./nouns.json";
+import { ActivityState, DispatcherActions, Ordering, Question } from "../shared/Activity.types";
+import nounsJson from "./nouns.json";
 import { getOrdering, getQuestionNumber, setOrdering, setQuestionNumber } from "./session";
 import EndModal from "../shared/EndModal";
+
+const nouns: Question[] = nounsJson
 
 const getRandomQuestionNumber = () => Math.floor(Math.random() * (nouns.length - 1))
 
@@ -109,12 +111,12 @@ const DeHet = () => {
 
             {ordering === 'ordered' && <p>Question {questionNumber+1} of {nouns.length}</p>}
             <p>Choose the correct article for the noun</p>
-            <p className="h3 Verb">{nouns[questionNumber].noun}</p>
+            <p className="h3 Verb">{nouns[questionNumber].word}</p>
             <div className="Choices">
                 {options.map(option =>
                     <button
                         key={option}
-                        className={`btn Choices__Button ${!answer && 'btn-light'} ${answer === option ? 'btn-lg' : 'btn-sm'} ${answer && option === nouns[questionNumber].article ? 'btn-success' : 'btn-danger'}`}
+                        className={`btn Choices__Button ${!answer && 'btn-light'} ${answer === option ? 'btn-lg' : 'btn-sm'} ${answer && option === nouns[questionNumber].answer ? 'btn-success' : 'btn-danger'}`}
                         type="button"
                         disabled={!!answer}
                         onClick={() => dispatch({ type: 'giveAnswer', payload: option })}
@@ -124,9 +126,9 @@ const DeHet = () => {
                 )}
             </div>
             {answer ?
-                answer === nouns[questionNumber].article ?
+                answer === nouns[questionNumber].answer ?
                     <p>Correct!</p> :
-                    <p>Unfortunate.  Your answer: {answer}.  Correct answer: {nouns[questionNumber].article}</p>
+                    <p>Unfortunate.  Your answer: {answer}.  Correct answer: {nouns[questionNumber].answer}</p>
                 :
                 <></>
             }

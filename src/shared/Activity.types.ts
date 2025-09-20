@@ -12,3 +12,9 @@ export type DispatcherActions =
     | { type: 'giveAnswer', payload: string }
     | { type: 'changeOrdering', payload: Ordering}
     | { type: 'closeEndModal' }
+
+export type Question = {
+    word: string,
+    answer: string,
+    otherAnswers?: string[]
+}
