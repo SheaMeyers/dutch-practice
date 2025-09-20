@@ -76,8 +76,7 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
             return { 
                 ...state,
                 questionNumber: state.questionNumber, 
-                answer: action.payload, 
-                options: state.options 
+                answer: action.payload
             }
         case 'changeOrdering':
             const ordering = action.payload
@@ -90,11 +89,9 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
                 
             }
 
-            const options = getOptions(questions[questionNumber].answer, questions[questionNumber].otherAnswers ?? [])
-
             return {
                 ...state,
-                options,
+                options: getOptions(questions[questionNumber].answer, questions[questionNumber].otherAnswers ?? []),
                 questionNumber,
                 ordering,
                 answer: ''

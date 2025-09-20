@@ -8,10 +8,12 @@ const nouns: Question[] = nounsJson
 
 const getRandomQuestionNumber = (maxLength: number) => Math.floor(Math.random() * (maxLength - 1))
 
+const getOptions = (..._: any[]): string[] => ['de', 'het']
+
 const initialOrdering = getOrdering()
 const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber(nouns.length)
 const initialState: ActivityState = {
-    options: ['de', 'het'],
+    options: getOptions(),
     questionNumber: initialQuestionNumber,
     answer: '',
     ordering: initialOrdering,
@@ -35,10 +37,12 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
             } else {
                 nextQuestionNumber = getRandomQuestionNumber(questions.length)
             }
+
             return {
                 ...state,
                 questionNumber: nextQuestionNumber,
-                answer: ''
+                answer: '',
+                options: getOptions(questions[nextQuestionNumber].answer, questions[nextQuestionNumber].otherAnswers ?? [])
             }
         case 'giveAnswer':
             return { 
@@ -59,6 +63,7 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
 
             return {
                 ...state,
+                options: getOptions(questions[questionNumber].answer, questions[questionNumber].otherAnswers ?? []),
                 questionNumber,
                 ordering,
                 answer: ''
