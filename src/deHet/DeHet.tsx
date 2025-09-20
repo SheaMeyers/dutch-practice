@@ -18,12 +18,12 @@ const initialState: ActivityState = {
     showEndModal: false,
 }
 
-const deHetReducer = (state: ActivityState, action: DispatcherActions): ActivityState => {
+const reducer = (questions: Question[]) => (state: ActivityState, action: DispatcherActions): ActivityState => {
     switch (action.type) {
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1
 
-            if (nextQuestionNumber > (nouns.length - 1)) {
+            if (nextQuestionNumber > (questions.length - 1)) {
                 return {
                     ...state,
                     showEndModal: true
@@ -77,7 +77,7 @@ const deHetReducer = (state: ActivityState, action: DispatcherActions): Activity
 }
 
 const DeHet = () => {
-    const [prepositionsState, dispatch] = useReducer(deHetReducer, initialState)
+    const [prepositionsState, dispatch] = useReducer(reducer(nouns), initialState)
     const { options, questionNumber, answer, ordering, showEndModal } = prepositionsState
 
     return (

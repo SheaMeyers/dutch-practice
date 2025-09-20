@@ -49,12 +49,12 @@ const initialState: ActivityState = {
     showEndModal: false
 }
 
-const prepositionsReducer = (state: ActivityState, action: DispatcherActions): ActivityState => {
+const reducer = (questions: Question[]) => (state: ActivityState, action: DispatcherActions): ActivityState => {
     switch (action.type) {
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1
 
-            if (nextQuestionNumber > (prepositions.length - 1)) {
+            if (nextQuestionNumber > (questions.length - 1)) {
                 return {
                     ...state,
                     showEndModal: true
@@ -114,7 +114,7 @@ const prepositionsReducer = (state: ActivityState, action: DispatcherActions): A
 
 const Prepositions = () => {
 
-    const [prepositionsState, dispatch] = useReducer(prepositionsReducer, initialState)
+    const [prepositionsState, dispatch] = useReducer(reducer(prepositions), initialState)
     const { options, questionNumber, answer, ordering, showEndModal } = prepositionsState
 
     return (
