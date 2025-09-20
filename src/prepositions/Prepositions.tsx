@@ -1,7 +1,7 @@
 import { useReducer } from 'react';
 import { setQuestionNumber, getQuestionNumber, getOrdering, setOrdering } from './session';
 import questions from "./questions.json";
-import { DispatcherActions, Ordering, PrepositionsState } from './Preposition.types';
+import { ActivityState, DispatcherActions, Ordering } from "../shared/Activity.types";
 import EndModal from '../shared/EndModal';
 import "./Prepositions.css";
 
@@ -39,7 +39,7 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
 
 const initialOrdering = getOrdering()
 const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber()
-const initialState: PrepositionsState = {
+const initialState: ActivityState = {
     options: getOptions(questions[initialQuestionNumber].answer, questions[initialQuestionNumber].otherAnswers),
     questionNumber: initialQuestionNumber,
     answer: '',
@@ -47,7 +47,7 @@ const initialState: PrepositionsState = {
     showEndModal: false
 }
 
-const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions): PrepositionsState => {
+const prepositionsReducer = (state: ActivityState, action: DispatcherActions): ActivityState => {
     switch (action.type) {
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1

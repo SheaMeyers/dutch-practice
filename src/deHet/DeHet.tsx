@@ -1,5 +1,5 @@
 import { useReducer } from "react";
-import { DeHetState, DispatcherActions, Ordering } from "./DeHet.types";
+import { ActivityState, DispatcherActions, Ordering } from "../shared/Activity.types";
 import nouns from "./nouns.json";
 import { getOrdering, getQuestionNumber, setOrdering, setQuestionNumber } from "./session";
 import EndModal from "../shared/EndModal";
@@ -8,7 +8,7 @@ const getRandomQuestionNumber = () => Math.floor(Math.random() * (nouns.length -
 
 const initialOrdering = getOrdering()
 const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber()
-const initialState: DeHetState = {
+const initialState: ActivityState = {
     options: ['de', 'het'],
     questionNumber: initialQuestionNumber,
     answer: '',
@@ -16,7 +16,7 @@ const initialState: DeHetState = {
     showEndModal: false,
 }
 
-const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState => {
+const deHetReducer = (state: ActivityState, action: DispatcherActions): ActivityState => {
     switch (action.type) {
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1

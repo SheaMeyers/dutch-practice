@@ -1,4 +1,4 @@
-import { Ordering } from './Preposition.types'
+import { Ordering } from '../shared/Activity.types'
 
 const questionKey = 'questionKey'
 const orderingKey = 'orderingKey'

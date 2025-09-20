@@ -1,4 +1,4 @@
-export type DeHetState = {
+export type ActivityState = {
     options: string[]
     questionNumber: number
     answer: string

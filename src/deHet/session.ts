@@ -1,4 +1,4 @@
-import { Ordering } from './DeHet.types'
+import { Ordering } from '../shared/Activity.types'
 
 const questionKey = 'deHetQuestionKey'
 const orderingKey = 'deHetOrderingKey'
