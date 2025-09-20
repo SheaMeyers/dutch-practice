@@ -3,7 +3,7 @@ import { setQuestionNumber, getQuestionNumber, setOrdering } from "./session"
 import { getRandomQuestionNumber } from "./utils"
 
 
-const reducer = (questions: Question[], questionKey: string, orderingKey: string, getOptions: (...args: any[]) => any) => (state: ActivityState, action: DispatcherActions): ActivityState => {
+const reducer = (questions: Question[], questionKey: string, orderingKey: string, getOptions: (...args: any[]) => string[]) => (state: ActivityState, action: DispatcherActions): ActivityState => {
     switch (action.type) {
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1
