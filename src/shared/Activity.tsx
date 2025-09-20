@@ -1,8 +1,29 @@
 import { useReducer } from "react"
-import reducer from "./Activity.reducer"
+import activityReducer from "./Activity.reducer"
 import { ActivityState, Ordering, Question } from "./Activity.types"
 import EndModal from "./EndModal"
 import './Activity.css'
+import { getOrdering, getQuestionNumber } from "./session"
+import { getRandomQuestionNumber } from "./utils"
+
+
+const getInitialState = (
+    questions: Question[], 
+    questionKey: string,
+    orderingKey: string, 
+    getOptions: (...args: any[]) => string[]
+): ActivityState => {
+    const initialOrdering = getOrdering(orderingKey)
+    const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber(questionKey) : getRandomQuestionNumber(questions.length)
+    const initialState: ActivityState = {
+        options: getOptions(questions[initialQuestionNumber].answer, questions[initialQuestionNumber].otherAnswers ?? []),
+        questionNumber: initialQuestionNumber,
+        answer: '',
+        ordering: initialOrdering,
+        showEndModal: false,
+    }
+    return initialState
+}
 
 
 const Activity = (props: {
@@ -10,11 +31,12 @@ const Activity = (props: {
     questionKey: string
     orderingKey: string
     getOptions: (...args: any[]) => string[]
-    initialState: ActivityState
 }) => {
 
-    const { questions, questionKey, orderingKey, getOptions, initialState } = props
-    const [state, dispatch] = useReducer(reducer(questions, questionKey, orderingKey, getOptions), initialState)
+    const { questions, questionKey, orderingKey, getOptions } = props
+    const reducer = activityReducer(questions, questionKey, orderingKey, getOptions)
+    const initialState = getInitialState(questions, questionKey, orderingKey, getOptions)
+    const [state, dispatch] = useReducer(reducer, initialState)
     const { options, questionNumber, answer, ordering, showEndModal } = state
 
     return (

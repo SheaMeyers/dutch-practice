@@ -1,8 +1,6 @@
-import prepositionsJson from "./prepositions.json";
-import { ActivityState, Question } from "../shared/Activity.types";
-import { getOrdering, getQuestionNumber } from '../shared/session';
-import { getRandomQuestionNumber } from '../shared/utils';
+import { Question } from "../shared/Activity.types";
 import Activity from '../shared/Activity';
+import prepositionsJson from "./prepositions.json";
 
 const prepositions: Question[] = prepositionsJson
 
@@ -11,9 +9,6 @@ const options: string[] = [
     'tot', 'door', 'op', 'onder', 'van',
     'tegen', 'uit', 'over', 'om', 'spuiten',
     'aan', 'met', 'op', 'naar', 'voor']
-
-const questionKey = 'questionKey'
-const orderingKey = 'orderingKey'
 
 const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => {
 
@@ -38,24 +33,13 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
     return retrievedOptions
 }
 
-const initialOrdering = getOrdering(orderingKey)
-const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber(questionKey) : getRandomQuestionNumber(prepositions.length)
-const initialState: ActivityState = {
-    options: getOptions(prepositions[initialQuestionNumber].answer, prepositions[initialQuestionNumber].otherAnswers ?? []),
-    questionNumber: initialQuestionNumber,
-    answer: '',
-    ordering: initialOrdering,
-    showEndModal: false
-}
-
 
 const Prepositions = () => 
     <Activity
         questions={prepositions}
-        questionKey={questionKey}
-        orderingKey={orderingKey}
+        questionKey='questionKey'
+        orderingKey='orderingKey'
         getOptions={getOptions}
-        initialState={initialState}
     />
 
 
