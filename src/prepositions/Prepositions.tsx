@@ -1,6 +1,6 @@
 import { useReducer } from 'react';
 import { setQuestionNumber, getQuestionNumber, getOrdering, setOrdering } from './session';
-import questions from "./questions.json";
+import prepositions from "./prepositions.json";
 import { ActivityState, DispatcherActions, Ordering } from "../shared/Activity.types";
 import EndModal from '../shared/EndModal';
 import "./Prepositions.css";
@@ -12,7 +12,7 @@ const options: string[] = [
     'tegen', 'uit', 'over', 'om', 'spuiten',
     'aan', 'met', 'op', 'naar', 'voor']
 
-const getRandomQuestionNumber = () => Math.floor(Math.random() * (questions.length - 1))
+const getRandomQuestionNumber = () => Math.floor(Math.random() * (prepositions.length - 1))
 
 const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => {
 
@@ -40,7 +40,7 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
 const initialOrdering = getOrdering()
 const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber()
 const initialState: ActivityState = {
-    options: getOptions(questions[initialQuestionNumber].answer, questions[initialQuestionNumber].otherAnswers),
+    options: getOptions(prepositions[initialQuestionNumber].answer, prepositions[initialQuestionNumber].otherAnswers),
     questionNumber: initialQuestionNumber,
     answer: '',
     ordering: initialOrdering,
@@ -52,7 +52,7 @@ const prepositionsReducer = (state: ActivityState, action: DispatcherActions): A
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1
 
-            if (nextQuestionNumber > (questions.length - 1)) {
+            if (nextQuestionNumber > (prepositions.length - 1)) {
                 return {
                     ...state,
                     showEndModal: true
@@ -68,7 +68,7 @@ const prepositionsReducer = (state: ActivityState, action: DispatcherActions): A
                 ...state,
                 questionNumber: nextQuestionNumber,
                 answer: '',
-                options: getOptions(questions[nextQuestionNumber].answer, questions[nextQuestionNumber].otherAnswers)
+                options: getOptions(prepositions[nextQuestionNumber].answer, prepositions[nextQuestionNumber].otherAnswers)
             }
         case 'giveAnswer':
             return { 
@@ -88,7 +88,7 @@ const prepositionsReducer = (state: ActivityState, action: DispatcherActions): A
                 
             }
 
-            const options = getOptions(questions[questionNumber].answer, questions[questionNumber].otherAnswers)
+            const options = getOptions(prepositions[questionNumber].answer, prepositions[questionNumber].otherAnswers)
 
             return {
                 ...state,
@@ -144,14 +144,14 @@ const Prepositions = () => {
                 </div>
             </div>
 
-            {ordering === 'ordered' && <p>Question {questionNumber+1} of {questions.length}</p>}
+            {ordering === 'ordered' && <p>Question {questionNumber+1} of {prepositions.length}</p>}
             <p>Choose the correct preposition for the verb</p>
-            <p className="h3 Question">{questions[questionNumber].word}</p>
+            <p className="h3 Question">{prepositions[questionNumber].word}</p>
             <div className="Choices">
                 {options.map(option =>
                     <button
                         key={option}
-                        className={`btn Choices__Button ${!answer && 'btn-light'} ${answer === option ? 'btn-lg' : 'btn-sm'} ${answer && option === questions[questionNumber].answer ? 'btn-success' : 'btn-danger'}`}
+                        className={`btn Choices__Button ${!answer && 'btn-light'} ${answer === option ? 'btn-lg' : 'btn-sm'} ${answer && option === prepositions[questionNumber].answer ? 'btn-success' : 'btn-danger'}`}
                         type="button"
                         disabled={!!answer}
                         onClick={() => dispatch({ type: 'giveAnswer', payload: option })}
@@ -161,22 +161,22 @@ const Prepositions = () => {
                 )}
             </div>
             {answer ?
-                answer === questions[questionNumber].answer ?
+                answer === prepositions[questionNumber].answer ?
                     <p>Correct!</p> :
-                    <p>Unfortunate.  Your answer: {answer}.  Correct answer: {questions[questionNumber].answer}</p>
+                    <p>Unfortunate.  Your answer: {answer}.  Correct answer: {prepositions[questionNumber].answer}</p>
                 :
                 <></>
             }
             {
                 answer ?
-                    questions[questionNumber].otherAnswers.length > 0 ?
-                        <p>Other correct answers: {questions[questionNumber].otherAnswers.join(', ')}</p> :
+                    prepositions[questionNumber].otherAnswers.length > 0 ?
+                        <p>Other correct answers: {prepositions[questionNumber].otherAnswers.join(', ')}</p> :
                         <></> :
                     <></>
             }
             <div className="Navigator">
                 <button
-                    disabled={!answer || questionNumber > questions.length}
+                    disabled={!answer || questionNumber > prepositions.length}
                     className="btn btn-primary"
                     type="button"
                     onClick={() => dispatch({ type: 'nextQuestion' })}
