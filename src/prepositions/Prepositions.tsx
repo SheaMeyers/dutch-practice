@@ -14,7 +14,7 @@ const options: string[] = [
     'tegen', 'uit', 'over', 'om', 'spuiten',
     'aan', 'met', 'op', 'naar', 'voor']
 
-const getRandomQuestionNumber = () => Math.floor(Math.random() * (prepositions.length - 1))
+const getRandomQuestionNumber = (maxLength: number) => Math.floor(Math.random() * (maxLength - 1))
 
 const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => {
 
@@ -40,7 +40,7 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
 }
 
 const initialOrdering = getOrdering()
-const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber()
+const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber(prepositions.length)
 const initialState: ActivityState = {
     options: getOptions(prepositions[initialQuestionNumber].answer, prepositions[initialQuestionNumber].otherAnswers ?? []),
     questionNumber: initialQuestionNumber,
@@ -64,7 +64,7 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
             if (state.ordering === 'ordered') {
                 setQuestionNumber(nextQuestionNumber)
             } else {
-                nextQuestionNumber = getRandomQuestionNumber()
+                nextQuestionNumber = getRandomQuestionNumber(questions.length)
             }
             return {
                 ...state,
@@ -83,7 +83,7 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
             const ordering = action.payload
             setOrdering(ordering)
 
-            let questionNumber = getRandomQuestionNumber()
+            let questionNumber = getRandomQuestionNumber(questions.length)
 
             if (action.payload === 'ordered') {
                 questionNumber = getQuestionNumber()
@@ -114,8 +114,8 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
 
 const Prepositions = () => {
 
-    const [prepositionsState, dispatch] = useReducer(reducer(prepositions), initialState)
-    const { options, questionNumber, answer, ordering, showEndModal } = prepositionsState
+    const [state, dispatch] = useReducer(reducer(prepositions), initialState)
+    const { options, questionNumber, answer, ordering, showEndModal } = state
 
     return (
         <div className="Component">

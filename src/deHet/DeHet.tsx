@@ -6,10 +6,10 @@ import EndModal from "../shared/EndModal";
 
 const nouns: Question[] = nounsJson
 
-const getRandomQuestionNumber = () => Math.floor(Math.random() * (nouns.length - 1))
+const getRandomQuestionNumber = (maxLength: number) => Math.floor(Math.random() * (maxLength - 1))
 
 const initialOrdering = getOrdering()
-const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber()
+const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber(nouns.length)
 const initialState: ActivityState = {
     options: ['de', 'het'],
     questionNumber: initialQuestionNumber,
@@ -33,7 +33,7 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
             if (state.ordering === 'ordered') {
                 setQuestionNumber(nextQuestionNumber)
             } else {
-                nextQuestionNumber = getRandomQuestionNumber()
+                nextQuestionNumber = getRandomQuestionNumber(questions.length)
             }
             return {
                 ...state,
@@ -50,7 +50,7 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
             const ordering = action.payload
             setOrdering(ordering)
 
-            let questionNumber = getRandomQuestionNumber()
+            let questionNumber = getRandomQuestionNumber(questions.length)
 
             if (action.payload === 'ordered') {
                 questionNumber = getQuestionNumber()
@@ -77,8 +77,8 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
 }
 
 const DeHet = () => {
-    const [prepositionsState, dispatch] = useReducer(reducer(nouns), initialState)
-    const { options, questionNumber, answer, ordering, showEndModal } = prepositionsState
+    const [state, dispatch] = useReducer(reducer(nouns), initialState)
+    const { options, questionNumber, answer, ordering, showEndModal } = state
 
     return (
         <div className="Component">
