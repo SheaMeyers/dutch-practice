@@ -1,17 +1,21 @@
 import { useReducer } from "react";
-import { ActivityState, DispatcherActions, Ordering, Question } from "../shared/Activity.types";
+import { ActivityState, Ordering, Question } from "../shared/Activity.types";
 import nounsJson from "./nouns.json";
-import { getOrdering, getQuestionNumber, setOrdering, setQuestionNumber } from "./session";
 import EndModal from "../shared/EndModal";
+import reducer from "../shared/Activity.reducer";
+import { getOrdering, getQuestionNumber } from "../shared/session";
+import { getRandomQuestionNumber } from "../shared/utils";
 
 const nouns: Question[] = nounsJson
 
-const getRandomQuestionNumber = (maxLength: number) => Math.floor(Math.random() * (maxLength - 1))
 
 const getOptions = (..._: any[]): string[] => ['de', 'het']
 
-const initialOrdering = getOrdering()
-const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber(nouns.length)
+const questionKey = 'deHetQuestionKey'
+const orderingKey = 'deHetOrderingKey'
+
+const initialOrdering = getOrdering(orderingKey)
+const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber(questionKey) : getRandomQuestionNumber(nouns.length)
 const initialState: ActivityState = {
     options: getOptions(),
     questionNumber: initialQuestionNumber,
@@ -20,69 +24,10 @@ const initialState: ActivityState = {
     showEndModal: false,
 }
 
-const reducer = (questions: Question[]) => (state: ActivityState, action: DispatcherActions): ActivityState => {
-    switch (action.type) {
-        case 'nextQuestion':
-            let nextQuestionNumber = state.questionNumber + 1
 
-            if (nextQuestionNumber > (questions.length - 1)) {
-                return {
-                    ...state,
-                    showEndModal: true
-                }
-            }
-
-            if (state.ordering === 'ordered') {
-                setQuestionNumber(nextQuestionNumber)
-            } else {
-                nextQuestionNumber = getRandomQuestionNumber(questions.length)
-            }
-
-            return {
-                ...state,
-                questionNumber: nextQuestionNumber,
-                answer: '',
-                options: getOptions(questions[nextQuestionNumber].answer, questions[nextQuestionNumber].otherAnswers ?? [])
-            }
-        case 'giveAnswer':
-            return { 
-                ...state,
-                questionNumber: state.questionNumber, 
-                answer: action.payload
-            }
-        case 'changeOrdering':
-            const ordering = action.payload
-            setOrdering(ordering)
-
-            let questionNumber = getRandomQuestionNumber(questions.length)
-
-            if (action.payload === 'ordered') {
-                questionNumber = getQuestionNumber()
-                
-            }
-
-            return {
-                ...state,
-                options: getOptions(questions[questionNumber].answer, questions[questionNumber].otherAnswers ?? []),
-                questionNumber,
-                ordering,
-                answer: ''
-            }
-        case 'closeEndModal':
-            setQuestionNumber(0)
-            return {
-                ...state, 
-                showEndModal: false,
-                questionNumber: 0,
-                answer: ''
-            }
-        default:
-            return state
-    }
-}
 
 const DeHet = () => {
-    const [state, dispatch] = useReducer(reducer(nouns), initialState)
+    const [state, dispatch] = useReducer(reducer(nouns, questionKey, orderingKey, getOptions), initialState)
     const { options, questionNumber, answer, ordering, showEndModal } = state
 
     return (
