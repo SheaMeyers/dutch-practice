@@ -20,7 +20,6 @@ const reducer = (questions: Question[], questionKey: string, orderingKey: string
             } else {
                 nextQuestionNumber = getRandomQuestionNumber(questions.length)
             }
-
             return {
                 ...state,
                 questionNumber: nextQuestionNumber,

@@ -1,9 +1,11 @@
 import { useReducer } from 'react';
-import { setQuestionNumber, getQuestionNumber, getOrdering, setOrdering } from './session';
 import prepositionsJson from "./prepositions.json";
-import { ActivityState, DispatcherActions, Ordering, Question } from "../shared/Activity.types";
+import { ActivityState, Ordering, Question } from "../shared/Activity.types";
 import EndModal from '../shared/EndModal';
 import "./Prepositions.css";
+import reducer from '../shared/Activity.reducer';
+import { getOrdering, getQuestionNumber } from '../shared/session';
+import { getRandomQuestionNumber } from '../shared/utils';
 
 const prepositions: Question[] = prepositionsJson
 
@@ -14,7 +16,8 @@ const options: string[] = [
     'tegen', 'uit', 'over', 'om', 'spuiten',
     'aan', 'met', 'op', 'naar', 'voor']
 
-const getRandomQuestionNumber = (maxLength: number) => Math.floor(Math.random() * (maxLength - 1))
+const questionKey = 'questionKey'
+const orderingKey = 'orderingKey'
 
 const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => {
 
@@ -39,8 +42,8 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
     return retrievedOptions
 }
 
-const initialOrdering = getOrdering()
-const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber(prepositions.length)
+const initialOrdering = getOrdering(orderingKey)
+const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber(questionKey) : getRandomQuestionNumber(prepositions.length)
 const initialState: ActivityState = {
     options: getOptions(prepositions[initialQuestionNumber].answer, prepositions[initialQuestionNumber].otherAnswers ?? []),
     questionNumber: initialQuestionNumber,
@@ -49,69 +52,10 @@ const initialState: ActivityState = {
     showEndModal: false
 }
 
-const reducer = (questions: Question[]) => (state: ActivityState, action: DispatcherActions): ActivityState => {
-    switch (action.type) {
-        case 'nextQuestion':
-            let nextQuestionNumber = state.questionNumber + 1
-
-            if (nextQuestionNumber > (questions.length - 1)) {
-                return {
-                    ...state,
-                    showEndModal: true
-                }
-            }
-
-            if (state.ordering === 'ordered') {
-                setQuestionNumber(nextQuestionNumber)
-            } else {
-                nextQuestionNumber = getRandomQuestionNumber(questions.length)
-            }
-            return {
-                ...state,
-                questionNumber: nextQuestionNumber,
-                answer: '',
-                options: getOptions(questions[nextQuestionNumber].answer, questions[nextQuestionNumber].otherAnswers ?? [])
-            }
-        case 'giveAnswer':
-            return { 
-                ...state,
-                questionNumber: state.questionNumber, 
-                answer: action.payload
-            }
-        case 'changeOrdering':
-            const ordering = action.payload
-            setOrdering(ordering)
-
-            let questionNumber = getRandomQuestionNumber(questions.length)
-
-            if (action.payload === 'ordered') {
-                questionNumber = getQuestionNumber()
-                
-            }
-
-            return {
-                ...state,
-                options: getOptions(questions[questionNumber].answer, questions[questionNumber].otherAnswers ?? []),
-                questionNumber,
-                ordering,
-                answer: ''
-            }
-        case 'closeEndModal':
-            setQuestionNumber(0)
-            return {
-                ...state, 
-                showEndModal: false,
-                questionNumber: 0,
-                answer: ''
-            }
-        default:
-            return state
-    }
-}
 
 const Prepositions = () => {
 
-    const [state, dispatch] = useReducer(reducer(prepositions), initialState)
+    const [state, dispatch] = useReducer(reducer(prepositions, questionKey, orderingKey, getOptions), initialState)
     const { options, questionNumber, answer, ordering, showEndModal } = state
 
     return (
