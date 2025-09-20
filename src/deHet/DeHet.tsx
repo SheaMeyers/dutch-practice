@@ -18,14 +18,6 @@ const initialState: DeHetState = {
 
 const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState => {
     switch (action.type) {
-        case 'previousQuestion':
-            const previousQuestionNumber = state.questionNumber - 1
-            setQuestionNumber(previousQuestionNumber)
-            return {
-                ...state,
-                questionNumber: previousQuestionNumber,
-                answer: '',
-            }
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1
 
@@ -139,16 +131,6 @@ const DeHet = () => {
                 <></>
             }
             <div className="Navigator">
-                {ordering === 'ordered' &&
-                    <button
-                        disabled={!answer || questionNumber === 0}
-                        className="btn btn-secondary"
-                        type="button"
-                        onClick={() => dispatch({ type: 'previousQuestion' })}
-                    >
-                        Previous
-                    </button>
-                }
                 <button
                     disabled={!answer || questionNumber > nouns.length}
                     className="btn btn-primary"

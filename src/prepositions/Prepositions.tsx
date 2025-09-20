@@ -49,15 +49,6 @@ const initialState: PrepositionsState = {
 
 const prepositionsReducer = (state: PrepositionsState, action: DispatcherActions): PrepositionsState => {
     switch (action.type) {
-        case 'previousQuestion':
-            const previousQuestionNumber = state.questionNumber - 1
-            setQuestionNumber(previousQuestionNumber)
-            return {
-                ...state,
-                questionNumber: previousQuestionNumber,
-                answer: '',
-                options: getOptions(questions[previousQuestionNumber].answer, questions[previousQuestionNumber].otherAnswers),
-            }
         case 'nextQuestion':
             let nextQuestionNumber = state.questionNumber + 1
 
@@ -126,7 +117,6 @@ const Prepositions = () => {
 
     return (
         <div className="Component">
-
             <div>
                 <div className="form-check form-check-inline">
                     <input 
@@ -185,16 +175,6 @@ const Prepositions = () => {
                     <></>
             }
             <div className="Navigator">
-                {ordering === 'ordered' &&
-                    <button
-                        disabled={!answer || questionNumber === 0}
-                        className="btn btn-secondary"
-                        type="button"
-                        onClick={() => dispatch({ type: 'previousQuestion' })}
-                    >
-                        Previous
-                    </button>
-                }
                 <button
                     disabled={!answer || questionNumber > questions.length}
                     className="btn btn-primary"
