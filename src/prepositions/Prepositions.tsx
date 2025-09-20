@@ -70,7 +70,7 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
                 ...state,
                 questionNumber: nextQuestionNumber,
                 answer: '',
-                options: getOptions(prepositions[nextQuestionNumber].answer, prepositions[nextQuestionNumber].otherAnswers ?? [])
+                options: getOptions(questions[nextQuestionNumber].answer, questions[nextQuestionNumber].otherAnswers ?? [])
             }
         case 'giveAnswer':
             return { 
@@ -90,7 +90,7 @@ const reducer = (questions: Question[]) => (state: ActivityState, action: Dispat
                 
             }
 
-            const options = getOptions(prepositions[questionNumber].answer, prepositions[questionNumber].otherAnswers ?? [])
+            const options = getOptions(questions[questionNumber].answer, questions[questionNumber].otherAnswers ?? [])
 
             return {
                 ...state,
