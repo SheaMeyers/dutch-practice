@@ -88,7 +88,6 @@ const Prepositions = () => {
             </div>
 
             {ordering === 'ordered' && <p>Question {questionNumber+1} of {prepositions.length}</p>}
-            <p>Choose the correct preposition for the verb</p>
             <p className="h3 Question">{prepositions[questionNumber].word}</p>
             <div className="Choices">
                 {options.map(option =>

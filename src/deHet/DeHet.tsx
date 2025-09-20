@@ -60,7 +60,6 @@ const DeHet = () => {
             </div>
 
             {ordering === 'ordered' && <p>Question {questionNumber+1} of {nouns.length}</p>}
-            <p>Choose the correct article for the noun</p>
             <p className="h3 Verb">{nouns[questionNumber].word}</p>
             <div className="Choices">
                 {options.map(option =>
