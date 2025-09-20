@@ -9,6 +9,7 @@ const getRandomQuestionNumber = () => Math.floor(Math.random() * (nouns.length -
 const initialOrdering = getOrdering()
 const initialQuestionNumber = initialOrdering === 'ordered' ? getQuestionNumber() : getRandomQuestionNumber()
 const initialState: DeHetState = {
+    options: ['de', 'het'],
     questionNumber: initialQuestionNumber,
     answer: '',
     ordering: initialOrdering,
@@ -83,7 +84,7 @@ const deHetReducer = (state: DeHetState, action: DispatcherActions): DeHetState 
 
 const DeHet = () => {
     const [prepositionsState, dispatch] = useReducer(deHetReducer, initialState)
-    const { questionNumber, answer, ordering, showEndModal } = prepositionsState
+    const { options, questionNumber, answer, ordering, showEndModal } = prepositionsState
 
     return (
         <div className="Component">
@@ -118,7 +119,7 @@ const DeHet = () => {
             <p>Choose the correct article for the noun</p>
             <p className="h3 Verb">{nouns[questionNumber].noun}</p>
             <div className="Choices">
-                {['de', 'het'].map(option =>
+                {options.map(option =>
                     <button
                         key={option}
                         className={`btn Choices__Button ${!answer && 'btn-light'} ${answer === option ? 'btn-lg' : 'btn-sm'} ${answer && option === nouns[questionNumber].article ? 'btn-success' : 'btn-danger'}`}

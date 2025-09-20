@@ -1,4 +1,5 @@
 export type DeHetState = {
+    options: string[]
     questionNumber: number
     answer: string
     ordering: 'ordered' | 'random'
