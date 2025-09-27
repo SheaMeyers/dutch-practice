@@ -3,6 +3,8 @@ import './App.css'
 import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router';
 import Prepositions from './prepositions/Prepositions';
 import DeHet from './deHet/DeHet';
+import { useState } from 'react';
+
 
 const Sidebar = () => {
   const location = useLocation()
@@ -21,10 +23,37 @@ const Sidebar = () => {
   )
 }
 
+const CollapsableSidebard = () => {
+  const [isCollapsed, setIsCollapsed] = useState<boolean>(true)
+  return (
+    <>
+      {isCollapsed &&
+        <button 
+          className="btn btn-primary" 
+          type="button"
+          onClick={() => setIsCollapsed(!isCollapsed)}
+        >
+          Open
+        </button>
+      }
+      <div className={`collapse ${!isCollapsed ? 'show' : ''}`}>
+          <button 
+            className="btn btn-primary" 
+            type="button"
+            onClick={() => setIsCollapsed(!isCollapsed)}
+          >
+            Close
+          </button>
+          <Sidebar />
+      </div>
+    </>
+  )
+}
+
 const App = () => (
   <BrowserRouter>
     <div className='main'>
-      <Sidebar />
+      <CollapsableSidebard />
       <div className='flex-grow-1'>
         <Routes>
           <Route path="/" element={<Prepositions />} />
