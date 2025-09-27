@@ -6,7 +6,7 @@ type EndModalProps = {
 
 const EndModal = ({ onClick } : EndModalProps) => 
     <div 
-        className="modal show EndModal" 
+        className="modal show Modal" 
         id="endModal" 
         tabIndex={-1} 
         aria-labelledby="endModalLabel" 
