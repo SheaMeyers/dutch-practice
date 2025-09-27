@@ -3,6 +3,10 @@
   display: flex;
 }
 
+.main--mobile {
+  flex-direction: column;
+}
+
 .sidebar {
   background-color: white;
   height: 100%;

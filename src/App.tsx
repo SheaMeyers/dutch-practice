@@ -3,20 +3,12 @@ import './App.css'
 import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router';
 import Prepositions from './prepositions/Prepositions';
 import DeHet from './deHet/DeHet';
-import { useState } from 'react';
 
 
-const Sidebar = (props: { onCloseClick: () => void}) => {
+const Sidebar = () => {
   const location = useLocation()
   return (
     <nav className='flex-grow-2 sidebar'>
-      <button 
-        className="btn btn-primary my-4" 
-        type="button"
-        onClick={() => props.onCloseClick()}
-      >
-        X
-      </button>
       <h4>Activities</h4>
       <ul className="nav flex-column">
         <li className={`nav-item mb-2 ${location.pathname === '/' ? 'fw-bold' : ''}`}>
@@ -30,41 +22,29 @@ const Sidebar = (props: { onCloseClick: () => void}) => {
   )
 }
 
-const CollapsableSidebard = () => {
-  const [isCollapsed, setIsCollapsed] = useState<boolean>(true)
+
+const App = () => {
+  const isMobile = window.matchMedia("(max-width: 767px)").matches;
   return (
-    <>
-      {isCollapsed ?
-        <div className='p-4'>
-          <button 
-            className="btn btn-primary" 
-            type="button"
-            onClick={() => setIsCollapsed(false)}
-          >
-            Activities
-          </button>
+    <BrowserRouter>
+      <div className={'main' + (isMobile ? ' main--mobile' : '')}>
+        {!isMobile && <Sidebar />}
+        <div className='flex-grow-1'>
+          <Routes>
+            <Route path="/" element={<Prepositions />} />
+            <Route path="/de-het" element={<DeHet />} />
+          </Routes>
         </div>
-        :
-        <Sidebar 
-          onCloseClick={() => setIsCollapsed(true)}
-        />
-      }
-    </>
+        {isMobile &&
+          <button
+            className='btn btn-primary mt-4'
+          >
+            Open Activies Menu
+          </button>
+        }
+      </div>
+    </BrowserRouter>
   )
 }
-
-const App = () => (
-  <BrowserRouter>
-    <div className='main'>
-      <CollapsableSidebard />
-      <div className='flex-grow-1'>
-        <Routes>
-          <Route path="/" element={<Prepositions />} />
-          <Route path="/de-het" element={<DeHet />} />
-        </Routes>
-      </div>
-    </div>
-  </BrowserRouter>
-)
 
 export default App;
