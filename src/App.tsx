@@ -6,10 +6,17 @@ import DeHet from './deHet/DeHet';
 import { useState } from 'react';
 
 
-const Sidebar = () => {
+const Sidebar = (props: { onCloseClick: () => void}) => {
   const location = useLocation()
   return (
     <nav className='flex-grow-2 sidebar'>
+      <button 
+        className="btn btn-primary my-4" 
+        type="button"
+        onClick={() => props.onCloseClick()}
+      >
+        X
+      </button>
       <h4>Activities</h4>
       <ul className="nav flex-column">
         <li className={`nav-item mb-2 ${location.pathname === '/' ? 'fw-bold' : ''}`}>
@@ -27,25 +34,21 @@ const CollapsableSidebard = () => {
   const [isCollapsed, setIsCollapsed] = useState<boolean>(true)
   return (
     <>
-      {isCollapsed &&
-        <button 
-          className="btn btn-primary" 
-          type="button"
-          onClick={() => setIsCollapsed(!isCollapsed)}
-        >
-          Open
-        </button>
-      }
-      <div className={`collapse ${!isCollapsed ? 'show' : ''}`}>
+      {isCollapsed ?
+        <div className='p-4'>
           <button 
             className="btn btn-primary" 
             type="button"
-            onClick={() => setIsCollapsed(!isCollapsed)}
+            onClick={() => setIsCollapsed(false)}
           >
-            Close
+            Activities
           </button>
-          <Sidebar />
-      </div>
+        </div>
+        :
+        <Sidebar 
+          onCloseClick={() => setIsCollapsed(true)}
+        />
+      }
     </>
   )
 }
