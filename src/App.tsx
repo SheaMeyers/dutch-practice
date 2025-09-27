@@ -3,6 +3,8 @@ import './App.css'
 import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router';
 import Prepositions from './prepositions/Prepositions';
 import DeHet from './deHet/DeHet';
+import { useState } from 'react';
+import ChooseActivityModal from './shared/ChooseActivityModal';
 
 
 const Sidebar = () => {
@@ -25,6 +27,7 @@ const Sidebar = () => {
 
 const App = () => {
   const isMobile = window.matchMedia("(max-width: 767px)").matches;
+  const [showModal, setShowModal] = useState<boolean>(false)
   return (
     <BrowserRouter>
       <div className={'main' + (isMobile ? ' main--mobile' : '')}>
@@ -36,11 +39,20 @@ const App = () => {
           </Routes>
         </div>
         {isMobile &&
-          <button
-            className='btn btn-primary mt-4'
-          >
-            Open Activies Menu
-          </button>
+          <>
+            <button
+              className='btn btn-primary mt-4'
+              onClick={() => setShowModal(true)}
+            >
+              Open Activies Menu
+            </button>
+            {
+              showModal &&
+              <ChooseActivityModal
+                onClick={() => setShowModal(false)}
+              />
+            }
+          </>
         }
       </div>
     </BrowserRouter>
