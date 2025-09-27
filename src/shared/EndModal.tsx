@@ -1,4 +1,4 @@
-import './EndModal.css'
+import './Modal.css'
 
 type EndModalProps = {
   onClick: () => void;
