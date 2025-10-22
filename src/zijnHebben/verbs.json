@@ -1,0 +1,658 @@
+[
+  {
+    "word": "gaan",
+    "answer": "zijn"
+  },
+  {
+    "word": "komen",
+    "answer": "zijn"
+  },
+  {
+    "word": "werken",
+    "answer": "hebben"
+  },
+  {
+    "word": "doen",
+    "answer": "hebben"
+  },
+  {
+    "word": "zien",
+    "answer": "hebben"
+  },
+  {
+    "word": "geven",
+    "answer": "hebben"
+  },
+  {
+    "word": "nemen",
+    "answer": "hebben"
+  },
+  {
+    "word": "weten",
+    "answer": "hebben"
+  },
+  {
+    "word": "kunnen",
+    "answer": "hebben"
+  },
+  {
+    "word": "willen",
+    "answer": "hebben"
+  },
+  {
+    "word": "moeten",
+    "answer": "hebben"
+  },
+  {
+    "word": "mogen",
+    "answer": "hebben"
+  },
+  {
+    "word": "zullen",
+    "answer": "hebben"
+  },
+  {
+    "word": "blijven",
+    "answer": "zijn"
+  },
+  {
+    "word": "lopen",
+    "answer": "zijn"
+  },
+  {
+    "word": "rijden",
+    "answer": "hebben"
+  },
+  {
+    "word": "slapen",
+    "answer": "hebben"
+  },
+  {
+    "word": "eten",
+    "answer": "hebben"
+  },
+  {
+    "word": "drinken",
+    "answer": "hebben"
+  },
+  {
+    "word": "spreken",
+    "answer": "hebben"
+  },
+  {
+    "word": "schrijven",
+    "answer": "hebben"
+  },
+  {
+    "word": "lezen",
+    "answer": "hebben"
+  },
+  {
+    "word": "denken",
+    "answer": "hebben"
+  },
+  {
+    "word": "zeggen",
+    "answer": "hebben"
+  },
+  {
+    "word": "horen",
+    "answer": "hebben"
+  },
+  {
+    "word": "kijken",
+    "answer": "hebben"
+  },
+  {
+    "word": "vinden",
+    "answer": "hebben"
+  },
+  {
+    "word": "brengen",
+    "answer": "hebben"
+  },
+  {
+    "word": "beginnen",
+    "answer": "zijn"
+  },
+  {
+    "word": "worden",
+    "answer": "zijn"
+  },
+  {
+    "word": "vallen",
+    "answer": "zijn"
+  },
+  {
+    "word": "sterven",
+    "answer": "zijn"
+  },
+  {
+    "word": "gebeuren",
+    "answer": "zijn"
+  },
+  {
+    "word": "vergeten",
+    "answer": "hebben/zijn"
+  },
+  {
+    "word": "begrijpen",
+    "answer": "hebben"
+  },
+  {
+    "word": "verkopen",
+    "answer": "hebben"
+  },
+  {
+    "word": "kopen",
+    "answer": "hebben"
+  },
+  {
+    "word": "winnen",
+    "answer": "hebben"
+  },
+  {
+    "word": "verliezen",
+    "answer": "hebben"
+  },
+  {
+    "word": "maken",
+    "answer": "hebben"
+  },
+  {
+    "word": "bouwen",
+    "answer": "hebben"
+  },
+  {
+    "word": "reizen",
+    "answer": "zijn"
+  },
+  {
+    "word": "vertrekken",
+    "answer": "zijn"
+  },
+  {
+    "word": "aankomen",
+    "answer": "zijn"
+  },
+  {
+    "word": "opstaan",
+    "answer": "zijn"
+  },
+  {
+    "word": "sluiten",
+    "answer": "hebben"
+  },
+  {
+    "word": "openen",
+    "answer": "hebben"
+  },
+  {
+    "word": "zitten",
+    "answer": "hebben"
+  },
+  {
+    "word": "staan",
+    "answer": "hebben"
+  },
+  {
+    "word": "liggen",
+    "answer": "hebben"
+  },
+  {
+    "word": "wonen",
+    "answer": "hebben"
+  },
+  {
+    "word": "leren",
+    "answer": "hebben"
+  },
+  {
+    "word": "studeren",
+    "answer": "hebben"
+  },
+  {
+    "word": "vragen",
+    "answer": "hebben"
+  },
+  {
+    "word": "antwoorden",
+    "answer": "hebben"
+  },
+  {
+    "word": "bellen",
+    "answer": "hebben"
+  },
+  {
+    "word": "luisteren",
+    "answer": "hebben"
+  },
+  {
+    "word": "koken",
+    "answer": "hebben"
+  },
+  {
+    "word": "zwemmen",
+    "answer": "zijn"
+  },
+  {
+    "word": "rennen",
+    "answer": "zijn"
+  },
+  {
+    "word": "wandelen",
+    "answer": "zijn"
+  },
+  {
+    "word": "rusten",
+    "answer": "hebben"
+  },
+  {
+    "word": "spelen",
+    "answer": "hebben"
+  },
+  {
+    "word": "tekenen",
+    "answer": "hebben"
+  },
+  {
+    "word": "verven",
+    "answer": "hebben"
+  },
+  {
+    "word": "zingen",
+    "answer": "hebben"
+  },
+  {
+    "word": "dansen",
+    "answer": "hebben"
+  },
+  {
+    "word": "betalen",
+    "answer": "hebben"
+  },
+  {
+    "word": "verklaren",
+    "answer": "hebben"
+  },
+  {
+    "word": "geloven",
+    "answer": "hebben"
+  },
+  {
+    "word": "halen",
+    "answer": "hebben"
+  },
+  {
+    "word": "zetten",
+    "answer": "hebben"
+  },
+  {
+    "word": "leggen",
+    "answer": "hebben"
+  },
+  {
+    "word": "houden",
+    "answer": "hebben"
+  },
+  {
+    "word": "laten",
+    "answer": "hebben"
+  },
+  {
+    "word": "verkiezen",
+    "answer": "hebben"
+  },
+  {
+    "word": "wachten",
+    "answer": "hebben"
+  },
+  {
+    "word": "zoeken",
+    "answer": "hebben"
+  },
+  {
+    "word": "herinneren",
+    "answer": "hebben"
+  },
+  {
+    "word": "betekenen",
+    "answer": "hebben"
+  },
+  {
+    "word": "kosten",
+    "answer": "hebben"
+  },
+  {
+    "word": "regenen",
+    "answer": "hebben"
+  },
+  {
+    "word": "lachen",
+    "answer": "hebben"
+  },
+  {
+    "word": "huilen",
+    "answer": "hebben"
+  },
+  {
+    "word": "eindigen",
+    "answer": "hebben"
+  },
+  {
+    "word": "trouwen",
+    "answer": "zijn"
+  },
+  {
+    "word": "scheiden",
+    "answer": "zijn"
+  },
+  {
+    "word": "verhuizen",
+    "answer": "zijn"
+  },
+  {
+    "word": "wassen",
+    "answer": "hebben"
+  },
+  {
+    "word": "kammen",
+    "answer": "hebben"
+  },
+  {
+    "word": "borstelen",
+    "answer": "hebben"
+  },
+  {
+    "word": "aankleden",
+    "answer": "hebben"
+  },
+  {
+    "word": "uitkleden",
+    "answer": "hebben"
+  },
+  {
+    "word": "dromen",
+    "answer": "hebben"
+  },
+  {
+    "word": "ontwaken",
+    "answer": "zijn"
+  },
+  {
+    "word": "onderwijzen",
+    "answer": "hebben"
+  },
+  {
+    "word": "rekenen",
+    "answer": "hebben"
+  },
+  {
+    "word": "oefenen",
+    "answer": "hebben"
+  },
+  {
+    "word": "proberen",
+    "answer": "hebben"
+  },
+  {
+    "word": "trainen",
+    "answer": "hebben"
+  },
+  {
+    "word": "vliegen",
+    "answer": "zijn"
+  },
+  {
+    "word": "varen",
+    "answer": "zijn"
+  },
+  {
+    "word": "reizen",
+    "answer": "zijn"
+  },
+  {
+    "word": "bezoeken",
+    "answer": "hebben"
+  },
+  {
+    "word": "ontmoeten",
+    "answer": "hebben"
+  },
+  {
+    "word": "groeten",
+    "answer": "hebben"
+  },
+  {
+    "word": "kussen",
+    "answer": "hebben"
+  },
+  {
+    "word": "omhelzen",
+    "answer": "hebben"
+  },
+  {
+    "word": "houden van",
+    "answer": "hebben"
+  },
+  {
+    "word": "haten",
+    "answer": "hebben"
+  },
+  {
+    "word": "denken aan",
+    "answer": "hebben"
+  },
+  {
+    "word": "zorgen voor",
+    "answer": "hebben"
+  },
+  {
+    "word": "helpen",
+    "answer": "hebben"
+  },
+  {
+    "word": "redden",
+    "answer": "hebben"
+  },
+  {
+    "word": "sturen",
+    "answer": "hebben"
+  },
+  {
+    "word": "ontvangen",
+    "answer": "hebben"
+  },
+  {
+    "word": "dragen",
+    "answer": "hebben"
+  },
+  {
+    "word": "aantrekken",
+    "answer": "hebben"
+  },
+  {
+    "word": "uittrekken",
+    "answer": "hebben"
+  },
+  {
+    "word": "verdienen",
+    "answer": "hebben"
+  },
+  {
+    "word": "doden",
+    "answer": "hebben"
+  },
+  {
+    "word": "leven",
+    "answer": "hebben"
+  },
+  {
+    "word": "geboren worden",
+    "answer": "zijn"
+  },
+  {
+    "word": "verwachten",
+    "answer": "hebben"
+  },
+  {
+    "word": "hopen",
+    "answer": "hebben"
+  },
+  {
+    "word": "wensen",
+    "answer": "hebben"
+  },
+  {
+    "word": "lijken",
+    "answer": "hebben"
+  },
+  {
+    "word": "schijnen",
+    "answer": "hebben"
+  },
+  {
+    "word": "ophouden",
+    "answer": "hebben"
+  },
+  {
+    "word": "doorgaan",
+    "answer": "zijn"
+  },
+  {
+    "word": "verdergaan",
+    "answer": "zijn"
+  },
+  {
+    "word": "uitgaan",
+    "answer": "zijn"
+  },
+  {
+    "word": "terugkomen",
+    "answer": "zijn"
+  },
+  {
+    "word": "meegaan",
+    "answer": "zijn"
+  },
+  {
+    "word": "weggaan",
+    "answer": "zijn"
+  },
+  {
+    "word": "opgroeien",
+    "answer": "zijn"
+  },
+  {
+    "word": "opstijgen",
+    "answer": "zijn"
+  },
+  {
+    "word": "landen",
+    "answer": "zijn"
+  },
+  {
+    "word": "dalen",
+    "answer": "zijn"
+  },
+  {
+    "word": "klimmen",
+    "answer": "zijn"
+  },
+  {
+    "word": "springen",
+    "answer": "zijn"
+  },
+  {
+    "word": "bakken",
+    "answer": "hebben"
+  },
+  {
+    "word": "snijden",
+    "answer": "hebben"
+  },
+  {
+    "word": "proeven",
+    "answer": "hebben"
+  },
+  {
+    "word": "ruiken",
+    "answer": "hebben"
+  },
+  {
+    "word": "roepen",
+    "answer": "hebben"
+  },
+  {
+    "word": "schreeuwen",
+    "answer": "hebben"
+  },
+  {
+    "word": "fluisteren",
+    "answer": "hebben"
+  },
+  {
+    "word": "vertellen",
+    "answer": "hebben"
+  },
+  {
+    "word": "veranderen",
+    "answer": "zijn"
+  },
+  {
+    "word": "ontwikkelen",
+    "answer": "hebben"
+  },
+  {
+    "word": "groeien",
+    "answer": "zijn"
+  },
+  {
+    "word": "vergelijken",
+    "answer": "hebben"
+  },
+  {
+    "word": "besluiten",
+    "answer": "hebben"
+  },
+  {
+    "word": "kiezen",
+    "answer": "hebben"
+  },
+  {
+    "word": "gebruiken",
+    "answer": "hebben"
+  },
+  {
+    "word": "ontdekken",
+    "answer": "hebben"
+  },
+  {
+    "word": "produceren",
+    "answer": "hebben"
+  },
+  {
+    "word": "repareren",
+    "answer": "hebben"
+  },
+  {
+    "word": "vernietigen",
+    "answer": "hebben"
+  },
+  {
+    "word": "beschermen",
+    "answer": "hebben"
+  },
+  {
+    "word": "controleren",
+    "answer": "hebben"
+  },
+  {
+    "word": "bewegen",
+    "answer": "hebben"
+  },
+  {
+    "word": "stoppen",
+    "answer": "hebben"
+  }
+]

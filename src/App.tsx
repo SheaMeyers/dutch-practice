@@ -5,6 +5,7 @@ import Prepositions from './prepositions/Prepositions';
 import DeHet from './deHet/DeHet';
 import { useState } from 'react';
 import ChooseActivityModal from './shared/ChooseActivityModal';
+import ZijnHebben from './zijnHebben/ZijnHebben';
 
 
 const Sidebar = () => {
@@ -18,6 +19,9 @@ const Sidebar = () => {
         </li>
         <li className={`nav-item mb-2 ${location.pathname === '/de-het' ? 'fw-bold' : ''}`}>
           <Link className="nav-link" to="/de-het">De/Het</Link>
+        </li>
+        <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
+          <Link className="nav-link" to="/zijn-hebben">Zijn/Hebben</Link>
         </li>
       </ul>
     </nav>
@@ -36,6 +40,7 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Prepositions />} />
             <Route path="/de-het" element={<DeHet />} />
+            <Route path="/zijn-hebben" element={<ZijnHebben />} />
           </Routes>
         </div>
         {isMobile &&

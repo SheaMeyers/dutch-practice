@@ -29,6 +29,9 @@ const ChooseActivityModal = ({ onClick }: chooseActivityModalProps) => {
                             <li className={`nav-item mb-2 ${location.pathname === '/de-het' ? 'fw-bold' : ''}`}>
                                 <Link className="nav-link" to="/de-het" onClick={onClick}>De/Het</Link>
                             </li>
+                            <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
+                                <Link className="nav-link" to="/zijn-hebben" onClick={onClick}>Zijn/Hebben</Link>
+                            </li>
                         </ul>
                     </div>
                     <div className="modal-footer d-flex justify-content-center">
