@@ -8,25 +8,29 @@ import ChooseActivityModal from './shared/ChooseActivityModal';
 import ZijnHebben from './zijnHebben/ZijnHebben';
 
 
-const Sidebar = () => {
+const LinksList = () => {
   const location = useLocation()
   return (
-    <nav className='flex-grow-2 sidebar'>
-      <h4>Activities</h4>
-      <ul className="nav flex-column">
-        <li className={`nav-item mb-2 ${location.pathname === '/' ? 'fw-bold' : ''}`}>
-          <Link className="nav-link" to="/">Prepositions</Link>
-        </li>
-        <li className={`nav-item mb-2 ${location.pathname === '/de-het' ? 'fw-bold' : ''}`}>
-          <Link className="nav-link" to="/de-het">De/Het</Link>
-        </li>
-        <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
-          <Link className="nav-link" to="/zijn-hebben">Zijn/Hebben</Link>
-        </li>
-      </ul>
-    </nav>
+    <ul className="nav flex-column">
+      <li className={`nav-item mb-2 ${location.pathname === '/' ? 'fw-bold' : ''}`}>
+        <Link className="nav-link" to="/">Prepositions</Link>
+      </li>
+      <li className={`nav-item mb-2 ${location.pathname === '/de-het' ? 'fw-bold' : ''}`}>
+        <Link className="nav-link" to="/de-het">De/Het</Link>
+      </li>
+      <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
+        <Link className="nav-link" to="/zijn-hebben">Zijn/Hebben</Link>
+      </li>
+    </ul>
   )
 }
+
+
+const Sidebar = () =>
+    <nav className='flex-grow-2 sidebar'>
+      <h4>Activities</h4>
+      <LinksList />
+    </nav>
 
 
 const App = () => {
@@ -54,6 +58,7 @@ const App = () => {
             {
               showModal &&
               <ChooseActivityModal
+                LinksList={LinksList}
                 onClick={() => setShowModal(false)}
               />
             }
