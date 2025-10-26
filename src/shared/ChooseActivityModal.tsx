@@ -3,7 +3,7 @@ import './Modal.css'
 import { ComponentType } from 'react';
 
 type chooseActivityModalProps = {
-    LinksList: ComponentType<{}>;
+    LinksList: ComponentType<{ onClick?: () => void }>;
     onClick: () => void;
 };
 
@@ -21,7 +21,7 @@ const ChooseActivityModal = ({ LinksList, onClick }: chooseActivityModalProps) =
                     <h5 className="modal-title w-100" id="chooseActivityModalLabel">Activities</h5>
                 </div>
                 <div className="modal-body">
-                    <LinksList />
+                    <LinksList onClick={onClick} />
                 </div>
                 <div className="modal-footer d-flex justify-content-center">
                     <button

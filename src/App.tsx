@@ -9,21 +9,25 @@ import ZijnHebben from './zijnHebben/ZijnHebben';
 import Expressions from './expressions/Expressions';
 
 
-const LinksList = () => {
+type linksListModalProps = {
+    onClick?: () => void;
+};
+
+const LinksList = ({ onClick } : linksListModalProps) => {
   const location = useLocation()
   return (
     <ul className="nav flex-column">
       <li className={`nav-item mb-2 ${location.pathname === '/' ? 'fw-bold' : ''}`}>
-        <Link className="nav-link" to="/">Prepositions</Link>
+        <Link className="nav-link" to="/" onClick={onClick}>Prepositions</Link>
       </li>
       <li className={`nav-item mb-2 ${location.pathname === '/de-het' ? 'fw-bold' : ''}`}>
-        <Link className="nav-link" to="/de-het">De/Het</Link>
+        <Link className="nav-link" to="/de-het" onClick={onClick}>De/Het</Link>
       </li>
       <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
-        <Link className="nav-link" to="/zijn-hebben">Zijn/Hebben</Link>
+        <Link className="nav-link" to="/zijn-hebben" onClick={onClick}>Zijn/Hebben</Link>
       </li>
       <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
-        <Link className="nav-link" to="/expressions">Expressions</Link>
+        <Link className="nav-link" to="/expressions" onClick={onClick}>Expressions</Link>
       </li>
     </ul>
   )
