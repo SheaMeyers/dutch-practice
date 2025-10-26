@@ -1,658 +1,658 @@
 [
   {
-    "word": "gaan",
+    "question": "gaan",
     "answer": "zijn"
   },
   {
-    "word": "komen",
+    "question": "komen",
     "answer": "zijn"
   },
   {
-    "word": "werken",
+    "question": "werken",
     "answer": "hebben"
   },
   {
-    "word": "doen",
+    "question": "doen",
     "answer": "hebben"
   },
   {
-    "word": "zien",
+    "question": "zien",
     "answer": "hebben"
   },
   {
-    "word": "geven",
+    "question": "geven",
     "answer": "hebben"
   },
   {
-    "word": "nemen",
+    "question": "nemen",
     "answer": "hebben"
   },
   {
-    "word": "weten",
+    "question": "weten",
     "answer": "hebben"
   },
   {
-    "word": "kunnen",
+    "question": "kunnen",
     "answer": "hebben"
   },
   {
-    "word": "willen",
+    "question": "willen",
     "answer": "hebben"
   },
   {
-    "word": "moeten",
+    "question": "moeten",
     "answer": "hebben"
   },
   {
-    "word": "mogen",
+    "question": "mogen",
     "answer": "hebben"
   },
   {
-    "word": "zullen",
+    "question": "zullen",
     "answer": "hebben"
   },
   {
-    "word": "blijven",
+    "question": "blijven",
     "answer": "zijn"
   },
   {
-    "word": "lopen",
+    "question": "lopen",
     "answer": "zijn"
   },
   {
-    "word": "rijden",
+    "question": "rijden",
     "answer": "hebben"
   },
   {
-    "word": "slapen",
+    "question": "slapen",
     "answer": "hebben"
   },
   {
-    "word": "eten",
+    "question": "eten",
     "answer": "hebben"
   },
   {
-    "word": "drinken",
+    "question": "drinken",
     "answer": "hebben"
   },
   {
-    "word": "spreken",
+    "question": "spreken",
     "answer": "hebben"
   },
   {
-    "word": "schrijven",
+    "question": "schrijven",
     "answer": "hebben"
   },
   {
-    "word": "lezen",
+    "question": "lezen",
     "answer": "hebben"
   },
   {
-    "word": "denken",
+    "question": "denken",
     "answer": "hebben"
   },
   {
-    "word": "zeggen",
+    "question": "zeggen",
     "answer": "hebben"
   },
   {
-    "word": "horen",
+    "question": "horen",
     "answer": "hebben"
   },
   {
-    "word": "kijken",
+    "question": "kijken",
     "answer": "hebben"
   },
   {
-    "word": "vinden",
+    "question": "vinden",
     "answer": "hebben"
   },
   {
-    "word": "brengen",
+    "question": "brengen",
     "answer": "hebben"
   },
   {
-    "word": "beginnen",
+    "question": "beginnen",
     "answer": "zijn"
   },
   {
-    "word": "worden",
+    "question": "questionen",
     "answer": "zijn"
   },
   {
-    "word": "vallen",
+    "question": "vallen",
     "answer": "zijn"
   },
   {
-    "word": "sterven",
+    "question": "sterven",
     "answer": "zijn"
   },
   {
-    "word": "gebeuren",
+    "question": "gebeuren",
     "answer": "zijn"
   },
   {
-    "word": "vergeten",
+    "question": "vergeten",
     "answer": "hebben/zijn"
   },
   {
-    "word": "begrijpen",
+    "question": "begrijpen",
     "answer": "hebben"
   },
   {
-    "word": "verkopen",
+    "question": "verkopen",
     "answer": "hebben"
   },
   {
-    "word": "kopen",
+    "question": "kopen",
     "answer": "hebben"
   },
   {
-    "word": "winnen",
+    "question": "winnen",
     "answer": "hebben"
   },
   {
-    "word": "verliezen",
+    "question": "verliezen",
     "answer": "hebben"
   },
   {
-    "word": "maken",
+    "question": "maken",
     "answer": "hebben"
   },
   {
-    "word": "bouwen",
+    "question": "bouwen",
     "answer": "hebben"
   },
   {
-    "word": "reizen",
+    "question": "reizen",
     "answer": "zijn"
   },
   {
-    "word": "vertrekken",
+    "question": "vertrekken",
     "answer": "zijn"
   },
   {
-    "word": "aankomen",
+    "question": "aankomen",
     "answer": "zijn"
   },
   {
-    "word": "opstaan",
+    "question": "opstaan",
     "answer": "zijn"
   },
   {
-    "word": "sluiten",
+    "question": "sluiten",
     "answer": "hebben"
   },
   {
-    "word": "openen",
+    "question": "openen",
     "answer": "hebben"
   },
   {
-    "word": "zitten",
+    "question": "zitten",
     "answer": "hebben"
   },
   {
-    "word": "staan",
+    "question": "staan",
     "answer": "hebben"
   },
   {
-    "word": "liggen",
+    "question": "liggen",
     "answer": "hebben"
   },
   {
-    "word": "wonen",
+    "question": "wonen",
     "answer": "hebben"
   },
   {
-    "word": "leren",
+    "question": "leren",
     "answer": "hebben"
   },
   {
-    "word": "studeren",
+    "question": "studeren",
     "answer": "hebben"
   },
   {
-    "word": "vragen",
+    "question": "vragen",
     "answer": "hebben"
   },
   {
-    "word": "antwoorden",
+    "question": "antwoorden",
     "answer": "hebben"
   },
   {
-    "word": "bellen",
+    "question": "bellen",
     "answer": "hebben"
   },
   {
-    "word": "luisteren",
+    "question": "luisteren",
     "answer": "hebben"
   },
   {
-    "word": "koken",
+    "question": "koken",
     "answer": "hebben"
   },
   {
-    "word": "zwemmen",
+    "question": "zwemmen",
     "answer": "zijn"
   },
   {
-    "word": "rennen",
+    "question": "rennen",
     "answer": "zijn"
   },
   {
-    "word": "wandelen",
+    "question": "wandelen",
     "answer": "zijn"
   },
   {
-    "word": "rusten",
+    "question": "rusten",
     "answer": "hebben"
   },
   {
-    "word": "spelen",
+    "question": "spelen",
     "answer": "hebben"
   },
   {
-    "word": "tekenen",
+    "question": "tekenen",
     "answer": "hebben"
   },
   {
-    "word": "verven",
+    "question": "verven",
     "answer": "hebben"
   },
   {
-    "word": "zingen",
+    "question": "zingen",
     "answer": "hebben"
   },
   {
-    "word": "dansen",
+    "question": "dansen",
     "answer": "hebben"
   },
   {
-    "word": "betalen",
+    "question": "betalen",
     "answer": "hebben"
   },
   {
-    "word": "verklaren",
+    "question": "verklaren",
     "answer": "hebben"
   },
   {
-    "word": "geloven",
+    "question": "geloven",
     "answer": "hebben"
   },
   {
-    "word": "halen",
+    "question": "halen",
     "answer": "hebben"
   },
   {
-    "word": "zetten",
+    "question": "zetten",
     "answer": "hebben"
   },
   {
-    "word": "leggen",
+    "question": "leggen",
     "answer": "hebben"
   },
   {
-    "word": "houden",
+    "question": "houden",
     "answer": "hebben"
   },
   {
-    "word": "laten",
+    "question": "laten",
     "answer": "hebben"
   },
   {
-    "word": "verkiezen",
+    "question": "verkiezen",
     "answer": "hebben"
   },
   {
-    "word": "wachten",
+    "question": "wachten",
     "answer": "hebben"
   },
   {
-    "word": "zoeken",
+    "question": "zoeken",
     "answer": "hebben"
   },
   {
-    "word": "herinneren",
+    "question": "herinneren",
     "answer": "hebben"
   },
   {
-    "word": "betekenen",
+    "question": "betekenen",
     "answer": "hebben"
   },
   {
-    "word": "kosten",
+    "question": "kosten",
     "answer": "hebben"
   },
   {
-    "word": "regenen",
+    "question": "regenen",
     "answer": "hebben"
   },
   {
-    "word": "lachen",
+    "question": "lachen",
     "answer": "hebben"
   },
   {
-    "word": "huilen",
+    "question": "huilen",
     "answer": "hebben"
   },
   {
-    "word": "eindigen",
+    "question": "eindigen",
     "answer": "hebben"
   },
   {
-    "word": "trouwen",
+    "question": "trouwen",
     "answer": "zijn"
   },
   {
-    "word": "scheiden",
+    "question": "scheiden",
     "answer": "zijn"
   },
   {
-    "word": "verhuizen",
+    "question": "verhuizen",
     "answer": "zijn"
   },
   {
-    "word": "wassen",
+    "question": "wassen",
     "answer": "hebben"
   },
   {
-    "word": "kammen",
+    "question": "kammen",
     "answer": "hebben"
   },
   {
-    "word": "borstelen",
+    "question": "borstelen",
     "answer": "hebben"
   },
   {
-    "word": "aankleden",
+    "question": "aankleden",
     "answer": "hebben"
   },
   {
-    "word": "uitkleden",
+    "question": "uitkleden",
     "answer": "hebben"
   },
   {
-    "word": "dromen",
+    "question": "dromen",
     "answer": "hebben"
   },
   {
-    "word": "ontwaken",
+    "question": "ontwaken",
     "answer": "zijn"
   },
   {
-    "word": "onderwijzen",
+    "question": "onderwijzen",
     "answer": "hebben"
   },
   {
-    "word": "rekenen",
+    "question": "rekenen",
     "answer": "hebben"
   },
   {
-    "word": "oefenen",
+    "question": "oefenen",
     "answer": "hebben"
   },
   {
-    "word": "proberen",
+    "question": "proberen",
     "answer": "hebben"
   },
   {
-    "word": "trainen",
+    "question": "trainen",
     "answer": "hebben"
   },
   {
-    "word": "vliegen",
+    "question": "vliegen",
     "answer": "zijn"
   },
   {
-    "word": "varen",
+    "question": "varen",
     "answer": "zijn"
   },
   {
-    "word": "reizen",
+    "question": "reizen",
     "answer": "zijn"
   },
   {
-    "word": "bezoeken",
+    "question": "bezoeken",
     "answer": "hebben"
   },
   {
-    "word": "ontmoeten",
+    "question": "ontmoeten",
     "answer": "hebben"
   },
   {
-    "word": "groeten",
+    "question": "groeten",
     "answer": "hebben"
   },
   {
-    "word": "kussen",
+    "question": "kussen",
     "answer": "hebben"
   },
   {
-    "word": "omhelzen",
+    "question": "omhelzen",
     "answer": "hebben"
   },
   {
-    "word": "houden van",
+    "question": "houden van",
     "answer": "hebben"
   },
   {
-    "word": "haten",
+    "question": "haten",
     "answer": "hebben"
   },
   {
-    "word": "denken aan",
+    "question": "denken aan",
     "answer": "hebben"
   },
   {
-    "word": "zorgen voor",
+    "question": "zorgen voor",
     "answer": "hebben"
   },
   {
-    "word": "helpen",
+    "question": "helpen",
     "answer": "hebben"
   },
   {
-    "word": "redden",
+    "question": "redden",
     "answer": "hebben"
   },
   {
-    "word": "sturen",
+    "question": "sturen",
     "answer": "hebben"
   },
   {
-    "word": "ontvangen",
+    "question": "ontvangen",
     "answer": "hebben"
   },
   {
-    "word": "dragen",
+    "question": "dragen",
     "answer": "hebben"
   },
   {
-    "word": "aantrekken",
+    "question": "aantrekken",
     "answer": "hebben"
   },
   {
-    "word": "uittrekken",
+    "question": "uittrekken",
     "answer": "hebben"
   },
   {
-    "word": "verdienen",
+    "question": "verdienen",
     "answer": "hebben"
   },
   {
-    "word": "doden",
+    "question": "doden",
     "answer": "hebben"
   },
   {
-    "word": "leven",
+    "question": "leven",
     "answer": "hebben"
   },
   {
-    "word": "geboren worden",
+    "question": "geboren questionen",
     "answer": "zijn"
   },
   {
-    "word": "verwachten",
+    "question": "verwachten",
     "answer": "hebben"
   },
   {
-    "word": "hopen",
+    "question": "hopen",
     "answer": "hebben"
   },
   {
-    "word": "wensen",
+    "question": "wensen",
     "answer": "hebben"
   },
   {
-    "word": "lijken",
+    "question": "lijken",
     "answer": "hebben"
   },
   {
-    "word": "schijnen",
+    "question": "schijnen",
     "answer": "hebben"
   },
   {
-    "word": "ophouden",
+    "question": "ophouden",
     "answer": "hebben"
   },
   {
-    "word": "doorgaan",
+    "question": "doorgaan",
     "answer": "zijn"
   },
   {
-    "word": "verdergaan",
+    "question": "verdergaan",
     "answer": "zijn"
   },
   {
-    "word": "uitgaan",
+    "question": "uitgaan",
     "answer": "zijn"
   },
   {
-    "word": "terugkomen",
+    "question": "terugkomen",
     "answer": "zijn"
   },
   {
-    "word": "meegaan",
+    "question": "meegaan",
     "answer": "zijn"
   },
   {
-    "word": "weggaan",
+    "question": "weggaan",
     "answer": "zijn"
   },
   {
-    "word": "opgroeien",
+    "question": "opgroeien",
     "answer": "zijn"
   },
   {
-    "word": "opstijgen",
+    "question": "opstijgen",
     "answer": "zijn"
   },
   {
-    "word": "landen",
+    "question": "landen",
     "answer": "zijn"
   },
   {
-    "word": "dalen",
+    "question": "dalen",
     "answer": "zijn"
   },
   {
-    "word": "klimmen",
+    "question": "klimmen",
     "answer": "zijn"
   },
   {
-    "word": "springen",
+    "question": "springen",
     "answer": "zijn"
   },
   {
-    "word": "bakken",
+    "question": "bakken",
     "answer": "hebben"
   },
   {
-    "word": "snijden",
+    "question": "snijden",
     "answer": "hebben"
   },
   {
-    "word": "proeven",
+    "question": "proeven",
     "answer": "hebben"
   },
   {
-    "word": "ruiken",
+    "question": "ruiken",
     "answer": "hebben"
   },
   {
-    "word": "roepen",
+    "question": "roepen",
     "answer": "hebben"
   },
   {
-    "word": "schreeuwen",
+    "question": "schreeuwen",
     "answer": "hebben"
   },
   {
-    "word": "fluisteren",
+    "question": "fluisteren",
     "answer": "hebben"
   },
   {
-    "word": "vertellen",
+    "question": "vertellen",
     "answer": "hebben"
   },
   {
-    "word": "veranderen",
+    "question": "veranderen",
     "answer": "zijn"
   },
   {
-    "word": "ontwikkelen",
+    "question": "ontwikkelen",
     "answer": "hebben"
   },
   {
-    "word": "groeien",
+    "question": "groeien",
     "answer": "zijn"
   },
   {
-    "word": "vergelijken",
+    "question": "vergelijken",
     "answer": "hebben"
   },
   {
-    "word": "besluiten",
+    "question": "besluiten",
     "answer": "hebben"
   },
   {
-    "word": "kiezen",
+    "question": "kiezen",
     "answer": "hebben"
   },
   {
-    "word": "gebruiken",
+    "question": "gebruiken",
     "answer": "hebben"
   },
   {
-    "word": "ontdekken",
+    "question": "ontdekken",
     "answer": "hebben"
   },
   {
-    "word": "produceren",
+    "question": "produceren",
     "answer": "hebben"
   },
   {
-    "word": "repareren",
+    "question": "repareren",
     "answer": "hebben"
   },
   {
-    "word": "vernietigen",
+    "question": "vernietigen",
     "answer": "hebben"
   },
   {
-    "word": "beschermen",
+    "question": "beschermen",
     "answer": "hebben"
   },
   {
-    "word": "controleren",
+    "question": "controleren",
     "answer": "hebben"
   },
   {
-    "word": "bewegen",
+    "question": "bewegen",
     "answer": "hebben"
   },
   {
-    "word": "stoppen",
+    "question": "stoppen",
     "answer": "hebben"
   }
 ]

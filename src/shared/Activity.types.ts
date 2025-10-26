@@ -14,7 +14,7 @@ export type DispatcherActions =
     | { type: 'closeEndModal' }
 
 export type Question = {
-    word: string,
+    question: string,
     answer: string,
     otherAnswers?: string[]
 }

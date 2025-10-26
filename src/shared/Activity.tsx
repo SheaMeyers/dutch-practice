@@ -69,7 +69,7 @@ const Activity = (props: {
             </div>
 
             {ordering === 'ordered' && <p>Question {questionNumber+1} of {questions.length}</p>}
-            <p className="h3 Question">{questions[questionNumber].word}</p>
+            <p className="h3 Question">{questions[questionNumber].question}</p>
             <div className="Choices">
                 {options.map(option =>
                     <button

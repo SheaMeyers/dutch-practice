@@ -1,880 +1,880 @@
 [
     {
-        "word": "aanbieden",
+        "question": "aanbieden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "aandacht vestigen",
+        "question": "aandacht vestigen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "aandeel hebben",
+        "question": "aandeel hebben",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "aandringen",
+        "question": "aandringen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "aankleden",
+        "question": "aankleden",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "aankomen",
+        "question": "aankomen",
         "answer": "bij",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "aankomen",
+        "question": "aankomen",
         "answer": "in",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "aanleiding geven",
+        "question": "aanleiding geven",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "in aanmerking komen",
+        "question": "in aanmerking komen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "aanmerking maken",
+        "question": "aanmerking maken",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "aanmoedigen",
+        "question": "aanmoedigen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "(zich) aanpassen",
+        "question": "(zich) aanpassen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "zich aansluiten",
+        "question": "zich aansluiten",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "aanspraak maken",
+        "question": "aanspraak maken",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "aansprakelijk zijn",
+        "question": "aansprakelijk zijn",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "aansluiten",
+        "question": "aansluiten",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "aanvragen",
+        "question": "aanvragen",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "aanwijzen",
+        "question": "aanwijzen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "aanzet geven",
+        "question": "aanzet geven",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "aanzetten",
+        "question": "aanzetten",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "aanzitten",
+        "question": "aanzitten",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "aarzelen",
+        "question": "aarzelen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "abonneren",
+        "question": "abonneren",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "acht slaan",
+        "question": "acht slaan",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "achterblijven",
+        "question": "achterblijven",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "achterlaten",
+        "question": "achterlaten",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "achtervolgen",
+        "question": "achtervolgen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "adviseren",
+        "question": "adviseren",
         "answer": "aan",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "adviseren",
+        "question": "adviseren",
         "answer": "tot",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "afbrengen",
+        "question": "afbrengen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afgaan",
+        "question": "afgaan",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "afgeven",
+        "question": "afgeven",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "afhangen",
+        "question": "afhangen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afhankelijk zijn",
+        "question": "afhankelijk zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afhelpen",
+        "question": "afhelpen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afkomen",
+        "question": "afkomen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "afleggen",
+        "question": "afleggen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "afleiden",
+        "question": "afleiden",
         "answer": "uit",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "afleiden",
+        "question": "afleiden",
         "answer": "van",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "aflopen",
+        "question": "aflopen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "afnemen",
+        "question": "afnemen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afrekenen",
+        "question": "afrekenen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "afsnijden",
+        "question": "afsnijden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afspreken",
+        "question": "afspreken",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "afstammen",
+        "question": "afstammen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afstemmen",
+        "question": "afstemmen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "afstand doen",
+        "question": "afstand doen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afvegen",
+        "question": "afvegen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "afwachten",
+        "question": "afwachten",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "afwijken",
+        "question": "afwijken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "afzien",
+        "question": "afzien",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "akkoord gaan",
+        "question": "akkoord gaan",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "amuseren",
+        "question": "amuseren",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "antwoorden",
+        "question": "antwoorden",
         "answer": "aan",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "antwoorden",
+        "question": "antwoorden",
         "answer": "op",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "antwoord geven",
+        "question": "antwoord geven",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "arriveren",
+        "question": "arriveren",
         "answer": "bij",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "arriveren",
+        "question": "arriveren",
         "answer": "in",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "attent zijn",
+        "question": "attent zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "babbelen",
+        "question": "babbelen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "baden",
+        "question": "baden",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "bang zijn",
+        "question": "bang zijn",
         "answer": "van",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "bang zijn",
+        "question": "bang zijn",
         "answer": "voor",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "baseren",
+        "question": "baseren",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "beantwoorden",
+        "question": "beantwoorden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "bedacht zijn",
+        "question": "bedacht zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "bedekken",
+        "question": "bedekken",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "(zich) bedienen",
+        "question": "(zich) bedienen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "bedriegen",
+        "question": "bedriegen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "begerig zijn",
+        "question": "begerig zijn",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "begeven",
+        "question": "begeven",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "begiftigd zijn",
+        "question": "begiftigd zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "beginnen",
+        "question": "beginnen",
         "answer": "aan",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "beginnen",
+        "question": "beginnen",
         "answer": "met",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "behandelen",
+        "question": "behandelen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "behoefte hebben",
+        "question": "behoefte hebben",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "behoren",
+        "question": "behoren",
         "answer": "bij",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "behoren",
+        "question": "behoren",
         "answer": "tot",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "behouden",
+        "question": "behouden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "bekend zijn",
+        "question": "bekend zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "bekendmaken",
+        "question": "bekendmaken",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "beklagen",
+        "question": "beklagen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "(zich) bekommeren",
+        "question": "(zich) bekommeren",
         "answer": "om",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "(zich) bekommeren",
+        "question": "(zich) bekommeren",
         "answer": "over",
         "otherAnswers": [
             "om"
         ]
     },
     {
-        "word": "belanden",
+        "question": "belanden",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "belangstelling hebben",
+        "question": "belangstelling hebben",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "belasten",
+        "question": "belasten",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "beledigen",
+        "question": "beledigen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "belemmeren",
+        "question": "belemmeren",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "bellen",
+        "question": "bellen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "beloven",
+        "question": "beloven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "(zich) bemoeien",
+        "question": "(zich) bemoeien",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "benaderen",
+        "question": "benaderen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "benieuwd zijn",
+        "question": "benieuwd zijn",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "beperken",
+        "question": "beperken",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "beroemen",
+        "question": "beroemen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "beroepen",
+        "question": "beroepen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "berusten",
+        "question": "berusten",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "beschuldigen",
+        "question": "beschuldigen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "besluiten",
+        "question": "besluiten",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "besparen",
+        "question": "besparen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "bestaan",
+        "question": "bestaan",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "bestand zijn",
+        "question": "bestand zijn",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "besteden",
+        "question": "besteden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "bestellen",
+        "question": "bestellen",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "bestemd zijn",
+        "question": "bestemd zijn",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "bestrijden",
+        "question": "bestrijden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "betalen",
+        "question": "betalen",
         "answer": "aan",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "betalen",
+        "question": "betalen",
         "answer": "voor",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "iets betekenen",
+        "question": "iets betekenen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "betogen",
+        "question": "betogen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "betrappen",
+        "question": "betrappen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "betrekken",
+        "question": "betrekken",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "beveiligen",
+        "question": "beveiligen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "bevinden",
+        "question": "bevinden",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "bevredigen",
+        "question": "bevredigen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "bevreesd zijn",
+        "question": "bevreesd zijn",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "bevriend zijn",
+        "question": "bevriend zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "bevrijden",
+        "question": "bevrijden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "bewaren",
+        "question": "bewaren",
         "answer": "in",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "bewaren",
+        "question": "bewaren",
         "answer": "voor",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "bewegen",
+        "question": "bewegen",
         "answer": "naar",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "bewegen",
+        "question": "bewegen",
         "answer": "tot",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "bewust zijn",
+        "question": "bewust zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "bezeten zijn",
+        "question": "bezeten zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "bezig houden",
+        "question": "bezig houden",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "bezig zijn",
+        "question": "bezig zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "in het bezit zijn",
+        "question": "in het bezit zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "bezorgd zijn",
+        "question": "bezorgd zijn",
         "answer": "over",
         "otherAnswers": [
             "om"
         ]
     },
     {
-        "word": "bezorgd zijn",
+        "question": "bezorgd zijn",
         "answer": "om",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "bezuinigen",
+        "question": "bezuinigen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "bidden",
+        "question": "bidden",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "bieden",
+        "question": "bieden",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "bijdragen",
+        "question": "bijdragen",
         "answer": "aan",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "bijdragen",
+        "question": "bijdragen",
         "answer": "tot",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "binden",
+        "question": "binden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "binnendringen",
+        "question": "binnendringen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "bladeren",
+        "question": "bladeren",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "blaffen",
+        "question": "blaffen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "blij zijn",
+        "question": "blij zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "blijken",
+        "question": "blijken",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "blijven",
+        "question": "blijven",
         "answer": "bij",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "blijven",
+        "question": "blijven",
         "answer": "in",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "bonken",
+        "question": "bonken",
         "answer": "op",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "bonken",
+        "question": "bonken",
         "answer": "tegen",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "bonzen",
+        "question": "bonzen",
         "answer": "op",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "bonzen",
+        "question": "bonzen",
         "answer": "tegen",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "boos zijn",
+        "question": "boos zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "boren",
+        "question": "boren",
         "answer": "in",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "boren",
+        "question": "boren",
         "answer": "naar",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "botsen",
+        "question": "botsen",
         "answer": "op",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "botsen",
+        "question": "botsen",
         "answer": "tegen",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "bouwen",
+        "question": "bouwen",
         "answer": "aan",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "bouwen",
+        "question": "bouwen",
         "answer": "op",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "breken",
+        "question": "breken",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "brengen",
+        "question": "brengen",
         "answer": "bij",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "brengen",
+        "question": "brengen",
         "answer": "naar",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "brullen",
+        "question": "brullen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "buigen",
+        "question": "buigen",
         "answer": "naar",
         "otherAnswers": [
             "over",
@@ -882,7 +882,7 @@
         ]
     },
     {
-        "word": "buigen",
+        "question": "buigen",
         "answer": "over",
         "otherAnswers": [
             "naar",
@@ -890,7 +890,7 @@
         ]
     },
     {
-        "word": "buigen",
+        "question": "buigen",
         "answer": "voor",
         "otherAnswers": [
             "naar",
@@ -898,95 +898,95 @@
         ]
     },
     {
-        "word": "bukken",
+        "question": "bukken",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "combineren",
+        "question": "combineren",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "commentaar hebben",
+        "question": "commentaar hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "commentaar leveren",
+        "question": "commentaar leveren",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "zich concentreren",
+        "question": "zich concentreren",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "condoleren",
+        "question": "condoleren",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "concluderen",
+        "question": "concluderen",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "confronteren",
+        "question": "confronteren",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "dalen",
+        "question": "dalen",
         "answer": "naar",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "dalen",
+        "question": "dalen",
         "answer": "op",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "danken",
+        "question": "danken",
         "answer": "aan",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "danken",
+        "question": "danken",
         "answer": "voor",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "dankbaar zijn",
+        "question": "dankbaar zijn",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "dansen",
+        "question": "dansen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "deelnemen",
+        "question": "deelnemen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "deelneming betuigen",
+        "question": "deelneming betuigen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "delen",
+        "question": "delen",
         "answer": "in",
         "otherAnswers": [
             "door",
@@ -994,7 +994,7 @@
         ]
     },
     {
-        "word": "delen",
+        "question": "delen",
         "answer": "door",
         "otherAnswers": [
             "in",
@@ -1002,7 +1002,7 @@
         ]
     },
     {
-        "word": "delen",
+        "question": "delen",
         "answer": "met",
         "otherAnswers": [
             "in",
@@ -1010,21 +1010,21 @@
         ]
     },
     {
-        "word": "demonstreren",
+        "question": "demonstreren",
         "answer": "tegen",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "demonstreren",
+        "question": "demonstreren",
         "answer": "voor",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "denken",
+        "question": "denken",
         "answer": "aan",
         "otherAnswers": [
             "om",
@@ -1032,7 +1032,7 @@
         ]
     },
     {
-        "word": "denken",
+        "question": "denken",
         "answer": "om",
         "otherAnswers": [
             "aan",
@@ -1040,7 +1040,7 @@
         ]
     },
     {
-        "word": "denken",
+        "question": "denken",
         "answer": "over",
         "otherAnswers": [
             "aan",
@@ -1048,41 +1048,41 @@
         ]
     },
     {
-        "word": "dienen",
+        "question": "dienen",
         "answer": "voor",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "dienen",
+        "question": "dienen",
         "answer": "tot",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "discussi\u00ebren",
+        "question": "discussi\u00ebren",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "doelen",
+        "question": "doelen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "dol zijn",
+        "question": "dol zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "doorbreken",
+        "question": "doorbreken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "doorbrengen",
+        "question": "doorbrengen",
         "answer": "bij",
         "otherAnswers": [
             "in",
@@ -1090,7 +1090,7 @@
         ]
     },
     {
-        "word": "doorbrengen",
+        "question": "doorbrengen",
         "answer": "in",
         "otherAnswers": [
             "bij",
@@ -1098,7 +1098,7 @@
         ]
     },
     {
-        "word": "doorbrengen",
+        "question": "doorbrengen",
         "answer": "met",
         "otherAnswers": [
             "bij",
@@ -1106,60 +1106,60 @@
         ]
     },
     {
-        "word": "doordringen",
+        "question": "doordringen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "doorgaan",
+        "question": "doorgaan",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "doorgeven",
+        "question": "doorgeven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "doorlopen",
+        "question": "doorlopen",
         "answer": "naar",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "doorlopen",
+        "question": "doorlopen",
         "answer": "tot",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "draaien",
+        "question": "draaien",
         "answer": "naar",
         "otherAnswers": [
             "om"
         ]
     },
     {
-        "word": "draaien",
+        "question": "draaien",
         "answer": "om",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "dragen",
+        "question": "dragen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "dreigen",
+        "question": "dreigen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "drijven",
+        "question": "drijven",
         "answer": "in",
         "otherAnswers": [
             "op",
@@ -1167,7 +1167,7 @@
         ]
     },
     {
-        "word": "drijven",
+        "question": "drijven",
         "answer": "op",
         "otherAnswers": [
             "in",
@@ -1175,7 +1175,7 @@
         ]
     },
     {
-        "word": "drijven",
+        "question": "drijven",
         "answer": "naar",
         "otherAnswers": [
             "in",
@@ -1183,42 +1183,42 @@
         ]
     },
     {
-        "word": "dromen",
+        "question": "dromen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "drukken",
+        "question": "drukken",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "duren",
+        "question": "duren",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "dwalen",
+        "question": "dwalen",
         "answer": "door",
         "otherAnswers": []
     },
     {
-        "word": "dwepen",
+        "question": "dwepen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "dwingen",
+        "question": "dwingen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "(het) eens zijn",
+        "question": "(het) eens zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "eindigen",
+        "question": "eindigen",
         "answer": "in",
         "otherAnswers": [
             "met",
@@ -1227,7 +1227,7 @@
         ]
     },
     {
-        "word": "eindigen",
+        "question": "eindigen",
         "answer": "met",
         "otherAnswers": [
             "in",
@@ -1236,7 +1236,7 @@
         ]
     },
     {
-        "word": "eindigen",
+        "question": "eindigen",
         "answer": "op",
         "otherAnswers": [
             "in",
@@ -1245,7 +1245,7 @@
         ]
     },
     {
-        "word": "eindigen",
+        "question": "eindigen",
         "answer": "om",
         "otherAnswers": [
             "in",
@@ -1254,32 +1254,32 @@
         ]
     },
     {
-        "word": "(zich) ergeren",
+        "question": "(zich) ergeren",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "ervaren zijn",
+        "question": "ervaren zijn",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "ervaring hebben",
+        "question": "ervaring hebben",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "experimenteren",
+        "question": "experimenteren",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "feliciteren",
+        "question": "feliciteren",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "fluisteren",
+        "question": "fluisteren",
         "answer": "met",
         "otherAnswers": [
             "over",
@@ -1287,7 +1287,7 @@
         ]
     },
     {
-        "word": "fluisteren",
+        "question": "fluisteren",
         "answer": "over",
         "otherAnswers": [
             "met",
@@ -1295,7 +1295,7 @@
         ]
     },
     {
-        "word": "fluisteren",
+        "question": "fluisteren",
         "answer": "tegen",
         "otherAnswers": [
             "met",
@@ -1303,315 +1303,315 @@
         ]
     },
     {
-        "word": "fluiten",
+        "question": "fluiten",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "focussen",
+        "question": "focussen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "gaan",
+        "question": "gaan",
         "answer": "naar",
         "otherAnswers": [
             "om"
         ]
     },
     {
-        "word": "gaan",
+        "question": "gaan",
         "answer": "om",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "gebrand zijn",
+        "question": "gebrand zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "gebrek hebben",
+        "question": "gebrek hebben",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "gebruik maken",
+        "question": "gebruik maken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "gebukt gaan",
+        "question": "gebukt gaan",
         "answer": "onder",
         "otherAnswers": []
     },
     {
-        "word": "gediend zijn",
+        "question": "gediend zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "ge\u00efnteresseerd zijn",
+        "question": "ge\u00efnteresseerd zijn",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "gek zijn",
+        "question": "gek zijn",
         "answer": "op",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "gek zijn",
+        "question": "gek zijn",
         "answer": "van",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "gelijken",
+        "question": "gelijken",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "geld overmaken",
+        "question": "geld overmaken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "geld uitgeven",
+        "question": "geld uitgeven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "geloven",
+        "question": "geloven",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "gelukkig zijn",
+        "question": "gelukkig zijn",
         "answer": "met",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "gelukkig zijn",
+        "question": "gelukkig zijn",
         "answer": "van",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "gemunt hebben",
+        "question": "gemunt hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "genieten",
+        "question": "genieten",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "geraken",
+        "question": "geraken",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "getuigen",
+        "question": "getuigen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "goedkeuren",
+        "question": "goedkeuren",
         "answer": "voor",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "geschikt zijn",
+        "question": "geschikt zijn",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "geven",
+        "question": "geven",
         "answer": "aan",
         "otherAnswers": [
             "om"
         ]
     },
     {
-        "word": "geven",
+        "question": "geven",
         "answer": "om",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "gevolgd worden",
+        "question": "gevolgd questionen",
         "answer": "door",
         "otherAnswers": []
     },
     {
-        "word": "gewend zijn",
+        "question": "gewend zijn",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "gewoon zijn",
+        "question": "gewoon zijn",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "giechelen",
+        "question": "giechelen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "gillen",
+        "question": "gillen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "glijden",
+        "question": "glijden",
         "answer": "in",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "glijden",
+        "question": "glijden",
         "answer": "naar",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "glimlachen",
+        "question": "glimlachen",
         "answer": "naar",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "glimlachen",
+        "question": "glimlachen",
         "answer": "over",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "gluren",
+        "question": "gluren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "grenzen",
+        "question": "grenzen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "goed zijn",
+        "question": "goed zijn",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "goedkeuren",
+        "question": "goedkeuren",
         "answer": "van",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "gooien",
+        "question": "gooien",
         "answer": "in",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "gooien",
+        "question": "gooien",
         "answer": "naar",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "gokken",
+        "question": "gokken",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "graven",
+        "question": "graven",
         "answer": "in",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "graven",
+        "question": "graven",
         "answer": "naar",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "grenzen",
+        "question": "grenzen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "grijnzen",
+        "question": "grijnzen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "halen",
+        "question": "halen",
         "answer": "uit",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "halen",
+        "question": "halen",
         "answer": "van",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "hakken",
+        "question": "hakken",
         "answer": "aan",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "hakken",
+        "question": "hakken",
         "answer": "in",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "handig zijn",
+        "question": "handig zijn",
         "answer": "in",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "handig zijn",
+        "question": "handig zijn",
         "answer": "met",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "hangen",
+        "question": "hangen",
         "answer": "aan",
         "otherAnswers": [
             "over",
@@ -1619,7 +1619,7 @@
         ]
     },
     {
-        "word": "hangen",
+        "question": "hangen",
         "answer": "over",
         "otherAnswers": [
             "aan",
@@ -1627,7 +1627,7 @@
         ]
     },
     {
-        "word": "hangen",
+        "question": "hangen",
         "answer": "tegen",
         "otherAnswers": [
             "aan",
@@ -1635,395 +1635,395 @@
         ]
     },
     {
-        "word": "haperen",
+        "question": "haperen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "hebben",
+        "question": "hebben",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "hechten",
+        "question": "hechten",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "hekel hebben",
+        "question": "hekel hebben",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "heersen",
+        "question": "heersen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "helpen",
+        "question": "helpen",
         "answer": "aan",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "helpen",
+        "question": "helpen",
         "answer": "met",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "herinneren",
+        "question": "herinneren",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "herkennen",
+        "question": "herkennen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "heten",
+        "question": "heten",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "hollen",
+        "question": "hollen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "op de hoogte stellen",
+        "question": "op de hoogte stellen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "op de hoogte zijn",
+        "question": "op de hoogte zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "hopen",
+        "question": "hopen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "(zich) houden",
+        "question": "(zich) houden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "houden",
+        "question": "houden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "hopen",
+        "question": "hopen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "horen",
+        "question": "horen",
         "answer": "over",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "horen",
+        "question": "horen",
         "answer": "van",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "huilen",
+        "question": "huilen",
         "answer": "om",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "huilen",
+        "question": "huilen",
         "answer": "over",
         "otherAnswers": [
             "om"
         ]
     },
     {
-        "word": "huiveren",
+        "question": "huiveren",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "hullen",
+        "question": "hullen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "hunkeren",
+        "question": "hunkeren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "informeren",
+        "question": "informeren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "ingaan",
+        "question": "ingaan",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "ingrijpen",
+        "question": "ingrijpen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "(zich) inlaten",
+        "question": "(zich) inlaten",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "zich inleven",
+        "question": "zich inleven",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "zich inschrijven",
+        "question": "zich inschrijven",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "inspireren",
+        "question": "inspireren",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "instaan",
+        "question": "instaan",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "instellen",
+        "question": "instellen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "intekenen",
+        "question": "intekenen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "interesse hebben",
+        "question": "interesse hebben",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "interesseren",
+        "question": "interesseren",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "introduceren",
+        "question": "introduceren",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "invloed hebben",
+        "question": "invloed hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "inzetten",
+        "question": "inzetten",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "isoleren",
+        "question": "isoleren",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "janken",
+        "question": "janken",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "juichen",
+        "question": "juichen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "kampen",
+        "question": "kampen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "kans hebben",
+        "question": "kans hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "kauwen",
+        "question": "kauwen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "kennismaken",
+        "question": "kennismaken",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "keren",
+        "question": "keren",
         "answer": "naar",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "keren",
+        "question": "keren",
         "answer": "tegen",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "kiezen",
+        "question": "kiezen",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "kijken",
+        "question": "kijken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "kijk hebben",
+        "question": "kijk hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "kijken",
+        "question": "kijken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "kletsen",
+        "question": "kletsen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "kleven",
+        "question": "kleven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "klagen",
+        "question": "klagen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "klimmen",
+        "question": "klimmen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "kloppen",
+        "question": "kloppen",
         "answer": "op",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "kloppen",
+        "question": "kloppen",
         "answer": "tegen",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "knielen",
+        "question": "knielen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "knijpen",
+        "question": "knijpen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "knopen",
+        "question": "knopen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "koesteren",
+        "question": "koesteren",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "komen",
+        "question": "komen",
         "answer": "naar",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "komen",
+        "question": "komen",
         "answer": "uit",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "koppelen",
+        "question": "koppelen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "kritiek hebben",
+        "question": "kritiek hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "kwaad zijn",
+        "question": "kwaad zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "kennen",
+        "question": "kennen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "krijgen",
+        "question": "krijgen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "krijsen",
+        "question": "krijsen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "kronkelen",
+        "question": "kronkelen",
         "answer": "door",
         "otherAnswers": [
             "langs"
         ]
     },
     {
-        "word": "kronkelen",
+        "question": "kronkelen",
         "answer": "langs",
         "otherAnswers": [
             "door"
         ]
     },
     {
-        "word": "kruipen",
+        "question": "kruipen",
         "answer": "bij",
         "otherAnswers": [
             "in",
@@ -2031,7 +2031,7 @@
         ]
     },
     {
-        "word": "kruipen",
+        "question": "kruipen",
         "answer": "in",
         "otherAnswers": [
             "bij",
@@ -2039,7 +2039,7 @@
         ]
     },
     {
-        "word": "kruipen",
+        "question": "kruipen",
         "answer": "op",
         "otherAnswers": [
             "bij",
@@ -2047,26 +2047,26 @@
         ]
     },
     {
-        "word": "kruisen",
+        "question": "kruisen",
         "answer": "door",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "kruisen",
+        "question": "kruisen",
         "answer": "met",
         "otherAnswers": [
             "door"
         ]
     },
     {
-        "word": "kwijtraken",
+        "question": "kwijtraken",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "lachen",
+        "question": "lachen",
         "answer": "met",
         "otherAnswers": [
             "naar",
@@ -2076,7 +2076,7 @@
         ]
     },
     {
-        "word": "lachen",
+        "question": "lachen",
         "answer": "naar",
         "otherAnswers": [
             "met",
@@ -2086,7 +2086,7 @@
         ]
     },
     {
-        "word": "lachen",
+        "question": "lachen",
         "answer": "om",
         "otherAnswers": [
             "met",
@@ -2096,7 +2096,7 @@
         ]
     },
     {
-        "word": "lachen",
+        "question": "lachen",
         "answer": "over",
         "otherAnswers": [
             "met",
@@ -2106,7 +2106,7 @@
         ]
     },
     {
-        "word": "lachen",
+        "question": "lachen",
         "answer": "tegen",
         "otherAnswers": [
             "met",
@@ -2116,69 +2116,69 @@
         ]
     },
     {
-        "word": "landen",
+        "question": "landen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "leggen",
+        "question": "leggen",
         "answer": "in",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "leggen",
+        "question": "leggen",
         "answer": "op",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "leiden",
+        "question": "leiden",
         "answer": "naar",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "leiden",
+        "question": "leiden",
         "answer": "tot",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "lenen",
+        "question": "lenen",
         "answer": "aan",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "lenen",
+        "question": "lenen",
         "answer": "van",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "(zich) lenen",
+        "question": "(zich) lenen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "leren",
+        "question": "leren",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "letten",
+        "question": "letten",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "leven",
+        "question": "leven",
         "answer": "in",
         "otherAnswers": [
             "van",
@@ -2186,45 +2186,45 @@
         ]
     },
     {
-        "word": "leven",
+        "question": "leven",
         "answer": "van",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "leven",
+        "question": "leven",
         "answer": "van",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "leveren",
+        "question": "leveren",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "lezen",
+        "question": "lezen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "liegen",
+        "question": "liegen",
         "answer": "over",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "liegen",
+        "question": "liegen",
         "answer": "tegen",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "liggen",
+        "question": "liggen",
         "answer": "bij",
         "otherAnswers": [
             "in",
@@ -2233,7 +2233,7 @@
         ]
     },
     {
-        "word": "liggen",
+        "question": "liggen",
         "answer": "in",
         "otherAnswers": [
             "bij",
@@ -2242,7 +2242,7 @@
         ]
     },
     {
-        "word": "liggen",
+        "question": "liggen",
         "answer": "naast",
         "otherAnswers": [
             "bij",
@@ -2251,7 +2251,7 @@
         ]
     },
     {
-        "word": "liggen",
+        "question": "liggen",
         "answer": "op",
         "otherAnswers": [
             "bij",
@@ -2260,46 +2260,46 @@
         ]
     },
     {
-        "word": "lijden",
+        "question": "lijden",
         "answer": "aan",
         "otherAnswers": [
             "onder"
         ]
     },
     {
-        "word": "lijden",
+        "question": "lijden",
         "answer": "onder",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "lijken",
+        "question": "lijken",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "likken",
+        "question": "likken",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "loeien",
+        "question": "loeien",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "loeren",
+        "question": "loeren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "logeren",
+        "question": "logeren",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "lopen",
+        "question": "lopen",
         "answer": "door",
         "otherAnswers": [
             "naar",
@@ -2307,7 +2307,7 @@
         ]
     },
     {
-        "word": "lopen",
+        "question": "lopen",
         "answer": "naar",
         "otherAnswers": [
             "door",
@@ -2315,7 +2315,7 @@
         ]
     },
     {
-        "word": "lopen",
+        "question": "lopen",
         "answer": "tot",
         "otherAnswers": [
             "door",
@@ -2323,457 +2323,457 @@
         ]
     },
     {
-        "word": "losmaken",
+        "question": "losmaken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "luisteren",
+        "question": "luisteren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "maken",
+        "question": "maken",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "malen",
+        "question": "malen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "mankeren",
+        "question": "mankeren",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "meebrengen",
+        "question": "meebrengen",
         "answer": "naar",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "meebrengen",
+        "question": "meebrengen",
         "answer": "voor",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "meedelen",
+        "question": "meedelen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "meedingen",
+        "question": "meedingen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "meedoen",
+        "question": "meedoen",
         "answer": "aan",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "meedoen",
+        "question": "meedoen",
         "answer": "met",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "meegaan",
+        "question": "meegaan",
         "answer": "met",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "meegaan",
+        "question": "meegaan",
         "answer": "naar",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "medelijden hebben",
+        "question": "medelijden hebben",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "medeplichtig zijn",
+        "question": "medeplichtig zijn",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "meenemen",
+        "question": "meenemen",
         "answer": "naar",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "meenemen",
+        "question": "meenemen",
         "answer": "voor",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "meeslepen",
+        "question": "meeslepen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "mengen",
+        "question": "mengen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "mikken",
+        "question": "mikken",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "mopperen",
+        "question": "mopperen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "nadenken",
+        "question": "nadenken",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "naderen",
+        "question": "naderen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "nalaten",
+        "question": "nalaten",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "nastreven",
+        "question": "nastreven",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "neerkomen",
+        "question": "neerkomen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "(zich) neerleggen",
+        "question": "(zich) neerleggen",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "neerzetten",
+        "question": "neerzetten",
         "answer": "in",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "neerzetten",
+        "question": "neerzetten",
         "answer": "op",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "negeren",
+        "question": "negeren",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "neigen",
+        "question": "neigen",
         "answer": "naar",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "neigen",
+        "question": "neigen",
         "answer": "tot",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "nieuwsgierig zijn",
+        "question": "nieuwsgierig zijn",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "noodzaken",
+        "question": "noodzaken",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "nodigen",
+        "question": "nodigen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "oefenen",
+        "question": "oefenen",
         "answer": "met",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "oefenen",
+        "question": "oefenen",
         "answer": "voor",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "omdraaien",
+        "question": "omdraaien",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "omgaan",
+        "question": "omgaan",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "omkeren",
+        "question": "omkeren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "omringen",
+        "question": "omringen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "onderbrengen",
+        "question": "onderbrengen",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "onderdoen",
+        "question": "onderdoen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "onderhandelen",
+        "question": "onderhandelen",
         "answer": "met",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "onderhandelen",
+        "question": "onderhandelen",
         "answer": "over",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "onderscheiden",
+        "question": "onderscheiden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "ondersteunen",
+        "question": "ondersteunen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "onderwerpen",
+        "question": "onderwerpen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "ongerust zijn",
+        "question": "ongerust zijn",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "onkundig zijn",
+        "question": "onkundig zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "ontbreken",
+        "question": "ontbreken",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "ontdoen",
+        "question": "ontdoen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "ontfermen",
+        "question": "ontfermen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "ontgaan",
+        "question": "ontgaan",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "onthouden",
+        "question": "onthouden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "ontkomen",
+        "question": "ontkomen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "ontlenen",
+        "question": "ontlenen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "ontnemen",
+        "question": "ontnemen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "ontsnappen",
+        "question": "ontsnappen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "ontstaan",
+        "question": "ontstaan",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "(zich) onttrekken",
+        "question": "(zich) onttrekken",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "ontwijken",
+        "question": "ontwijken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "ontwikkelen",
+        "question": "ontwikkelen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "ontzetten",
+        "question": "ontzetten",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "oordelen",
+        "question": "oordelen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "onverschillig zijn",
+        "question": "onverschillig zijn",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "opbellen",
+        "question": "opbellen",
         "answer": "naar",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "opbellen",
+        "question": "opbellen",
         "answer": "uit",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "opbergen",
+        "question": "opbergen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "opbouwen",
+        "question": "opbouwen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "opdragen",
+        "question": "opdragen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "(zich) opdringen",
+        "question": "(zich) opdringen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "openstaan",
+        "question": "openstaan",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "opgaan",
+        "question": "opgaan",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "opgeven",
+        "question": "opgeven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "opgewassen zijn",
+        "question": "opgewassen zijn",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "opgroeien",
+        "question": "opgroeien",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "ophalen",
+        "question": "ophalen",
         "answer": "uit",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "ophalen",
+        "question": "ophalen",
         "answer": "van",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "ophangen",
+        "question": "ophangen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "opheffen",
+        "question": "opheffen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "ophouden",
+        "question": "ophouden",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "opkijken",
+        "question": "opkijken",
         "answer": "naar",
         "otherAnswers": [
             "tegen",
@@ -2781,7 +2781,7 @@
         ]
     },
     {
-        "word": "opkijken",
+        "question": "opkijken",
         "answer": "tegen",
         "otherAnswers": [
             "naar",
@@ -2789,7 +2789,7 @@
         ]
     },
     {
-        "word": "opkijken",
+        "question": "opkijken",
         "answer": "van",
         "otherAnswers": [
             "naar",
@@ -2797,37 +2797,37 @@
         ]
     },
     {
-        "word": "opkomen",
+        "question": "opkomen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "opleggen",
+        "question": "opleggen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "opleiden",
+        "question": "opleiden",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "oplopen",
+        "question": "oplopen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "oplossen",
+        "question": "oplossen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "opmaken",
+        "question": "opmaken",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "het opnemen",
+        "question": "het opnemen",
         "answer": "tegen",
         "otherAnswers": [
             "van",
@@ -2835,7 +2835,7 @@
         ]
     },
     {
-        "word": "het opnemen",
+        "question": "het opnemen",
         "answer": "van",
         "otherAnswers": [
             "tegen",
@@ -2843,7 +2843,7 @@
         ]
     },
     {
-        "word": "het opnemen",
+        "question": "het opnemen",
         "answer": "voor",
         "otherAnswers": [
             "tegen",
@@ -2851,31 +2851,31 @@
         ]
     },
     {
-        "word": "oppassen",
+        "question": "oppassen",
         "answer": "op",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "oppassen",
+        "question": "oppassen",
         "answer": "voor",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "opschrijven",
+        "question": "opschrijven",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "opsluiten",
+        "question": "opsluiten",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "opstaan",
+        "question": "opstaan",
         "answer": "tegen",
         "otherAnswers": [
             "uit",
@@ -2884,7 +2884,7 @@
         ]
     },
     {
-        "word": "opstaan",
+        "question": "opstaan",
         "answer": "uit",
         "otherAnswers": [
             "tegen",
@@ -2893,7 +2893,7 @@
         ]
     },
     {
-        "word": "opstaan",
+        "question": "opstaan",
         "answer": "van",
         "otherAnswers": [
             "tegen",
@@ -2902,7 +2902,7 @@
         ]
     },
     {
-        "word": "opstaan",
+        "question": "opstaan",
         "answer": "voor",
         "otherAnswers": [
             "tegen",
@@ -2911,12 +2911,12 @@
         ]
     },
     {
-        "word": "opstijgen",
+        "question": "opstijgen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "optreden",
+        "question": "optreden",
         "answer": "in",
         "otherAnswers": [
             "tegen",
@@ -2924,7 +2924,7 @@
         ]
     },
     {
-        "word": "optreden",
+        "question": "optreden",
         "answer": "tegen",
         "otherAnswers": [
             "in",
@@ -2932,7 +2932,7 @@
         ]
     },
     {
-        "word": "optreden",
+        "question": "optreden",
         "answer": "voor",
         "otherAnswers": [
             "in",
@@ -2940,66 +2940,66 @@
         ]
     },
     {
-        "word": "optrekken",
+        "question": "optrekken",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "opvoeden",
+        "question": "opvoeden",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "opwegen",
+        "question": "opwegen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "opzetten",
+        "question": "opzetten",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "opzien",
+        "question": "opzien",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "opzoeken",
+        "question": "opzoeken",
         "answer": "in",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "opzoeken",
+        "question": "opzoeken",
         "answer": "van",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "overbrengen",
+        "question": "overbrengen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "overdragen",
+        "question": "overdragen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "overdrijven",
+        "question": "overdrijven",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "overeenkomen",
+        "question": "overeenkomen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "overgaan",
+        "question": "overgaan",
         "answer": "in",
         "otherAnswers": [
             "op",
@@ -3007,7 +3007,7 @@
         ]
     },
     {
-        "word": "overgaan",
+        "question": "overgaan",
         "answer": "op",
         "otherAnswers": [
             "in",
@@ -3015,7 +3015,7 @@
         ]
     },
     {
-        "word": "overgaan",
+        "question": "overgaan",
         "answer": "tot",
         "otherAnswers": [
             "in",
@@ -3023,143 +3023,143 @@
         ]
     },
     {
-        "word": "overgeven",
+        "question": "overgeven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "overhalen",
+        "question": "overhalen",
         "answer": "om",
         "otherAnswers": []
     },
     {
-        "word": "overhand hebben",
+        "question": "overhand hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "overhandigen",
+        "question": "overhandigen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "overlaten",
+        "question": "overlaten",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "overleggen",
+        "question": "overleggen",
         "answer": "met",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "overleggen",
+        "question": "overleggen",
         "answer": "over",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "overlijden",
+        "question": "overlijden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "overschrijden",
+        "question": "overschrijden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "oversteken",
+        "question": "oversteken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "overtuigd zijn",
+        "question": "overtuigd zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "overtuigen",
+        "question": "overtuigen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "overwinnen",
+        "question": "overwinnen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "overwinning behalen",
+        "question": "overwinning behalen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "paren",
+        "question": "paren",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "parkeren",
+        "question": "parkeren",
         "answer": "bij",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "parkeren",
+        "question": "parkeren",
         "answer": "in",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "passen",
+        "question": "passen",
         "answer": "bij",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "passen",
+        "question": "passen",
         "answer": "op",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "peinzen",
+        "question": "peinzen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "persen",
+        "question": "persen",
         "answer": "in",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "persen",
+        "question": "persen",
         "answer": "uit",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "piekeren",
+        "question": "piekeren",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "pikken",
+        "question": "pikken",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "plaatsen",
+        "question": "plaatsen",
         "answer": "bij",
         "otherAnswers": [
             "in",
@@ -3167,7 +3167,7 @@
         ]
     },
     {
-        "word": "plaatsen",
+        "question": "plaatsen",
         "answer": "in",
         "otherAnswers": [
             "bij",
@@ -3175,7 +3175,7 @@
         ]
     },
     {
-        "word": "plaatsen",
+        "question": "plaatsen",
         "answer": "op",
         "otherAnswers": [
             "bij",
@@ -3183,64 +3183,64 @@
         ]
     },
     {
-        "word": "pleiten",
+        "question": "pleiten",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "plezier hebben",
+        "question": "plezier hebben",
         "answer": "in",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "plezier hebben",
+        "question": "plezier hebben",
         "answer": "van",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "plukken",
+        "question": "plukken",
         "answer": "uit",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "plukken",
+        "question": "plukken",
         "answer": "van",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "pochen",
+        "question": "pochen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "(een) poging doen",
+        "question": "(een) poging doen",
         "answer": "om",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "(een) poging doen",
+        "question": "(een) poging doen",
         "answer": "tot",
         "otherAnswers": [
             "om"
         ]
     },
     {
-        "word": "prat gaan",
+        "question": "prat gaan",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "praten",
+        "question": "praten",
         "answer": "met",
         "otherAnswers": [
             "over",
@@ -3250,7 +3250,7 @@
         ]
     },
     {
-        "word": "praten",
+        "question": "praten",
         "answer": "over",
         "otherAnswers": [
             "met",
@@ -3260,7 +3260,7 @@
         ]
     },
     {
-        "word": "praten",
+        "question": "praten",
         "answer": "tegen",
         "otherAnswers": [
             "met",
@@ -3271,7 +3271,7 @@
         ]
     },
     {
-        "word": "praten",
+        "question": "praten",
         "answer": "tot",
         "otherAnswers": [
             "met",
@@ -3282,27 +3282,27 @@
         ]
     },
     {
-        "word": "prikkelen",
+        "question": "prikkelen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "prikken",
+        "question": "prikken",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "proeven",
+        "question": "proeven",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "profiteren",
+        "question": "profiteren",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "praten",
+        "question": "praten",
         "answer": "met",
         "otherAnswers": [
             "over",
@@ -3312,7 +3312,7 @@
         ]
     },
     {
-        "word": "praten",
+        "question": "praten",
         "answer": "over",
         "otherAnswers": [
             "met",
@@ -3322,158 +3322,158 @@
         ]
     },
     {
-        "word": "projecteren",
+        "question": "projecteren",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "protesteren",
+        "question": "protesteren",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "publiceren",
+        "question": "publiceren",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "putten",
+        "question": "putten",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "raden",
+        "question": "raden",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "raken",
+        "question": "raken",
         "answer": "aan",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "raken",
+        "question": "raken",
         "answer": "met",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "reageren",
+        "question": "reageren",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "recht hebben",
+        "question": "recht hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "reclame maken",
+        "question": "reclame maken",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "reduceren",
+        "question": "reduceren",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "regeren",
+        "question": "regeren",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "registreren",
+        "question": "registreren",
         "answer": "bij",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "registreren",
+        "question": "registreren",
         "answer": "in",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "reiken",
+        "question": "reiken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "reizen",
+        "question": "reizen",
         "answer": "in",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "reizen",
+        "question": "reizen",
         "answer": "naar",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "rekken",
+        "question": "rekken",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "redden",
+        "question": "redden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "rekenen",
+        "question": "rekenen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "rekening houden",
+        "question": "rekening houden",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "(zich) rekenschap geven",
+        "question": "(zich) rekenschap geven",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "rennen",
+        "question": "rennen",
         "answer": "door",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "rennen",
+        "question": "rennen",
         "answer": "naar",
         "otherAnswers": [
             "door"
         ]
     },
     {
-        "word": "reserveren",
+        "question": "reserveren",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "respect hebben",
+        "question": "respect hebben",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "resulteren",
+        "question": "resulteren",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "(zich) richten",
+        "question": "(zich) richten",
         "answer": "op",
         "otherAnswers": [
             "tegen",
@@ -3481,7 +3481,7 @@
         ]
     },
     {
-        "word": "(zich) richten",
+        "question": "(zich) richten",
         "answer": "tegen",
         "otherAnswers": [
             "op",
@@ -3489,7 +3489,7 @@
         ]
     },
     {
-        "word": "(zich) richten",
+        "question": "(zich) richten",
         "answer": "tot",
         "otherAnswers": [
             "op",
@@ -3497,7 +3497,7 @@
         ]
     },
     {
-        "word": "rijden",
+        "question": "rijden",
         "answer": "door",
         "otherAnswers": [
             "in",
@@ -3506,7 +3506,7 @@
         ]
     },
     {
-        "word": "rijden",
+        "question": "rijden",
         "answer": "in",
         "otherAnswers": [
             "door",
@@ -3515,7 +3515,7 @@
         ]
     },
     {
-        "word": "rijden",
+        "question": "rijden",
         "answer": "naar",
         "otherAnswers": [
             "door",
@@ -3524,7 +3524,7 @@
         ]
     },
     {
-        "word": "rijden",
+        "question": "rijden",
         "answer": "om",
         "otherAnswers": [
             "door",
@@ -3533,89 +3533,89 @@
         ]
     },
     {
-        "word": "rijk zijn",
+        "question": "rijk zijn",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "rinkelen",
+        "question": "rinkelen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "roeien",
+        "question": "roeien",
         "answer": "door",
         "otherAnswers": []
     },
     {
-        "word": "roepen",
+        "question": "roepen",
         "answer": "naar",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "roepen",
+        "question": "roepen",
         "answer": "tegen",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "ruiken",
+        "question": "ruiken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "ruilen",
+        "question": "ruilen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "samenhangen",
+        "question": "samenhangen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "samenwerken",
+        "question": "samenwerken",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "(zich) schamen",
+        "question": "(zich) schamen",
         "answer": "over",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "(zich) schamen",
+        "question": "(zich) schamen",
         "answer": "voor",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "scheiden",
+        "question": "scheiden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "schelden",
+        "question": "schelden",
         "answer": "op",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "schelden",
+        "question": "schelden",
         "answer": "tegen",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "schelen",
+        "question": "schelen",
         "answer": "aan",
         "otherAnswers": [
             "met",
@@ -3623,7 +3623,7 @@
         ]
     },
     {
-        "word": "schelen",
+        "question": "schelen",
         "answer": "met",
         "otherAnswers": [
             "aan",
@@ -3631,12 +3631,12 @@
         ]
     },
     {
-        "word": "schenken",
+        "question": "schenken",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "schelen",
+        "question": "schelen",
         "answer": "in",
         "otherAnswers": [
             "aan",
@@ -3644,160 +3644,160 @@
         ]
     },
     {
-        "word": "scheppen",
+        "question": "scheppen",
         "answer": "in",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "scheppen",
+        "question": "scheppen",
         "answer": "uit",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "scheren",
+        "question": "scheren",
         "answer": "langs",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "scheren",
+        "question": "scheren",
         "answer": "met",
         "otherAnswers": [
             "langs"
         ]
     },
     {
-        "word": "schieten",
+        "question": "schieten",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "schoonmaken",
+        "question": "schoonmaken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "schoppen",
+        "question": "schoppen",
         "answer": "tegen",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "schoppen",
+        "question": "schoppen",
         "answer": "naar",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "schreien",
+        "question": "schreien",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "schrijven",
+        "question": "schrijven",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "schreeuwen",
+        "question": "schreeuwen",
         "answer": "naar",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "schreeuwen",
+        "question": "schreeuwen",
         "answer": "tegen",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "in zijn schik zijn",
+        "question": "in zijn schik zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "schrikken",
+        "question": "schrikken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "schudden",
+        "question": "schudden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "schuifelen",
+        "question": "schuifelen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "schuilen",
+        "question": "schuilen",
         "answer": "onder",
         "otherAnswers": []
     },
     {
-        "word": "serveren",
+        "question": "serveren",
         "answer": "aan",
         "otherAnswers": [
             "bij"
         ]
     },
     {
-        "word": "serveren",
+        "question": "serveren",
         "answer": "bij",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "sissen",
+        "question": "sissen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "slaan",
+        "question": "slaan",
         "answer": "op",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "slaan",
+        "question": "slaan",
         "answer": "tegen",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "slagen",
+        "question": "slagen",
         "answer": "in",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "slagen",
+        "question": "slagen",
         "answer": "voor",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "slecht zijn",
+        "question": "slecht zijn",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "slenteren",
+        "question": "slenteren",
         "answer": "door",
         "otherAnswers": [
             "langs",
@@ -3805,7 +3805,7 @@
         ]
     },
     {
-        "word": "slenteren",
+        "question": "slenteren",
         "answer": "langs",
         "otherAnswers": [
             "door",
@@ -3813,7 +3813,7 @@
         ]
     },
     {
-        "word": "slenteren",
+        "question": "slenteren",
         "answer": "naar",
         "otherAnswers": [
             "door",
@@ -3821,75 +3821,75 @@
         ]
     },
     {
-        "word": "slepen",
+        "question": "slepen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "sluipen",
+        "question": "sluipen",
         "answer": "door",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "sluipen",
+        "question": "sluipen",
         "answer": "naar",
         "otherAnswers": [
             "door"
         ]
     },
     {
-        "word": "smachten",
+        "question": "smachten",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "smaken",
+        "question": "smaken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "smeken",
+        "question": "smeken",
         "answer": "om",
         "otherAnswers": []
     },
     {
-        "word": "snakken",
+        "question": "snakken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "snijden",
+        "question": "snijden",
         "answer": "door",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "snijden",
+        "question": "snijden",
         "answer": "in",
         "otherAnswers": [
             "door"
         ]
     },
     {
-        "word": "solliciteren",
+        "question": "solliciteren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "sparen",
+        "question": "sparen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "specialiseren",
+        "question": "specialiseren",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "spelen",
+        "question": "spelen",
         "answer": "met",
         "otherAnswers": [
             "op",
@@ -3897,7 +3897,7 @@
         ]
     },
     {
-        "word": "spelen",
+        "question": "spelen",
         "answer": "op",
         "otherAnswers": [
             "met",
@@ -3905,7 +3905,7 @@
         ]
     },
     {
-        "word": "spelen",
+        "question": "spelen",
         "answer": "over",
         "otherAnswers": [
             "met",
@@ -3913,41 +3913,41 @@
         ]
     },
     {
-        "word": "spijt hebben",
+        "question": "spijt hebben",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "spotten",
+        "question": "spotten",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "spreken",
+        "question": "spreken",
         "answer": "over",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "spreken",
+        "question": "spreken",
         "answer": "tegen",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "springen",
+        "question": "springen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "spuiten",
+        "question": "spuiten",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "staan",
+        "question": "staan",
         "answer": "in",
         "otherAnswers": [
             "naast",
@@ -3956,7 +3956,7 @@
         ]
     },
     {
-        "word": "staan",
+        "question": "staan",
         "answer": "naast",
         "otherAnswers": [
             "in",
@@ -3965,7 +3965,7 @@
         ]
     },
     {
-        "word": "staan",
+        "question": "staan",
         "answer": "om",
         "otherAnswers": [
             "in",
@@ -3974,7 +3974,7 @@
         ]
     },
     {
-        "word": "staan",
+        "question": "staan",
         "answer": "op",
         "otherAnswers": [
             "in",
@@ -3983,12 +3983,12 @@
         ]
     },
     {
-        "word": "in staat zijn",
+        "question": "in staat zijn",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "stappen",
+        "question": "stappen",
         "answer": "in",
         "otherAnswers": [
             "op",
@@ -3996,7 +3996,7 @@
         ]
     },
     {
-        "word": "stappen",
+        "question": "stappen",
         "answer": "op",
         "otherAnswers": [
             "in",
@@ -4004,7 +4004,7 @@
         ]
     },
     {
-        "word": "stappen",
+        "question": "stappen",
         "answer": "over",
         "otherAnswers": [
             "in",
@@ -4012,36 +4012,36 @@
         ]
     },
     {
-        "word": "staren",
+        "question": "staren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "steekt",
+        "question": "steekt",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "steken",
+        "question": "steken",
         "answer": "in",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "steken",
+        "question": "steken",
         "answer": "uit",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "stelen",
+        "question": "stelen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "stemmen",
+        "question": "stemmen",
         "answer": "op",
         "otherAnswers": [
             "tegen",
@@ -4049,7 +4049,7 @@
         ]
     },
     {
-        "word": "stemmen",
+        "question": "stemmen",
         "answer": "tegen",
         "otherAnswers": [
             "op",
@@ -4057,7 +4057,7 @@
         ]
     },
     {
-        "word": "stemmen",
+        "question": "stemmen",
         "answer": "voor",
         "otherAnswers": [
             "op",
@@ -4065,56 +4065,56 @@
         ]
     },
     {
-        "word": "sterven",
+        "question": "sterven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "steunen",
+        "question": "steunen",
         "answer": "op",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "steunen",
+        "question": "steunen",
         "answer": "tegen",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "stikken",
+        "question": "stikken",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "stilstaan",
+        "question": "stilstaan",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "stinken",
+        "question": "stinken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "stoppen",
+        "question": "stoppen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "(zich) storten",
+        "question": "(zich) storten",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "streven",
+        "question": "streven",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "strijden",
+        "question": "strijden",
         "answer": "tegen",
         "otherAnswers": [
             "voor",
@@ -4122,7 +4122,7 @@
         ]
     },
     {
-        "word": "strijden",
+        "question": "strijden",
         "answer": "voor",
         "otherAnswers": [
             "tegen",
@@ -4131,17 +4131,17 @@
         ]
     },
     {
-        "word": "strijdig zijn",
+        "question": "strijdig zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "in strijd zijn",
+        "question": "in strijd zijn",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "strijden",
+        "question": "strijden",
         "answer": "met",
         "otherAnswers": [
             "tegen",
@@ -4150,7 +4150,7 @@
         ]
     },
     {
-        "word": "strijden",
+        "question": "strijden",
         "answer": "tegen",
         "otherAnswers": [
             "voor",
@@ -4158,26 +4158,26 @@
         ]
     },
     {
-        "word": "strooien",
+        "question": "strooien",
         "answer": "in",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "strooien",
+        "question": "strooien",
         "answer": "over",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "stuiten",
+        "question": "stuiten",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "studeren",
+        "question": "studeren",
         "answer": "aan",
         "otherAnswers": [
             "op",
@@ -4185,7 +4185,7 @@
         ]
     },
     {
-        "word": "studeren",
+        "question": "studeren",
         "answer": "op",
         "otherAnswers": [
             "aan",
@@ -4193,7 +4193,7 @@
         ]
     },
     {
-        "word": "studeren",
+        "question": "studeren",
         "answer": "voor",
         "otherAnswers": [
             "aan",
@@ -4201,301 +4201,301 @@
         ]
     },
     {
-        "word": "sturen",
+        "question": "sturen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "tegengesteld zijn",
+        "question": "tegengesteld zijn",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "tekenen",
+        "question": "tekenen",
         "answer": "in",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "tekenen",
+        "question": "tekenen",
         "answer": "voor",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "teleurgesteld zijn",
+        "question": "teleurgesteld zijn",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "terugkeren",
+        "question": "terugkeren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "terugkomen",
+        "question": "terugkomen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "telefoneren",
+        "question": "telefoneren",
         "answer": "naar",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "telefoneren",
+        "question": "telefoneren",
         "answer": "over",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "tellen",
+        "question": "tellen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "terechtkomen",
+        "question": "terechtkomen",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "terugbrengen",
+        "question": "terugbrengen",
         "answer": "naar",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "terugbrengen",
+        "question": "terugbrengen",
         "answer": "tot",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "teruggaan",
+        "question": "teruggaan",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "terugkomen",
+        "question": "terugkomen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "terugtrekken",
+        "question": "terugtrekken",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "tevreden zijn",
+        "question": "tevreden zijn",
         "answer": "met",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "tevreden zijn",
+        "question": "tevreden zijn",
         "answer": "over",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "thuiskomen",
+        "question": "thuiskomen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "tikken",
+        "question": "tikken",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "toedienen",
+        "question": "toedienen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "toegeven",
+        "question": "toegeven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "toekennen",
+        "question": "toekennen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "toekijken",
+        "question": "toekijken",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "toekomen",
+        "question": "toekomen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "toelaten",
+        "question": "toelaten",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "toeleggen",
+        "question": "toeleggen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "toeschrijven",
+        "question": "toeschrijven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "toevertrouwen",
+        "question": "toevertrouwen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "toevoegen",
+        "question": "toevoegen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "toewijzen",
+        "question": "toewijzen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "toezien",
+        "question": "toezien",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "tonen",
+        "question": "tonen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "trakteren",
+        "question": "trakteren",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "trappen",
+        "question": "trappen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "trek hebben",
+        "question": "trek hebben",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "trekken",
+        "question": "trekken",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "treuren",
+        "question": "treuren",
         "answer": "om",
         "otherAnswers": []
     },
     {
-        "word": "troosten",
+        "question": "troosten",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "trots zijn",
+        "question": "trots zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "trouw zijn",
+        "question": "trouw zijn",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "trouwen",
+        "question": "trouwen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "turen",
+        "question": "turen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "twijfelen",
+        "question": "twijfelen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "uitbarsten",
+        "question": "uitbarsten",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "uitbreiden",
+        "question": "uitbreiden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "uitbreken",
+        "question": "uitbreken",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "uiteenlopen",
+        "question": "uiteenlopen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "uitgaan",
+        "question": "uitgaan",
         "answer": "met",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "uitgaan",
+        "question": "uitgaan",
         "answer": "van",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "uitgeven",
+        "question": "uitgeven",
         "answer": "aan",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "uitgeven",
+        "question": "uitgeven",
         "answer": "voor",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "uitgroeien",
+        "question": "uitgroeien",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "uithalen",
+        "question": "uithalen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "uitkijken",
+        "question": "uitkijken",
         "answer": "naar",
         "otherAnswers": [
             "op",
@@ -4503,7 +4503,7 @@
         ]
     },
     {
-        "word": "uitkijken",
+        "question": "uitkijken",
         "answer": "op",
         "otherAnswers": [
             "naar",
@@ -4511,7 +4511,7 @@
         ]
     },
     {
-        "word": "uitkijken",
+        "question": "uitkijken",
         "answer": "voor",
         "otherAnswers": [
             "naar",
@@ -4519,95 +4519,95 @@
         ]
     },
     {
-        "word": "uitkomen",
+        "question": "uitkomen",
         "answer": "op",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "uitkomen",
+        "question": "uitkomen",
         "answer": "tegen",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "uitleggen",
+        "question": "uitleggen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "uitleven",
+        "question": "uitleven",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "uitlopen",
+        "question": "uitlopen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "uitmaken",
+        "question": "uitmaken",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "uitnodigen",
+        "question": "uitnodigen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "uitroepen",
+        "question": "uitroepen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "uitrusten",
+        "question": "uitrusten",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "uitspreken",
+        "question": "uitspreken",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "uitsteken",
+        "question": "uitsteken",
         "answer": "in",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "uitsteken",
+        "question": "uitsteken",
         "answer": "naar",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "uitstellen",
+        "question": "uitstellen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "uitstruikelen",
+        "question": "uitstruikelen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "uitvallen",
+        "question": "uitvallen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "uitzien",
+        "question": "uitzien",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "vallen",
+        "question": "vallen",
         "answer": "op",
         "otherAnswers": [
             "over",
@@ -4615,7 +4615,7 @@
         ]
     },
     {
-        "word": "vallen",
+        "question": "vallen",
         "answer": "over",
         "otherAnswers": [
             "op",
@@ -4623,7 +4623,7 @@
         ]
     },
     {
-        "word": "vallen",
+        "question": "vallen",
         "answer": "van",
         "otherAnswers": [
             "op",
@@ -4631,172 +4631,172 @@
         ]
     },
     {
-        "word": "varen",
+        "question": "varen",
         "answer": "in",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "varen",
+        "question": "varen",
         "answer": "naar",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "vari\u00ebren",
+        "question": "vari\u00ebren",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "vatbaar zijn",
+        "question": "vatbaar zijn",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "vechten",
+        "question": "vechten",
         "answer": "met",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "vechten",
+        "question": "vechten",
         "answer": "tegen",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "veranderen",
+        "question": "veranderen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "verantwoordelijk zijn",
+        "question": "verantwoordelijk zijn",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "verantwoorden",
+        "question": "verantwoorden",
         "answer": "aan",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "verantwoorden",
+        "question": "verantwoorden",
         "answer": "voor",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "zich verbazen",
+        "question": "zich verbazen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "verbinden",
+        "question": "verbinden",
         "answer": "aan",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "verbinden",
+        "question": "verbinden",
         "answer": "met",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "verbreken",
+        "question": "verbreken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "verdacht zijn",
+        "question": "verdacht zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "verdenken",
+        "question": "verdenken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "zich verdiepen",
+        "question": "zich verdiepen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "geld verdienen",
+        "question": "geld verdienen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "verdriet hebben",
+        "question": "verdriet hebben",
         "answer": "om",
         "otherAnswers": []
     },
     {
-        "word": "verdrijven",
+        "question": "verdrijven",
         "answer": "naar",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "verdrijven",
+        "question": "verdrijven",
         "answer": "uit",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "verdwijnen",
+        "question": "verdwijnen",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "verenigen",
+        "question": "verenigen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "verfijnen",
+        "question": "verfijnen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "vergaan",
+        "question": "vergaan",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "vergelijken",
+        "question": "vergelijken",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "vergezellen",
+        "question": "vergezellen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "vergroten",
+        "question": "vergroten",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "(zich) vergissen",
+        "question": "(zich) vergissen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "(zich) verheugen",
+        "question": "(zich) verheugen",
         "answer": "in",
         "otherAnswers": [
             "op",
@@ -4804,7 +4804,7 @@
         ]
     },
     {
-        "word": "(zich) verheugen",
+        "question": "(zich) verheugen",
         "answer": "op",
         "otherAnswers": [
             "in",
@@ -4812,7 +4812,7 @@
         ]
     },
     {
-        "word": "(zich) verheugen",
+        "question": "(zich) verheugen",
         "answer": "over",
         "otherAnswers": [
             "in",
@@ -4820,386 +4820,386 @@
         ]
     },
     {
-        "word": "(zich) verhouden",
+        "question": "(zich) verhouden",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "verhogen",
+        "question": "verhogen",
         "answer": "naar",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "verhogen",
+        "question": "verhogen",
         "answer": "tot",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "verhuizen",
+        "question": "verhuizen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "verhuren",
+        "question": "verhuren",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "verkeren",
+        "question": "verkeren",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "verkiezen",
+        "question": "verkiezen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "(zich) verkijken",
+        "question": "(zich) verkijken",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "verkopen",
+        "question": "verkopen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "verlangen",
+        "question": "verlangen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "verleiden",
+        "question": "verleiden",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "verlegen zitten",
+        "question": "verlegen zitten",
         "answer": "om",
         "otherAnswers": []
     },
     {
-        "word": "verlengen",
+        "question": "verlengen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "verliefd zijn",
+        "question": "verliefd zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "verliezen",
+        "question": "verliezen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "verlossen",
+        "question": "verlossen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vermengen",
+        "question": "vermengen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "vermoeden",
+        "question": "vermoeden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vermoeien",
+        "question": "vermoeien",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "veroordelen",
+        "question": "veroordelen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "verontrust zijn",
+        "question": "verontrust zijn",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "verontschuldigen",
+        "question": "verontschuldigen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "verplaatsen",
+        "question": "verplaatsen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "verplichten",
+        "question": "verplichten",
         "answer": "aan",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "verplichten",
+        "question": "verplichten",
         "answer": "tot",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "verraden",
+        "question": "verraden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "verrast",
+        "question": "verrast",
         "answer": "door",
         "otherAnswers": []
     },
     {
-        "word": "verscheiden",
+        "question": "verscheiden",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "verschijnen",
+        "question": "verschijnen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "verschillen",
+        "question": "verschillen",
         "answer": "met",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "verschillen",
+        "question": "verschillen",
         "answer": "van",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "verschuiven",
+        "question": "verschuiven",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "verslaafd zijn",
+        "question": "verslaafd zijn",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "verstand hebben",
+        "question": "verstand hebben",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "versteld staan",
+        "question": "versteld staan",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "versterken",
+        "question": "versterken",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "verstoken zijn",
+        "question": "verstoken zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vertonen",
+        "question": "vertonen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "verstoppen",
+        "question": "verstoppen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "verstoren",
+        "question": "verstoren",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vertalen",
+        "question": "vertalen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "vertellen",
+        "question": "vertellen",
         "answer": "aan",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "vertellen",
+        "question": "vertellen",
         "answer": "tegen",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "vertrekken",
+        "question": "vertrekken",
         "answer": "naar",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "vertrekken",
+        "question": "vertrekken",
         "answer": "uit",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "vertrouwen",
+        "question": "vertrouwen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "vertrouwen stellen",
+        "question": "vertrouwen stellen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "vervaardigen",
+        "question": "vervaardigen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vervallen",
+        "question": "vervallen",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "vervangen",
+        "question": "vervangen",
         "answer": "door",
         "otherAnswers": []
     },
     {
-        "word": "vervreemden",
+        "question": "vervreemden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vervreemd zijn",
+        "question": "vervreemd zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vervoeren",
+        "question": "vervoeren",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "vervolgen",
+        "question": "vervolgen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "vervuld zijn",
+        "question": "vervuld zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vervullen",
+        "question": "vervullen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "verwarren",
+        "question": "verwarren",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "verwerpen",
+        "question": "verwerpen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "verwijderen",
+        "question": "verwijderen",
         "answer": "uit",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "verwijderen",
+        "question": "verwijderen",
         "answer": "van",
         "otherAnswers": [
             "uit"
         ]
     },
     {
-        "word": "verwijzen",
+        "question": "verwijzen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "verwonderen",
+        "question": "verwonderen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "verzinken",
+        "question": "verzinken",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "verzorgen",
+        "question": "verzorgen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "verzekeren",
+        "question": "verzekeren",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "verzetten",
+        "question": "verzetten",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "verzoeken",
+        "question": "verzoeken",
         "answer": "om",
         "otherAnswers": []
     },
     {
-        "word": "(zich) verzoenen",
+        "question": "(zich) verzoenen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "verzot zijn",
+        "question": "verzot zijn",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "vestigen",
+        "question": "vestigen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "vissen",
+        "question": "vissen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "vliegen",
+        "question": "vliegen",
         "answer": "in",
         "otherAnswers": [
             "naar",
@@ -5207,7 +5207,7 @@
         ]
     },
     {
-        "word": "vliegen",
+        "question": "vliegen",
         "answer": "naar",
         "otherAnswers": [
             "in",
@@ -5215,7 +5215,7 @@
         ]
     },
     {
-        "word": "vliegen",
+        "question": "vliegen",
         "answer": "over",
         "otherAnswers": [
             "in",
@@ -5223,7 +5223,7 @@
         ]
     },
     {
-        "word": "vluchten",
+        "question": "vluchten",
         "answer": "naar",
         "otherAnswers": [
             "uit",
@@ -5231,7 +5231,7 @@
         ]
     },
     {
-        "word": "vluchten",
+        "question": "vluchten",
         "answer": "uit",
         "otherAnswers": [
             "naar",
@@ -5239,7 +5239,7 @@
         ]
     },
     {
-        "word": "vluchten",
+        "question": "vluchten",
         "answer": "voor",
         "otherAnswers": [
             "naar",
@@ -5247,159 +5247,159 @@
         ]
     },
     {
-        "word": "voelen",
+        "question": "voelen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "voetballen",
+        "question": "voetballen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "voldoen",
+        "question": "voldoen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "volgen",
+        "question": "volgen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "volharden",
+        "question": "volharden",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "volhouden",
+        "question": "volhouden",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "volstaan",
+        "question": "volstaan",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "voorafgaan",
+        "question": "voorafgaan",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "voorbereiden",
+        "question": "voorbereiden",
         "answer": "op",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "voorbereiden",
+        "question": "voorbereiden",
         "answer": "voor",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "voorbijgaan",
+        "question": "voorbijgaan",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "voorkeur geven",
+        "question": "voorkeur geven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "voorkeur hebben",
+        "question": "voorkeur hebben",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "voorleggen",
+        "question": "voorleggen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "voorlezen",
+        "question": "voorlezen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "voorschrijven",
+        "question": "voorschrijven",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "voorspellen",
+        "question": "voorspellen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "voorsprong hebben",
+        "question": "voorsprong hebben",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "voorstellen",
+        "question": "voorstellen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "voortgaan",
+        "question": "voortgaan",
         "answer": "met",
         "otherAnswers": [
             "tot"
         ]
     },
     {
-        "word": "voortgaan",
+        "question": "voortgaan",
         "answer": "tot",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "voortkomen",
+        "question": "voortkomen",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "voortvloeien",
+        "question": "voortvloeien",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "voortzetten",
+        "question": "voortzetten",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "vooruitlopen",
+        "question": "vooruitlopen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "voorzien",
+        "question": "voorzien",
         "answer": "in",
         "otherAnswers": [
             "van"
         ]
     },
     {
-        "word": "voorzien",
+        "question": "voorzien",
         "answer": "van",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "vraag stellen",
+        "question": "vraag stellen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "vragen",
+        "question": "vragen",
         "answer": "naar",
         "otherAnswers": [
             "om",
@@ -5407,7 +5407,7 @@
         ]
     },
     {
-        "word": "vragen",
+        "question": "vragen",
         "answer": "om",
         "otherAnswers": [
             "naar",
@@ -5415,7 +5415,7 @@
         ]
     },
     {
-        "word": "vragen",
+        "question": "vragen",
         "answer": "over",
         "otherAnswers": [
             "naar",
@@ -5423,308 +5423,308 @@
         ]
     },
     {
-        "word": "vrijen",
+        "question": "vrijen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "vrijspreken",
+        "question": "vrijspreken",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vrijstellen",
+        "question": "vrijstellen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "vullen",
+        "question": "vullen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "waarschuwen",
+        "question": "waarschuwen",
         "answer": "tegen",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "waarschuwen",
+        "question": "waarschuwen",
         "answer": "voor",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "wachten",
+        "question": "wachten",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "(zich) wagen",
+        "question": "(zich) wagen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "waken",
+        "question": "waken",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "walgen",
+        "question": "walgen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "waken",
+        "question": "waken",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "wandelen",
+        "question": "wandelen",
         "answer": "in",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "wandelen",
+        "question": "wandelen",
         "answer": "naar",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "wanhopen",
+        "question": "wanhopen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "wapperen",
+        "question": "wapperen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "wedden",
+        "question": "wedden",
         "answer": "om",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "wedden",
+        "question": "wedden",
         "answer": "op",
         "otherAnswers": [
             "om"
         ]
     },
     {
-        "word": "weerhouden",
+        "question": "weerhouden",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "weggaan",
+        "question": "weggaan",
         "answer": "met",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "weggaan",
+        "question": "weggaan",
         "answer": "naar",
         "otherAnswers": [
             "met"
         ]
     },
     {
-        "word": "weghalen",
+        "question": "weghalen",
         "answer": "uit",
         "otherAnswers": []
     },
     {
-        "word": "wemelen",
+        "question": "wemelen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "wenen",
+        "question": "wenen",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "wenden",
+        "question": "wenden",
         "answer": "tot",
         "otherAnswers": []
     },
     {
-        "word": "wennen",
+        "question": "wennen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "werk overdragen",
+        "question": "werk overdragen",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "werken",
+        "question": "werken",
         "answer": "aan",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "werken",
+        "question": "werken",
         "answer": "voor",
         "otherAnswers": [
             "aan"
         ]
     },
     {
-        "word": "werpen",
+        "question": "werpen",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "(zich) werpen",
+        "question": "(zich) werpen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "(zich) wijden",
+        "question": "(zich) wijden",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "wijken",
+        "question": "wijken",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "wijten",
+        "question": "wijten",
         "answer": "aan",
         "otherAnswers": []
     },
     {
-        "word": "wijzen",
+        "question": "wijzen",
         "answer": "naar",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "wijzen",
+        "question": "wijzen",
         "answer": "op",
         "otherAnswers": [
             "naar"
         ]
     },
     {
-        "word": "wikkelen",
+        "question": "wikkelen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "winnen",
+        "question": "winnen",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "wonen",
+        "question": "wonen",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "worstelen",
+        "question": "worstelen",
         "answer": "met",
         "otherAnswers": []
     },
     {
-        "word": "wuiven",
+        "question": "wuiven",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "zaaien",
+        "question": "zaaien",
         "answer": "in",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "zaaien",
+        "question": "zaaien",
         "answer": "op",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "zakken",
+        "question": "zakken",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "zeggen",
+        "question": "zeggen",
         "answer": "tegen",
         "otherAnswers": []
     },
     {
-        "word": "zeker zijn",
+        "question": "zeker zijn",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "zenden",
+        "question": "zenden",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "zetten",
+        "question": "zetten",
         "answer": "in",
         "otherAnswers": [
             "op"
         ]
     },
     {
-        "word": "zetten",
+        "question": "zetten",
         "answer": "op",
         "otherAnswers": [
             "in"
         ]
     },
     {
-        "word": "zeuren",
+        "question": "zeuren",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "zin hebben",
+        "question": "zin hebben",
         "answer": "in",
         "otherAnswers": []
     },
     {
-        "word": "zingen",
+        "question": "zingen",
         "answer": "over",
         "otherAnswers": [
             "voor"
         ]
     },
     {
-        "word": "zingen",
+        "question": "zingen",
         "answer": "voor",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "zinnen",
+        "question": "zinnen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "zitten",
+        "question": "zitten",
         "answer": "bij",
         "otherAnswers": [
             "in",
@@ -5735,7 +5735,7 @@
         ]
     },
     {
-        "word": "zitten",
+        "question": "zitten",
         "answer": "in",
         "otherAnswers": [
             "bij",
@@ -5746,7 +5746,7 @@
         ]
     },
     {
-        "word": "zitten",
+        "question": "zitten",
         "answer": "naast",
         "otherAnswers": [
             "bij",
@@ -5757,7 +5757,7 @@
         ]
     },
     {
-        "word": "zitten",
+        "question": "zitten",
         "answer": "om",
         "otherAnswers": [
             "bij",
@@ -5768,7 +5768,7 @@
         ]
     },
     {
-        "word": "zitten",
+        "question": "zitten",
         "answer": "op",
         "otherAnswers": [
             "bij",
@@ -5779,7 +5779,7 @@
         ]
     },
     {
-        "word": "zitten",
+        "question": "zitten",
         "answer": "rond",
         "otherAnswers": [
             "bij",
@@ -5790,46 +5790,46 @@
         ]
     },
     {
-        "word": "zoeken",
+        "question": "zoeken",
         "answer": "naar",
         "otherAnswers": []
     },
     {
-        "word": "zorgen maken",
+        "question": "zorgen maken",
         "answer": "over",
         "otherAnswers": []
     },
     {
-        "word": "zorgen",
+        "question": "zorgen",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "zuchten",
+        "question": "zuchten",
         "answer": "over",
         "otherAnswers": [
             "tegen"
         ]
     },
     {
-        "word": "zuchten",
+        "question": "zuchten",
         "answer": "tegen",
         "otherAnswers": [
             "over"
         ]
     },
     {
-        "word": "zuigen",
+        "question": "zuigen",
         "answer": "op",
         "otherAnswers": []
     },
     {
-        "word": "zuiveren",
+        "question": "zuiveren",
         "answer": "van",
         "otherAnswers": []
     },
     {
-        "word": "zwemmen",
+        "question": "zwemmen",
         "answer": "door",
         "otherAnswers": [
             "in",
@@ -5837,7 +5837,7 @@
         ]
     },
     {
-        "word": "zwemmen",
+        "question": "zwemmen",
         "answer": "in",
         "otherAnswers": [
             "door",
@@ -5845,7 +5845,7 @@
         ]
     },
     {
-        "word": "zwemmen",
+        "question": "zwemmen",
         "answer": "naar",
         "otherAnswers": [
             "door",
@@ -5853,22 +5853,22 @@
         ]
     },
     {
-        "word": "zweren",
+        "question": "zweren",
         "answer": "bij",
         "otherAnswers": []
     },
     {
-        "word": "zwerven",
+        "question": "zwerven",
         "answer": "door",
         "otherAnswers": []
     },
     {
-        "word": "zwichten",
+        "question": "zwichten",
         "answer": "voor",
         "otherAnswers": []
     },
     {
-        "word": "zwijgen",
+        "question": "zwijgen",
         "answer": "over",
         "otherAnswers": []
     }
