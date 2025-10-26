@@ -6,6 +6,7 @@ import DeHet from './deHet/DeHet';
 import { useState } from 'react';
 import ChooseActivityModal from './shared/ChooseActivityModal';
 import ZijnHebben from './zijnHebben/ZijnHebben';
+import Expressions from './expressions/Expressions';
 
 
 const LinksList = () => {
@@ -20,6 +21,9 @@ const LinksList = () => {
       </li>
       <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
         <Link className="nav-link" to="/zijn-hebben">Zijn/Hebben</Link>
+      </li>
+      <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
+        <Link className="nav-link" to="/expressions">Expressions</Link>
       </li>
     </ul>
   )
@@ -45,6 +49,7 @@ const App = () => {
             <Route path="/" element={<Prepositions />} />
             <Route path="/de-het" element={<DeHet />} />
             <Route path="/zijn-hebben" element={<ZijnHebben />} />
+            <Route path="/expressions" element={<Expressions />} />
           </Routes>
         </div>
         {isMobile &&
