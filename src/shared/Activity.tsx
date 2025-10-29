@@ -86,7 +86,7 @@ const Activity = (props: {
             {answer ?
                 answer === questions[questionNumber].answer ?
                     <p>Correct!</p> :
-                    <p>Unfortunate.  Your answer: {answer}.  Correct answer: {questions[questionNumber].answer}</p>
+                    <p>Your answer: {answer}  <br/> Correct answer: {questions[questionNumber].answer}</p>
                 :
                 <></>
             }
