@@ -26,7 +26,7 @@ const LinksList = ({ onClick } : linksListModalProps) => {
       <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
         <Link className="nav-link" to="/zijn-hebben" onClick={onClick}>Zijn/Hebben</Link>
       </li>
-      <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
+      <li className={`nav-item mb-2 ${location.pathname === '/expressions' ? 'fw-bold' : ''}`}>
         <Link className="nav-link" to="/expressions" onClick={onClick}>Expressions</Link>
       </li>
     </ul>
