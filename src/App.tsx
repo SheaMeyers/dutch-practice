@@ -23,9 +23,9 @@ const LinksList = ({ onClick } : linksListModalProps) => {
       <li className={`nav-item mb-2 ${location.pathname === '/de-het' ? 'fw-bold' : ''}`}>
         <Link className="nav-link" to="/de-het" onClick={onClick}>De/Het</Link>
       </li>
-      <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
+      {/* <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
         <Link className="nav-link" to="/zijn-hebben" onClick={onClick}>Zijn/Hebben</Link>
-      </li>
+      </li> */}
       <li className={`nav-item mb-2 ${location.pathname === '/expressions' ? 'fw-bold' : ''}`}>
         <Link className="nav-link" to="/expressions" onClick={onClick}>Expressions</Link>
       </li>
@@ -52,7 +52,7 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Prepositions />} />
             <Route path="/de-het" element={<DeHet />} />
-            <Route path="/zijn-hebben" element={<ZijnHebben />} />
+            {/* <Route path="/zijn-hebben" element={<ZijnHebben />} /> */}
             <Route path="/expressions" element={<Expressions />} />
           </Routes>
         </div>
