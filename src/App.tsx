@@ -44,37 +44,41 @@ const Sidebar = () =>
 const App = () => {
   const isMobile = window.matchMedia("(max-width: 767px)").matches;
   const [showModal, setShowModal] = useState<boolean>(false)
+
+  window.location.href = 'https://dutchpractice.com/';
+
   return (
-    <BrowserRouter>
-      <div className={'main' + (isMobile ? ' main--mobile' : '')}>
-        {!isMobile && <Sidebar />}
-        <div className='flex-grow-1'>
-          <Routes>
-            <Route path="/" element={<Prepositions />} />
-            <Route path="/de-het" element={<DeHet />} />
-            {/* <Route path="/zijn-hebben" element={<ZijnHebben />} /> */}
-            <Route path="/expressions" element={<Expressions />} />
-          </Routes>
-        </div>
-        {isMobile &&
-          <>
-            <button
-              className='btn btn-primary mt-4'
-              onClick={() => setShowModal(true)}
-            >
-              Open Activies Menu
-            </button>
-            {
-              showModal &&
-              <ChooseActivityModal
-                LinksList={LinksList}
-                onClick={() => setShowModal(false)}
-              />
-            }
-          </>
-        }
-      </div>
-    </BrowserRouter>
+    <p>Redirecting to <a href='https://dutchpractice.com/'>dutchpractice.com</a></p>
+    // <BrowserRouter>
+    //   <div className={'main' + (isMobile ? ' main--mobile' : '')}>
+    //     {!isMobile && <Sidebar />}
+    //     <div className='flex-grow-1'>
+    //       <Routes>
+    //         <Route path="/" element={<Prepositions />} />
+    //         <Route path="/de-het" element={<DeHet />} />
+    //         {/* <Route path="/zijn-hebben" element={<ZijnHebben />} /> */}
+    //         <Route path="/expressions" element={<Expressions />} />
+    //       </Routes>
+    //     </div>
+    //     {isMobile &&
+    //       <>
+    //         <button
+    //           className='btn btn-primary mt-4'
+    //           onClick={() => setShowModal(true)}
+    //         >
+    //           Open Activies Menu
+    //         </button>
+    //         {
+    //           showModal &&
+    //           <ChooseActivityModal
+    //             LinksList={LinksList}
+    //             onClick={() => setShowModal(false)}
+    //           />
+    //         }
+    //       </>
+    //     }
+    //   </div>
+    // </BrowserRouter>window.location.href = 'http://your-website.com';
   )
 }
 
