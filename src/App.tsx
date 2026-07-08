@@ -1,6 +1,6 @@
 import './index.css';
 import './App.css'
-import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router';
+import { HashRouter, Routes, Route, Link, useLocation } from 'react-router';
 import Prepositions from './prepositions/Prepositions';
 import PrepositionsSentences from './prepositionsSentences/PrepositionsSentences';
 import DeHet from './deHet/DeHet';
@@ -45,7 +45,7 @@ const Sidebar = () =>
 const App = () => {
   const [showModal, setShowModal] = useState<boolean>(false)
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className={'main' + (isMobile ? ' main--mobile' : '')}>
         {!isMobile && <Sidebar />}
         <div className='flex-grow-1'>
@@ -76,7 +76,7 @@ const App = () => {
           </>
         }
       </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
