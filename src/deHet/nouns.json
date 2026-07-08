@@ -177,7 +177,7 @@
     {
         "question": "accent",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "achtergrond",
@@ -342,7 +342,7 @@
     {
         "question": "akkoord",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "alarm",
@@ -492,7 +492,7 @@
     {
         "question": "artikel",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "arts",
@@ -502,7 +502,7 @@
     {
         "question": "as",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "asfalt",
@@ -637,7 +637,7 @@
     {
         "question": "bank",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "bar",
@@ -937,7 +937,7 @@
     {
         "question": "beslag",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "beslissing",
@@ -962,7 +962,7 @@
     {
         "question": "bestand",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "bestelling",
@@ -1092,7 +1092,7 @@
     {
         "question": "bezetting",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "bezigheid",
@@ -1192,7 +1192,7 @@
     {
         "question": "blad",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "bladzijde",
@@ -1297,7 +1297,7 @@
     {
         "question": "boog",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "boom",
@@ -1657,7 +1657,7 @@
     {
         "question": "cijfer",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "cirkel",
@@ -2032,7 +2032,7 @@
     {
         "question": "deelstaat",
         "answer": "de",
-        "englishTranslation": "(federal)"
+        "englishTranslation": "state (federal)"
     },
     {
         "question": "defensie",
@@ -2527,7 +2527,7 @@
     {
         "question": "effect",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "ei",
@@ -2957,7 +2957,7 @@
     {
         "question": "fractie",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "fragment",
@@ -3272,7 +3272,7 @@
     {
         "question": "gerecht",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "geschenk",
@@ -3932,7 +3932,7 @@
     {
         "question": "hoop",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "hoorn",
@@ -4112,7 +4112,7 @@
     {
         "question": "ingreep",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "inhoud",
@@ -4177,7 +4177,7 @@
     {
         "question": "instelling",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "instituut",
@@ -4272,12 +4272,12 @@
     {
         "question": "jacht",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "jaloezie",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "januari",
@@ -4327,12 +4327,12 @@
     {
         "question": "juf",
         "answer": "de",
-        "englishTranslation": "(female)"
+        "englishTranslation": "teacher (female)"
     },
     {
         "question": "juffrouw",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "juli",
@@ -4512,7 +4512,7 @@
     {
         "question": "kas",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "kassa",
@@ -4577,7 +4577,7 @@
     {
         "question": "kennis",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "kerel",
@@ -4892,7 +4892,7 @@
     {
         "question": "kop",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "kopie",
@@ -5402,7 +5402,7 @@
     {
         "question": "luik",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "luisteraar",
@@ -5857,7 +5857,7 @@
     {
         "question": "model",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "moed",
@@ -5897,7 +5897,7 @@
     {
         "question": "monster",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "monument",
@@ -6047,7 +6047,7 @@
     {
         "question": "namiddag",
         "answer": "de",
-        "englishTranslation": "(late)"
+        "englishTranslation": "(late)afternoon"
     },
     {
         "question": "natie",
@@ -6172,7 +6172,7 @@
     {
         "question": "noot",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "norm",
@@ -6555,7 +6555,7 @@
         "englishTranslation": "opposition"
     },
     {
-        "question": "(54)oprichter",
+        "question": "oprichter",
         "answer": "de",
         "englishTranslation": "founder"
     },
@@ -6837,7 +6837,7 @@
     {
         "question": "parket",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "parking",
@@ -6867,7 +6867,7 @@
     {
         "question": "pas",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "paspoort",
@@ -6957,7 +6957,7 @@
     {
         "question": "pers",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "persconferentie",
@@ -7047,7 +7047,7 @@
     {
         "question": "plaat",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "plaats",
@@ -7205,7 +7205,7 @@
         "englishTranslation": "popularity"
     },
     {
-        "question": "(419)portefeuille",
+        "question": "portefeuille",
         "answer": "de",
         "englishTranslation": "wallet"
     },
@@ -7457,7 +7457,7 @@
     {
         "question": "punt",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "put",
@@ -7777,7 +7777,7 @@
     {
         "question": "riem",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "rij",
@@ -7962,7 +7962,7 @@
     {
         "question": "schaal",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "schaamte",
@@ -8047,7 +8047,7 @@
     {
         "question": "schijf",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "schilder",
@@ -8112,7 +8112,7 @@
     {
         "question": "schrift",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "schrijfster",
@@ -8132,7 +8132,7 @@
     {
         "question": "schuld",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "schuldgevoel",
@@ -8157,7 +8157,7 @@
     {
         "question": "secretaresse",
         "answer": "de",
-        "englishTranslation": "(female)"
+        "englishTranslation": "secretary (female)"
     },
     {
         "question": "secretaris",
@@ -8292,7 +8292,7 @@
     {
         "question": "slang",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "sleutel",
@@ -8452,7 +8452,7 @@
     {
         "question": "spoor",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "sport",
@@ -8467,7 +8467,7 @@
     {
         "question": "spot",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "spraak",
@@ -8537,7 +8537,7 @@
     {
         "question": "staf",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "stage",
@@ -8562,7 +8562,7 @@
     {
         "question": "stand",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "standbeeld",
@@ -8627,12 +8627,12 @@
     {
         "question": "stelling",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "stemming",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "ster",
@@ -8742,7 +8742,7 @@
     {
         "question": "streek",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "streep",
@@ -8777,7 +8777,7 @@
     {
         "question": "stroom",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "structuur",
@@ -8917,7 +8917,7 @@
     {
         "question": "tank",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "tante",
@@ -9252,7 +9252,7 @@
     {
         "question": "ton",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "toneel",
@@ -9377,7 +9377,7 @@
     {
         "question": "troep",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "troon",
@@ -9607,7 +9607,7 @@
     {
         "question": "vaderland",
         "answer": "het",
-        "englishTranslation": "(native)"
+        "englishTranslation": ""
     },
     {
         "question": "vak",
@@ -9652,12 +9652,12 @@
     {
         "question": "vat",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "veer",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "veiligheid",
@@ -9707,7 +9707,7 @@
     {
         "question": "verband",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "verbazing",
@@ -9832,7 +9832,7 @@
     {
         "question": "verhouding",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "verjaardag",
@@ -9907,7 +9907,7 @@
     {
         "question": "vermogen",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "vernieuwing",
@@ -10017,7 +10017,7 @@
     {
         "question": "vertrek",
         "answer": "het",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "vertrouwen",
@@ -10207,7 +10207,7 @@
     {
         "question": "vlucht",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "vluchteling",
@@ -10477,7 +10477,7 @@
     {
         "question": "vriendin",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "vrijdag",
@@ -10957,7 +10957,7 @@
     {
         "question": "wortel",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "wraak",
@@ -10972,7 +10972,7 @@
     {
         "question": "zaak",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "zaal",
@@ -11007,7 +11007,7 @@
     {
         "question": "zangeres",
         "answer": "de",
-        "englishTranslation": "(female)"
+        "englishTranslation": "singers (female)"
     },
     {
         "question": "zaterdag",
@@ -11057,7 +11057,7 @@
     {
         "question": "zender",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "zenuw",
@@ -11107,7 +11107,7 @@
     {
         "question": "zin",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "zoektocht",
@@ -11162,7 +11162,7 @@
     {
         "question": "zorg",
         "answer": "de",
-        "englishTranslation": "a)"
+        "englishTranslation": ""
     },
     {
         "question": "zout",

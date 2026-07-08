@@ -2,12 +2,13 @@ import './index.css';
 import './App.css'
 import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router';
 import Prepositions from './prepositions/Prepositions';
+import PrepositionsSentences from './prepositionsSentences/PrepositionsSentences';
 import DeHet from './deHet/DeHet';
 import { useState } from 'react';
 import ChooseActivityModal from './shared/ChooseActivityModal';
-import ZijnHebben from './zijnHebben/ZijnHebben';
 import Expressions from './expressions/Expressions';
 
+const isMobile = window.matchMedia("(max-width: 767px)").matches;
 
 type linksListModalProps = {
     onClick?: () => void;
@@ -16,16 +17,16 @@ type linksListModalProps = {
 const LinksList = ({ onClick } : linksListModalProps) => {
   const location = useLocation()
   return (
-    <ul className="nav flex-column">
+    <ul className={`nav flex-column ${isMobile ? '' : 'text-start ps-1'}`}>
       <li className={`nav-item mb-2 ${location.pathname === '/' ? 'fw-bold' : ''}`}>
-        <Link className="nav-link" to="/" onClick={onClick}>Prepositions</Link>
+        <Link className="nav-link" to="/" onClick={onClick}>De / Het</Link>
       </li>
-      <li className={`nav-item mb-2 ${location.pathname === '/de-het' ? 'fw-bold' : ''}`}>
-        <Link className="nav-link" to="/de-het" onClick={onClick}>De/Het</Link>
+      <li className={`nav-item mb-2 ${location.pathname === '/prepositions-verbs' ? 'fw-bold' : ''}`}>
+        <Link className="nav-link" to="/prepositions-verbs" onClick={onClick}>Prepositions: Verbs</Link>
       </li>
-      {/* <li className={`nav-item mb-2 ${location.pathname === '/zijn-hebben' ? 'fw-bold' : ''}`}>
-        <Link className="nav-link" to="/zijn-hebben" onClick={onClick}>Zijn/Hebben</Link>
-      </li> */}
+      <li className={`nav-item mb-2 ${location.pathname === '/prepositions-sentences' ? 'fw-bold' : ''}`}>
+        <Link className="nav-link" to="/prepositions-sentences" onClick={onClick}>Prepositions: Sentences</Link>
+      </li>
       <li className={`nav-item mb-2 ${location.pathname === '/expressions' ? 'fw-bold' : ''}`}>
         <Link className="nav-link" to="/expressions" onClick={onClick}>Expressions</Link>
       </li>
@@ -42,43 +43,40 @@ const Sidebar = () =>
 
 
 const App = () => {
-  const isMobile = window.matchMedia("(max-width: 767px)").matches;
   const [showModal, setShowModal] = useState<boolean>(false)
-
-  window.location.href = 'https://dutchpractice.com/';
-
   return (
-    <p>Redirecting to <a href='https://dutchpractice.com/'>dutchpractice.com</a></p>
-    // <BrowserRouter>
-    //   <div className={'main' + (isMobile ? ' main--mobile' : '')}>
-    //     {!isMobile && <Sidebar />}
-    //     <div className='flex-grow-1'>
-    //       <Routes>
-    //         <Route path="/" element={<Prepositions />} />
-    //         <Route path="/de-het" element={<DeHet />} />
-    //         {/* <Route path="/zijn-hebben" element={<ZijnHebben />} /> */}
-    //         <Route path="/expressions" element={<Expressions />} />
-    //       </Routes>
-    //     </div>
-    //     {isMobile &&
-    //       <>
-    //         <button
-    //           className='btn btn-primary mt-4'
-    //           onClick={() => setShowModal(true)}
-    //         >
-    //           Open Activies Menu
-    //         </button>
-    //         {
-    //           showModal &&
-    //           <ChooseActivityModal
-    //             LinksList={LinksList}
-    //             onClick={() => setShowModal(false)}
-    //           />
-    //         }
-    //       </>
-    //     }
-    //   </div>
-    // </BrowserRouter>window.location.href = 'http://your-website.com';
+    <BrowserRouter>
+      <div className={'main' + (isMobile ? ' main--mobile' : '')}>
+        {!isMobile && <Sidebar />}
+        <div className='flex-grow-1'>
+          <Routes>
+            <Route path="/" element={<DeHet />} />
+            <Route path="/prepositions-verbs" element={<Prepositions />} />
+            <Route path="/prepositions-sentences" element={<PrepositionsSentences />} />
+            <Route path="/expressions" element={<Expressions />} />
+            {/* If no matching just show default DeHet  */}
+            <Route path="*" element={<DeHet />} />
+          </Routes>
+        </div>
+        {isMobile &&
+          <>
+            <button
+              className='btn btn-primary mt-4'
+              onClick={() => setShowModal(true)}
+            >
+              Open Activies Menu
+            </button>
+            {
+              showModal &&
+              <ChooseActivityModal
+                LinksList={LinksList}
+                onClick={() => setShowModal(false)}
+              />
+            }
+          </>
+        }
+      </div>
+    </BrowserRouter>
   )
 }
 

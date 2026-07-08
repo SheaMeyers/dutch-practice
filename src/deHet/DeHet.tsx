@@ -9,6 +9,7 @@ const getOptions = (..._: any[]): string[] => ['de', 'het']
 
 const DeHet = () =>     
     <Activity
+        documentTitle='Dutch De / Het Practice'
         questions={nouns}
         questionKey='deHetQuestionKey'
         orderingKey='deHetOrderingKey'

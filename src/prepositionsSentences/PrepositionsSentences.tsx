@@ -1,6 +1,6 @@
 import { Question } from "../shared/Activity.types";
 import Activity from '../shared/Activity';
-import prepositionsJson from "./prepositions.json";
+import prepositionsJson from "./prepositionsSentences.json";
 
 const prepositions: Question[] = prepositionsJson
 
@@ -34,14 +34,14 @@ const getOptions = (correctAnswer: string, otherAnswers: string[]): string[] => 
 }
 
 
-const Prepositions = () => 
+const PrepositionsSentences = () => 
     <Activity
-        documentTitle='Dutch Verb Prepositions Practice'
+        documentTitle='Dutch Sentences Prepositions Practice'
         questions={prepositions}
-        questionKey='questionKey'
-        orderingKey='orderingKey'
+        questionKey='prepositionsSentencesQuestionKey'
+        orderingKey='prepositionsSentencesOrderingKey'
         getOptions={getOptions}
     />
 
 
-export default Prepositions
+export default PrepositionsSentences

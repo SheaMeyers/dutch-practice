@@ -27,17 +27,20 @@ const getInitialState = (
 
 
 const Activity = (props: {
+    documentTitle: string
     questions: Question[]
     questionKey: string
     orderingKey: string
     getOptions: (...args: any[]) => string[]
 }) => {
 
-    const { questions, questionKey, orderingKey, getOptions } = props
+    const { documentTitle, questions, questionKey, orderingKey, getOptions } = props
     const reducer = activityReducer(questions, questionKey, orderingKey, getOptions)
     const initialState = getInitialState(questions, questionKey, orderingKey, getOptions)
     const [state, dispatch] = useReducer(reducer, initialState)
     const { options, questionNumber, answer, ordering, showEndModal } = state
+
+    document.title = documentTitle
 
     return (
         <div className="Component">
@@ -69,7 +72,7 @@ const Activity = (props: {
             </div>
 
             {ordering === 'ordered' && <p>Question {questionNumber+1} of {questions.length}</p>}
-            <p className="h3 Question">{questions[questionNumber].question}</p>
+            <h1 className="h3 Question">{questions[questionNumber].question}</h1>
             <div className="Choices">
                 {options.map(option =>
                     <button
